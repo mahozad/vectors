@@ -142,6 +142,7 @@
         <circle cx="94" cy="246" r="8" fill="#fff" stroke="#000" stroke-linejoin="round"/>
         <circle cx="94" cy="246" r="8" fill="url(#pattern4893-4-28)" opacity=".5"/>
       </g>
+      <rect x="368" y="208" width="20" height="208" fill="url(#linearGradient102224)" stop-color="#000000" style="font-variation-settings:normal"/>
       <path d="m342 92-22 44v4h38v60h10v-56l4-4h12l4 4v230h24l8-12v-28h-18l-4-4v-190h38v-4l-22-44zm16 116v122l-4 4h-18v28l8 12h24v-166z" fill="#fff" stroke="#000" stroke-width="1.5"/>
       <path d="m342 92-22 44v4h38v60h10v-56l4-4h12l4 4v230h24l8-12v-28h-18l-4-4v-190h38v-4l-22-44zm16 116v122l-4 4h-18v28l8 12h24v-166z" fill="url(#pattern4885-3)" opacity=".5"/>
       <g transform="rotate(4.4918 -786.62 3433.8)">
@@ -179,7 +180,6 @@
         <circle cx="94" cy="246" r="8" fill="#fff" stroke="#000" stroke-linejoin="round"/>
         <circle cx="94" cy="246" r="8" fill="url(#pattern4893-4-28-8-6)" opacity=".5"/>
       </g>
-      <rect x="368" y="208" width="20" height="208" fill="url(#linearGradient102224)" stop-color="#000000" style="font-variation-settings:normal"/>
     </g>
   </g>
   <g display="none">

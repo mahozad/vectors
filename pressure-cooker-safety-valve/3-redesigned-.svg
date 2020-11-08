@@ -522,9 +522,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="116.59702"
-     inkscape:cy="252.91798"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="10.393283"
+     inkscape:cy="313.79419"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
@@ -845,6 +845,13 @@
            cy="246"
            r="8" />
       </g>
+      <rect
+         style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#linearGradient102224);fill-opacity:1;stroke:none;stroke-width:1.52595;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="rect102174-6"
+         width="20"
+         height="208"
+         x="368"
+         y="208" />
       <path
          id="path864-6"
          style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1009,13 +1016,6 @@
            cy="246"
            r="8" />
       </g>
-      <rect
-         style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#linearGradient102224);fill-opacity:1;stroke:none;stroke-width:1.52595;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-         id="rect102174-6"
-         width="20"
-         height="208"
-         x="368"
-         y="208" />
     </g>
   </g>
   <g
