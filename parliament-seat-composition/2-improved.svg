@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="360" height="185">
   <g>
-    <text x="178" y="180" font-size="36" font-weight="bold" font-family="B-Nazanin, sans-serif" text-anchor="middle">۲۸۵</text>
+    <text id="count" x="178" y="180" font-size="36" font-family="sans-serif" text-anchor="middle">285</text>
     <g fill="#7EC8A6" id="آذربایجانشرقی">
       <circle cx="10.61" cy="175.56" r="4.44"/>
       <circle cx="21.73" cy="175.56" r="4.44"/>
