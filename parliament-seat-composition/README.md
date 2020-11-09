@@ -4,4 +4,4 @@ Created with [this tool](https://parliamentdiagram.toolforge.org/parlitest.php) 
 
 Used in [this wikipedia page]()
 
-Note that wikipedia does NOT allow to upload SVGs that contain scripts
+Note that wikipedia does NOT allow uploading SVGs that contain scripts
