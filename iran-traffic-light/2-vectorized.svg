@@ -411,9 +411,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="217.48471"
-     inkscape:cy="21.968408"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="141.17552"
+     inkscape:cy="59.884038"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
@@ -725,7 +725,7 @@
          r="65" />
     </g>
     <path
-       style="fill:#4b4b52;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#424247;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 180,27.999999 200,24 h 111.99999 l 20,3.999999"
        id="path2809"
        sodipodi:nodetypes="cccc" />
