@@ -403,19 +403,6 @@
        gradientUnits="userSpaceOnUse"
        spreadMethod="reflect"
        gradientTransform="translate(-352.00002,167.99999)" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter2357"
-       x="-1.2001245e-06"
-       width="1.0000024"
-       y="-1.1998756e-06"
-       height="1.0000024">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="5.9903248e-05"
-         id="feGaussianBlur2359" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -593,7 +580,7 @@
       <g
          id="g2244-3"
          transform="translate(218.29715,141.70151)"
-         style="fill:#12bd45;fill-opacity:1;filter:url(#filter2357)">
+         style="fill:#12bd45;fill-opacity:1;">
         <path
            style="fill:#12bd45;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
            id="path1227-3"
