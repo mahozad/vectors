@@ -424,9 +424,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="273.89542"
-     inkscape:cy="269.38934"
+     inkscape:zoom="45.254834"
+     inkscape:cx="323.41635"
+     inkscape:cy="490.81229"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
@@ -470,7 +470,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -481,37 +481,37 @@
     <rect
        style="opacity:1;fill:url(#linearGradient2652-6);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:13.8564;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect2614-6-6"
-       width="144"
-       height="12.000013"
-       x="184"
+       width="152"
+       height="11.999993"
+       x="180"
        y="332" />
     <rect
        style="opacity:1;fill:url(#linearGradient2652);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:13.8564;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect2614-6"
-       width="144"
-       height="12.000013"
-       x="184"
+       width="152"
+       height="11.999996"
+       x="180"
        y="176" />
     <rect
        style="opacity:1;fill:#333338;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12.3288;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect2585"
-       width="144"
-       height="152"
-       x="184"
+       width="152"
+       height="151.99998"
+       x="180"
        y="340" />
     <rect
        style="opacity:1;fill:#333338;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12.3288;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect2585-4"
-       width="144"
+       width="152"
        height="152"
-       x="184"
+       x="180"
        y="184" />
     <rect
        style="opacity:1;fill:#333338;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12.3288;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect2585-9"
-       width="144"
+       width="152"
        height="152"
-       x="184"
+       x="180"
        y="28" />
     <g
        id="g2763"
