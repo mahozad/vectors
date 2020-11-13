@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="412.65608"
-     inkscape:cy="158.42547"
+     inkscape:cx="234.2054"
+     inkscape:cy="210.87911"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
@@ -46,16 +46,16 @@
      inkscape:guide-bbox="true"
      inkscape:snap-to-guides="true"
      inkscape:lockguides="false"
-     inkscape:snap-bbox="false"
-     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:bbox-nodes="false"
      inkscape:bbox-paths="false"
-     inkscape:snap-smooth-nodes="false"
-     inkscape:snap-object-midpoints="false"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-object-midpoints="true"
      inkscape:object-nodes="true"
      inkscape:snap-nodes="true"
-     inkscape:snap-intersection-paths="false"
+     inkscape:snap-intersection-paths="true"
      inkscape:snap-midpoints="true">
     <inkscape:grid
        type="xygrid"
@@ -137,7 +137,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="bg"
-     style="display:inline;opacity:0.452703"
+     style="display:none;opacity:0.452703"
      sodipodi:insensitive="true">
     <image
        width="500"
@@ -748,18 +748,15 @@ OjAwSrruRQAAAABJRU5ErkJggg==
      id="layer3"
      inkscape:label="circle"
      style="display:inline">
-    <circle
-       style="display:inline;fill:#1bf4ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+    <path
        id="path24"
-       cx="-362.03857"
-       cy="0.28258619"
-       r="235"
-       transform="rotate(-134.95528)" />
+       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="M 255.55859 20 A 236 236 0 0 0 89.253906 88.992188 A 236 236 0 0 0 88.992188 422.74609 A 236 236 0 0 0 422.74609 423.00781 A 236 236 0 0 0 423.00781 89.253906 A 236 236 0 0 0 255.55859 20 z M 257.83984 21.005859 C 317.7742 21.490503 377.2268 44.814996 422.30078 89.958984 C 514.00208 181.80387 513.88572 330.59741 422.04102 422.29883 A 117.5 117.5 0 0 1 255.87109 422.16992 A 117.5 117.5 0 0 1 256 256 C 302.412 209.6612 302.47056 134.47162 256.13086 88.060547 C 219.04646 50.920011 161.97884 42.529358 115.77344 67.423828 C 158.1892 35.88278 208.17995 20.604297 257.83984 21.005859 z " />
     <circle
        style="display:inline;fill:#ff1b58;fill-opacity:0.5;fill-rule:evenodd;stroke-width:1.01064;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
        id="path871-7"
-       cx="-243.28857"
-       cy="0.28258619"
+       cx="350.48999"
+       cy="-244.83989"
        transform="rotate(-134.95528)"
        r="118.75" />
     <circle
@@ -772,28 +769,42 @@ OjAwSrruRQAAAABJRU5ErkJggg==
     <circle
        style="display:inline;fill:#1bf4ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="path24-1"
-       cx="-608.41504"
-       cy="-714.52533"
+       cx="-503.52042"
+       cy="-849.60724"
        r="235"
        transform="rotate(-134.95528)" />
     <circle
-       style="display:inline;fill:#ff1b58;fill-opacity:0.5;fill-rule:evenodd;stroke-width:1.01064;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       style="display:inline;fill:#ff1b58;fill-opacity:0.5;fill-rule:evenodd;stroke-width:0.911;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
        id="path871-7-2"
-       cx="-480.78857"
-       cy="0.28258619"
+       cx="112.98998"
+       cy="-244.83989"
        transform="rotate(-134.95528)"
        r="118.75" />
-    <circle
-       style="display:inline;fill:#806954;fill-opacity:1;fill-rule:evenodd;stroke-width:1.01064;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
-       id="path871-7-3-5"
-       cx="-162.9389"
-       cy="1342.1542"
-       transform="rotate(45.04472)"
-       r="118.75" />
     <path
-       id="path24-2-6-7"
+       id="path24-2-6-7-4"
        style="display:inline;fill:#806954;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="m 422.04197,422.29973 c 91.8447,-91.70142 91.961,-240.49495 0.2597,-332.33984 -82.421,-82.549 -212.92012,-92.14299 -306.52733,-22.53516 46.20541,-24.89446 103.27302,-16.50382 140.35743,20.63672 46.3397,46.41108 46.2811,121.60066 -0.13086,167.93946"
+       d="m -591.28123,1303.7372 c 91.8447,-91.7014 91.961,-240.4949 0.2597,-332.3398 -82.421,-82.549 -212.92012,-92.14298 -306.52733,-22.53516 46.20541,-24.89446 103.27302,-16.50382 140.35743,20.63672 46.3397,46.41104 46.2811,121.60064 -0.13086,167.93944"
        sodipodi:nodetypes="ccccc" />
+    <path
+       style="display:inline;fill:#ff1b58;fill-opacity:0.5;fill-rule:evenodd;stroke-width:0.911;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="path871-7-2-2-2"
+       transform="rotate(-134.95528)"
+       sodipodi:type="arc"
+       sodipodi:cx="-376.12805"
+       sodipodi:cy="-1386.3717"
+       sodipodi:rx="117.5"
+       sodipodi:ry="117.5"
+       sodipodi:start="3.1415927"
+       sodipodi:end="0"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m -493.62805,-1386.3717 a 117.5,117.5 0 0 1 117.5,-117.5 117.5,117.5 0 0 1 117.5,117.5" />
+    <circle
+       style="display:inline;fill:#ff1b58;fill-opacity:0.5;fill-rule:evenodd;stroke-width:1.01064;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="path871-7-0-9"
+       cx="-4.2183733"
+       cy="-1560.9972"
+       transform="rotate(-134.95528)"
+       r="118.75" />
   </g>
 </svg>
