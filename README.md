@@ -1,5 +1,3 @@
-Some vector graphics that I've created for fun.
-
 Scheme vs Schema
 The word **Schema** is used for diagrams and models.
 
