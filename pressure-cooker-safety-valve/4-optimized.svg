@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="512" height="512" version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <pattern id="pattern4885" patternTransform="matrix(-.79064 1.1693 21.741 14.7 232.62 13.961)" xlink:href="#Strips1_1"/>
     <pattern id="Strips1_1" width="2" height="1" patternTransform="translate(0) scale(10)" patternUnits="userSpaceOnUse">
