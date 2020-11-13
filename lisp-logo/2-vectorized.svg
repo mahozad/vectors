@@ -24,15 +24,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="183.06063"
-     inkscape:cy="384.79896"
+     inkscape:zoom="1.4"
+     inkscape:cx="224.03631"
+     inkscape:cy="255.83664"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:snap-page="false"
-     inkscape:object-paths="false"
+     inkscape:object-paths="true"
      units="px"
      inkscape:showpageshadow="false"
      objecttolerance="20"
@@ -48,9 +48,10 @@
      inkscape:lockguides="false"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="false"
-     inkscape:snap-bbox-edge-midpoints="false"
-     inkscape:bbox-nodes="false"
-     inkscape:bbox-paths="true">
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-smooth-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid10"
@@ -738,16 +739,25 @@ OjAwSrruRQAAAABJRU5ErkJggg==
      id="layer3"
      inkscape:label="circle">
     <circle
-       style="display:inline;fill:none;fill-opacity:0.5;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;stroke:#000000;stroke-opacity:1;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+       style="display:inline;fill:none;fill-opacity:0.5;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="path24"
-       cx="256"
-       cy="256"
-       r="235" />
+       cx="-362.00061"
+       cy="5.2494154"
+       r="235"
+       transform="rotate(-134.16921)" />
     <circle
-       style="display:inline;fill:#ff1b58;fill-opacity:0.5;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
-       id="path871"
-       cx="328.90973"
-       cy="352.01416"
-       r="112" />
+       style="display:inline;fill:#ff1b58;fill-opacity:0.5;fill-rule:evenodd;stroke-width:1.01064;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="path871-7"
+       cx="-243.25063"
+       cy="5.2494154"
+       transform="rotate(-134.16921)"
+       r="118.75" />
+    <circle
+       style="display:inline;fill:#ff1b58;fill-opacity:0.5;fill-rule:evenodd;stroke-width:1.01064;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="path871-7-2"
+       cx="-480.75061"
+       cy="5.2494154"
+       transform="rotate(-134.16921)"
+       r="118.75" />
   </g>
 </svg>
