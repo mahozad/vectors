@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="358.29676"
-     inkscape:cy="343.17813"
+     inkscape:zoom="1.979899"
+     inkscape:cx="183.06063"
+     inkscape:cy="384.79896"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:snap-page="false"
@@ -42,8 +42,15 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     showguides="true"
-     inkscape:guide-bbox="true">
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-to-guides="false"
+     inkscape:lockguides="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-nodes="false"
+     inkscape:bbox-paths="true">
     <inkscape:grid
        type="xygrid"
        id="grid10"
@@ -54,11 +61,13 @@
     <sodipodi:guide
        position="356.42856,151.28571"
        orientation="0,-1"
-       id="guide851" />
+       id="guide851"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="292.99999,401.28572"
        orientation="0,-1"
-       id="guide853" />
+       id="guide853"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="292.99999,401.28572"
        orientation="-1,0"
@@ -716,16 +725,29 @@ OjAwSrruRQAAAABJRU5ErkJggg==
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
-    <circle
-       style="fill:#ffd11b;fill-opacity:0.5;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
-       id="path24"
-       cx="-416.84061"
-       cy="288.77048"
-       r="235" />
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 293,110.71427 -23.77232,250.00001 h 40.55803 L 364.25,244.2857 405.05077,360.71428 h 36.80744 L 333.625,110.71427"
-       id="path855" />
+       d="m 293,110.71427 c 78.19385,85.93554 24.92788,152.63561 -24,250.00002 h 40 c 22.04706,-35.17914 39.35003,-75.10236 55.25,-116.42859 15.54639,37.01006 30.80744,74.28168 40.75,116.42859 h 40 C 415.439,258.3857 380.5673,187.95748 333,110.71427 Z"
+       id="path855"
+       sodipodi:nodetypes="cccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="circle">
+    <circle
+       style="display:inline;fill:none;fill-opacity:0.5;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;stroke:#000000;stroke-opacity:1;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path24"
+       cx="256"
+       cy="256"
+       r="235" />
+    <circle
+       style="display:inline;fill:#ff1b58;fill-opacity:0.5;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="path871"
+       cx="328.90973"
+       cy="352.01416"
+       r="112" />
   </g>
 </svg>
