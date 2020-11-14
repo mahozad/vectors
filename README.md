@@ -3,6 +3,9 @@ The word **Schema** is used for diagrams and models.
 
 It seems that browsers do NOT (yet) support mesh gradients
 
+To reference files from other wikipedia languages prefix its name with the language code.
+For example [[fa:logo.svg]]. See [this help page](https://en.wikipedia.org/wiki/Help:Interlanguage_links) for more info
+
 SVGs could be cleaned with [this tool](https://github.com/RazrFalcon/svgcleaner)
 
 For information about how to be a graphic contributor on wikipedia refer [here](https://en.wikipedia.org/wiki/Wikipedia:Graphics_Lab)
