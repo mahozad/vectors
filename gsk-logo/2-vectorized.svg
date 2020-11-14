@@ -24,114 +24,138 @@
        x="396.58817"
        y="165.2765">
       <meshrow
-         id="meshrow80874">
+         id="meshrow97980">
         <meshpatch
-           id="meshpatch80876">
+           id="meshpatch97982">
           <stop
              path="c 22.1735,36.6122  -3.71205,115.162  -71.2337,178.833"
-             style="stop-color:#fbf081;stop-opacity:1"
-             id="stop80878" />
+             style="stop-color:#fbdd1d;stop-opacity:1"
+             id="stop97984" />
           <stop
-             path="l -21.4917,-37.2296"
+             path="l 12.6009,-47.3311"
              style="stop-color:#f25b19;stop-opacity:1"
-             id="stop80880" />
+             id="stop97986" />
           <stop
-             path="c 36.3244,-20.9778  50.2057,-66.2973  28.2301,-104.367"
-             style="stop-color:#f25b19;stop-opacity:1"
-             id="stop80882" />
+             path="c 36.3244,-20.9778  56.5657,-79.5516  34.5901,-117.621"
+             style="stop-color:#f36a16;stop-opacity:1"
+             id="stop97988" />
           <stop
-             path="l 64.4953,-37.2364"
-             style="stop-color:#f7a64d;stop-opacity:1"
-             id="stop80884" />
+             path="l 24.0427,-13.8809"
+             style="stop-color:#f79e0f;stop-opacity:1"
+             id="stop97990" />
         </meshpatch>
         <meshpatch
-           id="meshpatch80886">
+           id="meshpatch97992">
           <stop
              path="c -69.3391,71.026  -144.324,41.6464  -193.435,-26.0223"
-             id="stop80888" />
+             id="stop97994" />
           <stop
              path="l 69.9832,-40.4111"
              style="stop-color:#ea2522;stop-opacity:1"
-             id="stop80890" />
+             id="stop97996" />
           <stop
-             path="c 19.2501,33.3398  71.916,46.5427  101.96,29.2038"
+             path="c 19.2501,33.3398  106.008,36.4411  136.053,19.1023"
              style="stop-color:#ee401e;stop-opacity:1"
-             id="stop80892" />
+             id="stop97998" />
         </meshpatch>
         <meshpatch
-           id="meshpatch80894">
+           id="meshpatch98000">
           <stop
              path="c -59.644,-93.0375  -22.6192,-161.31  73.0801,-182.742"
-             id="stop80896" />
+             id="stop98002" />
           <stop
-             path="l 23.0986,40.314"
+             path="l 48.8575,13.0399"
              style="stop-color:#f25b19;stop-opacity:1"
-             id="stop80898" />
+             id="stop98004" />
           <stop
-             path="c -34.0624,19.6599  -48.1484,63.992  -26.1955,102.017"
-             style="stop-color:#f25b19;stop-opacity:1"
-             id="stop80900" />
+             path="c -34.0624,19.6599  -73.9073,91.2661  -51.9544,129.291"
+             style="stop-color:#f36c16;stop-opacity:1"
+             id="stop98006" />
         </meshpatch>
         <meshpatch
-           id="meshpatch80902">
+           id="meshpatch98008">
           <stop
-             path="c 72.4396,-15.1174  168.603,-15.8036  191.588,29.9302"
-             id="stop80904" />
+             path="c 38.9379,-8.12594  84.7303,-12.0823  122.328,-6.90092"
+             id="stop98010" />
           <stop
-             path="l -64.4975,37.2441"
-             style="stop-color:#fbf081;stop-opacity:1"
-             id="stop80906" />
+             path="l -3.83808,16.4724"
+             style="stop-color:#fbe81d;stop-opacity:1"
+             id="stop98012" />
           <stop
-             path="c -21.1306,-36.6081  -68.9298,-47.1065  -103.992,-26.8603"
-             style="stop-color:#f7a64d;stop-opacity:1"
-             id="stop80908" />
+             path="c -24.0141,-7.21076  -50.7863,-7.41454  -69.6324,3.46839"
+             style="stop-color:#f58312;stop-opacity:1"
+             id="stop98014" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch98016">
+          <stop
+             path="c 32.3484,4.45797  58.6302,15.6803  69.2603,36.8311"
+             id="stop98018" />
+          <stop
+             path="l -24.0449,13.8882"
+             style="stop-color:#fbdd1d;stop-opacity:1"
+             id="stop98020" />
+          <stop
+             path="c -9.77243,-16.9304  -28.3921,-28.043  -49.0535,-34.2469"
+             style="stop-color:#f79e0f;stop-opacity:1"
+             id="stop98022" />
         </meshpatch>
       </meshrow>
       <meshrow
-         id="meshrow80910">
+         id="meshrow98024">
         <meshpatch
-           id="meshpatch80912">
+           id="meshpatch98026">
           <stop
-             path="l -38.1315,-66.0549"
-             id="stop80914" />
+             path="l -41.8893,-73.4615"
+             id="stop98028" />
           <stop
              path="l 0,0"
              style="stop-color:#f25b19;stop-opacity:1"
-             id="stop80916" />
+             id="stop98030" />
           <stop
-             path="l 66.3616,-38.3121"
+             path="l 76.4794,-44.1595"
              style="stop-color:#f25b19;stop-opacity:1"
-             id="stop80918" />
+             id="stop98032" />
         </meshpatch>
         <meshpatch
-           id="meshpatch80920">
+           id="meshpatch98034">
           <stop
-             path="l 63.8195,-36.8467"
-             id="stop80922" />
+             path="l 94.1543,-54.3548"
+             id="stop98036" />
           <stop
-             path="l 0.0086,-0.0044"
+             path="l 0.0091,-0.0044"
              style="stop-color:#f25b19;stop-opacity:1"
-             id="stop80924" />
+             id="stop98038" />
         </meshpatch>
         <meshpatch
-           id="meshpatch80926">
+           id="meshpatch98040">
           <stop
-             path="l 37.6233,65.1671"
-             id="stop80928" />
+             path="l 42.1992,74.9331"
+             id="stop98042" />
           <stop
-             path="l 0.0007,0.0034"
+             path="l 0.0007,0.0031"
              style="stop-color:#f25b19;stop-opacity:1"
-             id="stop80930" />
+             id="stop98044" />
         </meshpatch>
         <meshpatch
-           id="meshpatch80932">
+           id="meshpatch98046">
           <stop
-             path="l -66.3622,38.3086"
-             id="stop80934" />
+             path="l -27.43,78.4025"
+             id="stop98048" />
           <stop
-             path="l -0.0064,-0.0018"
+             path="l -0.00322,-0.00098"
              style="stop-color:#f25b19;stop-opacity:1"
-             id="stop80936" />
+             id="stop98050" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch98052">
+          <stop
+             path="l -76.4812,44.1564"
+             id="stop98054" />
+          <stop
+             path="l -0.00228,-0.0008"
+             style="stop-color:#f25b19;stop-opacity:1"
+             id="stop98056" />
         </meshpatch>
       </meshrow>
     </meshgradient>
@@ -143,9 +167,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="114.93801"
-     inkscape:cy="272.79658"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="-83.91686"
+     inkscape:cy="187.98508"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
