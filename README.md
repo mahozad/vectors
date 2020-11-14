@@ -1,6 +1,8 @@
 Scheme vs Schema:  
 The word **Schema** is used for diagrams and models.
 
+It seems that browsers do NOT (yet) support mesh gradients
+
 SVGs could be cleaned with [this tool](https://github.com/RazrFalcon/svgcleaner)
 
 For information about how to be a graphic contributor on wikipedia refer [here](https://en.wikipedia.org/wiki/Wikipedia:Graphics_Lab)
