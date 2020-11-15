@@ -4,8 +4,8 @@ Used in [this wikipedia page](https://hu.wikipedia.org/wiki/Fonalgrafika)
 
 Every line in a circle is different from the next line by 15 degrees
 
-We can reuse the elements by embedding theme in an `def` element and 
-use `use` element
+We can reuse the elements by embedding theme in a `def` element and 
+then take advantage of `use` element
 
 We can set the rotation center of the `rotate` transform in SVG `transform` element:
 
