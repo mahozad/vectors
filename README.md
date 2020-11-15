@@ -23,3 +23,9 @@ The xml declaration is not needed at the top of the SVG file:
     <?xml version="1.0" encoding="UTF-8"?>
 
 See [this post](https://stackoverflow.com/q/38169475) for more info
+
+--
+
+If the same exact version of SVG is already available on Wikipedia, then it
+won't enable to upload the file. So to see if the vector on Wikipedia is the
+latest version or not, just upload the latest version of the vector image there
