@@ -15,3 +15,11 @@ For help on how to use SVG files on wikipedia refer [here](https://commons.wikim
 Supported fonts in SVG files on Wikipedia are listed [here](https://meta.wikimedia.org/wiki/SVG_fonts)
 
 Use {{Vector version available|NewImage.svg}} template in old raster pages to show that the vector version is available
+
+---
+
+The xml declaration is not needed at the top of the SVG file:
+
+    <?xml version="1.0" encoding="UTF-8"?>
+
+See [this post](https://stackoverflow.com/q/38169475) for more info
