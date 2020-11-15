@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.2"
-     inkscape:cx="244.49227"
-     inkscape:cy="181.98261"
+     inkscape:zoom="3.959798"
+     inkscape:cx="272.06809"
+     inkscape:cy="201.80655"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
@@ -62,7 +62,10 @@
     <sodipodi:guide
        position="271.99999,256"
        orientation="0.70710678,-0.70710678"
-       id="guide851" />
+       id="guide851"
+       inkscape:label=""
+       inkscape:locked="true"
+       inkscape:color="rgb(115,210,22)" />
     <sodipodi:guide
        position="-256,304"
        orientation="-1,0"
@@ -72,22 +75,18 @@
        inkscape:color="rgb(245,121,0)" />
     <sodipodi:guide
        position="271.99999,256.00001"
-       orientation="1,0"
-       id="guide855" />
+       orientation="-1,0"
+       id="guide855"
+       inkscape:label=""
+       inkscape:locked="true"
+       inkscape:color="rgb(115,210,22)" />
     <sodipodi:guide
-       position="271.99999,335.99999"
-       orientation="-0.38268343,-0.92387953"
-       id="guide861"
+       position="271.99999,367.99999"
+       orientation="-0.37460659,-0.92718386"
+       id="guide877"
        inkscape:label=""
        inkscape:locked="false"
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="271.99999,327.99999"
-       orientation="-0.13052619,-0.99144486"
-       id="guide865"
-       inkscape:label=""
-       inkscape:locked="false"
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(193,125,17)" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -898,8 +897,4 @@ JqQtMDA3/9k=
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 272,176 56.56853,23.43146"
-     id="path863" />
 </svg>
