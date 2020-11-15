@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="274.26093"
-     inkscape:cy="179.08129"
+     inkscape:zoom="8"
+     inkscape:cx="267.67843"
+     inkscape:cy="160.73106"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
@@ -65,7 +65,7 @@
        id="guide851"
        inkscape:label=""
        inkscape:locked="true"
-       inkscape:color="rgb(115,210,22)" />
+       inkscape:color="rgb(245,121,0)" />
     <sodipodi:guide
        position="-256,304"
        orientation="-1,0"
@@ -79,7 +79,7 @@
        id="guide855"
        inkscape:label=""
        inkscape:locked="true"
-       inkscape:color="rgb(115,210,22)" />
+       inkscape:color="rgb(245,121,0)" />
     <sodipodi:guide
        position="271.99999,367.99999"
        orientation="-0.37460659,-0.92718386"
@@ -126,6 +126,34 @@
        position="310.62396,352.39489"
        orientation="-0.78801075,-0.61566148"
        id="guide891"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="310.62396,352.39489"
+       orientation="-0.99026807,-0.13917311"
+       id="guide893"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="310.62395,352.3949"
+       orientation="-0.99254615,0.12186933"
+       id="guide895"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="310.62395,352.3949"
+       orientation="-0.92718386,0.37460658"
+       id="guide897"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="310.62396,352.39489"
+       orientation="-0.79863552,0.60181501"
+       id="guide899"
        inkscape:label=""
        inkscape:locked="false"
        inkscape:color="rgb(0,0,255)" />
