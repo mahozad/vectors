@@ -1,3 +1,5 @@
+![logo](./symbol/2-optimized.svg)
+
 Scheme vs Schema:  
 The word **Schema** is used for diagrams and models.
 
