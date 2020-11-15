@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <g id="template">
+    <g id="petal">
       <circle cx="256" cy="256" r="2"/>
       <circle cx="256" cy="63.995" r="2"/>
       <circle cx="256" cy="119.75" r="2"/>
@@ -46,12 +45,12 @@
       </g>
     </g>
   </defs>
-  <use xlink:href="#template"/>
-  <use xlink:href="#template" transform="rotate(45 256 256)"/>
-  <use xlink:href="#template" transform="rotate(90 256 256)"/>
-  <use xlink:href="#template" transform="rotate(135 256 256)"/>
-  <use xlink:href="#template" transform="rotate(180 256 256)"/>
-  <use xlink:href="#template" transform="rotate(225 256 256)"/>
-  <use xlink:href="#template" transform="rotate(270 256 256)"/>
-  <use xlink:href="#template" transform="rotate(315 256 256)"/>
+  <use xlink:href="#petal"/>
+  <use xlink:href="#petal" transform="rotate(45 256 256)"/>
+  <use xlink:href="#petal" transform="rotate(90 256 256)"/>
+  <use xlink:href="#petal" transform="rotate(135 256 256)"/>
+  <use xlink:href="#petal" transform="rotate(180 256 256)"/>
+  <use xlink:href="#petal" transform="rotate(225 256 256)"/>
+  <use xlink:href="#petal" transform="rotate(270 256 256)"/>
+  <use xlink:href="#petal" transform="rotate(315 256 256)"/>
 </svg>
