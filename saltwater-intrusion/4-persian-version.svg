@@ -7,16 +7,16 @@
     <path fill="#000" d="m-5.2312-2.4202 6.5556 2.4106-6.5556 2.4106c1.0473-1.4233 1.0412-3.3705 0-4.8212z"/>
   </marker>
 
-  <pattern id="stripe" fill="none" stroke="#666" stroke-width=".2" width="7.85" height="8" patternTransform="matrix(3 3 -4 4 0 0)" patternUnits="userSpaceOnUse">
-    <path d="m.92 0v8"/>
-    <path d="m1.92 0v8"/>
-    <path d="m2.92 0v8"/>
-    <path d="m3.92 0v8"/>
-    <path d="m4.92 0v8"/>
-    <path d="m5.92 0v8"/>
-    <path d="m6.92 0v8"/>
-    <path stroke-width=".1" d="m.05 0v8"/>
-    <path stroke-width=".1" d="m7.8 0v8"/>
+  <pattern id="stripe" width="7.85" height="8" patternTransform="matrix(3 3 -4 4 0 0)" patternUnits="userSpaceOnUse">
+    <path fill="none" stroke="#666" stroke-width=".1" d="m.05 0v8"/>
+    <path fill="none" stroke="#666" stroke-width=".2" d="m.92 0v8"/>
+    <path fill="none" stroke="#666" stroke-width=".2" d="m1.92 0v8"/>
+    <path fill="none" stroke="#666" stroke-width=".2" d="m2.92 0v8"/>
+    <path fill="none" stroke="#666" stroke-width=".2" d="m3.92 0v8"/>
+    <path fill="none" stroke="#666" stroke-width=".2" d="m4.92 0v8"/>
+    <path fill="none" stroke="#666" stroke-width=".2" d="m5.92 0v8"/>
+    <path fill="none" stroke="#666" stroke-width=".2" d="m6.92 0v8"/>
+    <path fill="none" stroke="#666" stroke-width=".1" d="m7.8 0v8"/>
   </pattern>
 
   <path fill="#72c7f6" d="m26 343c74-15 150-39 213-132 133 117 149 109 255 132v11h-468z"/>
