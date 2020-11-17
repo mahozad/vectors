@@ -53,45 +53,33 @@
   <path id="i" d="m239 211c133 117 149 109 255 132v-132z" fill="#72c7f6" stroke="#000"/>
   <g font-family="Arial">
     <g font-size="10">
-      <text>
-        <textPath startOffset="44.999999%" xlink:href="#h">
-          <tspan font-size="10" text-anchor="middle">Water table</tspan>
+      <text font-family="Arial" font-size="10">
+        <textPath startOffset="40%" xlink:href="#h">
+          <tspan dy="-4">Water table</tspan>
         </textPath>
       </text>
-      <text>
+      <text font-family="Arial" font-size="10">
         <textPath startOffset="20%" xlink:href="#i">
-          <tspan font-family="Arial" font-size="10">Sea floor</tspan>
+          <tspan dy="-4">Sea floor</tspan>
         </textPath>
       </text>
-      <text>
+      <text font-family="Arial" font-size="10">
         <textPath startOffset="12%" xlink:href="#g">
-          <tspan font-family="Arial" font-size="10">Interface</tspan>
+          <tspan dy="-4">Interface</tspan>
         </textPath>
       </text>
     </g>
-    <text font-size="40">
-      <textPath startOffset="40.000001%" xlink:href="#j">
-        <tspan dy="0" font-family="Arial" font-size="10">Land surface</tspan>
+    <text font-family="Arial" font-size="10">
+      <textPath startOffset="40%" xlink:href="#j">
+        <tspan dy="-4">Land surface</tspan>
       </textPath>
     </text>
-    <text font-size="40" x="81.485878" y="255.53815">
-      <tspan font-family="Arial" font-size="10" x="81.485878" y="255.53815">Fresh water</tspan>
-    </text>
-    <text font-size="10" x="345.64542" y="207.58635">
-      <tspan font-family="Arial" font-size="10" x="345.64542" y="207.58635">Sea level</tspan>
-    </text>
+    <text font-family="Arial" font-size="10" x="81.485878" y="255.53815">Fresh water</text>
+    <text font-family="Arial" font-size="10" x="345.64542" y="207.58635">Sea level</text>
   </g>
-  <path d="m166 192.67v18.327" fill="none" marker-end="url(#d)" marker-start="url(#e)"
-        stroke="#000"/>
+  <text font-family="Arial" font-size="40" letter-spacing="0" word-spacing="0" x="171.34082" y="206.1582">h</text>
+  <text font-family="Arial" font-size="10" letter-spacing="0" word-spacing="0" x="171.80469" y="249.18555">z</text>
+  <path d="m166 192.67v18.327" fill="none" marker-end="url(#d)" marker-start="url(#e)" stroke="#000"/>
   <path d="m166 211v76.85" fill="none" marker-end="url(#b)" marker-start="url(#c)" stroke="#000"/>
-  <text font-family="sans-serif" font-size="40" letter-spacing="0" word-spacing="0" x="171.34082"
-        y="206.1582">
-    <tspan font-family="Arial" font-size="10" x="171.34082" y="206.1582">h</tspan>
-  </text>
-  <text font-family="sans-serif" font-size="10" letter-spacing="0" word-spacing="0" x="171.80469"
-        y="249.18555">
-    <tspan font-family="Arial" font-size="10" x="171.80469" y="249.18555">z</tspan>
-  </text>
-  <path id="j" d="m26 160h30s42 10 63 13c14 2 34 0 51-1 34-2 38 12 69 39" fill="none"
-        stroke="#000"/>
+  <path id="j" d="m26 160h30s42 10 63 13c14 2 34 0 51-1 34-2 38 12 69 39" fill="none" stroke="#000"/>
 </svg>
