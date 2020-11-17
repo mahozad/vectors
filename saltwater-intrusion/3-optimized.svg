@@ -29,15 +29,15 @@
   <path stroke="#000" marker-start="url(#arrow-down)" marker-end="url(#arrow-up)" d="m166 211v76.85"/>
   <path stroke="#000" stroke-dasharray="6 1" d="m26 211h213"/>
 
-  <g font-family="Arial" font-size="10">
-    <text x="82" y="256">Fresh water</text>
-    <text x="32" y="182">Water table</text>
-    <text x="229" y="320">Saltwater</text>
-    <text x="346" y="208">Sea level</text>
-    <text x="170" y="206">h</text>
-    <text x="170" y="249">z</text>
-    <text dy="-4"><textPath startOffset="88%" xlink:href="#path1">Land surface</textPath></text>
-    <text dy="-4"><textPath startOffset="20%" xlink:href="#path2">Sea floor</textPath></text>
-    <text dy="-4"><textPath startOffset="12%" xlink:href="#path3">Interface</textPath></text>
+  <g font-family="Arial" font-size="10" text-anchor="middle">
+    <text x="100" y="256">Fresh water</text>
+    <text x="56" y="182">Water table</text>
+    <text x="250" y="320">Saltwater</text>
+    <text x="366" y="208">Sea level</text>
+    <text x="173" y="206">h</text>
+    <text x="173" y="249">z</text>
+    <text dy="-4"><textPath startOffset="92%" xlink:href="#path1">Land surface</textPath></text>
+    <text dy="-4"><textPath startOffset="23%" xlink:href="#path2">Sea floor</textPath></text>
+    <text dy="-4"><textPath startOffset="14%" xlink:href="#path3">Interface</textPath></text>
   </g>
 </svg>
