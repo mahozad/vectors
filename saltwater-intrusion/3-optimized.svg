@@ -1,50 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <marker id="b" orient="auto" overflow="visible">
+  <marker id="arrow-up" orient="auto" overflow="visible">
     <path fill="#000" d="m-5.2312-2.4202 6.5556 2.4106-6.5556 2.4106c1.0473-1.4233 1.0412-3.3705 0-4.8212z"/>
   </marker>
-  <marker id="c" orient="auto" overflow="visible">
+  <marker id="arrow-down" orient="auto" overflow="visible">
     <path fill="#000" d="m5.2312 2.4202-6.5556-2.4106 6.5556-2.4106c-1.0473 1.4233-1.0412 3.3705 0 4.8212z"/>
   </marker>
-  <pattern id="a" fill="none" stroke="#666" stroke-width=".2" height="8" width="7.85" patternUnits="userSpaceOnUse" patternTransform="matrix(2.5321 2.5321 -4.2925 4.2925 321.93 -22.934)">
-    <path d="m.92 0v8"/>
-    <path d="m1.92 0v8"/>
-    <path d="m2.92 0v8"/>
-    <path d="m3.92 0v8"/>
-    <path d="m4.92 0v8"/>
-    <path d="m5.92 0v8"/>
-    <path d="m6.92 0v8"/>
+  <pattern id="stripe" fill="none" stroke="#666" width="7.85" height="8" patternUnits="userSpaceOnUse" patternTransform="matrix(2.5321 2.5321 -4.2925 4.2925 321.93 -22.934)">
+    <path stroke-width=".2" d="m.92 0v8"/>
+    <path stroke-width=".2" d="m1.92 0v8"/>
+    <path stroke-width=".2" d="m2.92 0v8"/>
+    <path stroke-width=".2" d="m3.92 0v8"/>
+    <path stroke-width=".2" d="m4.92 0v8"/>
+    <path stroke-width=".2" d="m5.92 0v8"/>
+    <path stroke-width=".2" d="m6.92 0v8"/>
     <path stroke-width=".1" d="m.05 0v8"/>
     <path stroke-width=".1" d="m7.8 0v8"/>
   </pattern>
-  <path fill="none" stroke="#000" d="m26 160v194h468v-193"/>
-  <path id="g" fill="#c2e6fb" stroke="#000" d="m26 343c74-15 150-39 213-132-31-5-59-18.105-96-22-38-4-78-3-117-3z"/>
-  <path fill="none" stroke="#000" d="m26 343c74-15 150-39 213-132 133 117 149 109 255 132v11h-468z"/>
-  <path fill="none" stroke="#000" stroke-dasharray="6 1" d="m26 211h213"/>
   <path fill="#72c7f6" d="m26 343c74-15 150-39 213-132 133 117 149 109 255 132v11h-468z"/>
-  <path fill="url(#a)" d="m239 211c-63 93-139 117-213 132v11h468v-11c-106-23-122-15-255-132zm-17 99.375h56v12h-56z"/>
-  <path id="h" fill="#dcd4bf" stroke="#000" d="m170 172c-17 1-37 3-51 1-21-3-63-13-63-13h-30v26c39 0 79-1 117 3 37 3.8947 65 17 96 22-31-27-35-41-69-39z"/>
-  <path id="i" fill="#72c7f6" stroke="#000" d="m239 211c133 117 149 109 255 132v-132z"/>
-  <path id="j" fill="none" stroke="#000" d="m26 160h30s42 10 63 13c14 2 34 0 51-1 34-2 38 12 69 39"/>
-  <path stroke="#000" marker-start="url(#c)" marker-end="url(#b)" d="m166 192.67v18.327"/>
-  <path stroke="#000" marker-start="url(#c)" marker-end="url(#b)" d="m166 211v76.85"/>
+  <path fill="url(#stripe)" d="m239 211c-63 93-139 117-213 132v11h468v-11c-106-23-122-15-255-132zm-17 99.375h56v12h-56z"/>
+  <path fill="none" stroke="#000" d="m26 160v194h468v-193"/>
+  <path id="path1" stroke="#000" d="m26 160h30s42 10 63 13c14 2 34 0 51-1 34-2 38 12 69 39"/>
+  <path id="path2" fill="#dcd4bf" stroke="#000" d="m170 172c-17 1-37 3-51 1-21-3-63-13-63-13h-30v26c39 0 79-1 117 3 37 3.8947 65 17 96 22-31-27-35-41-69-39z"/>
+  <path id="path3" fill="#72c7f6" stroke="#000" d="m239 211c133 117 149 109 255 132v-132z"/>
+  <path id="path4" fill="#c2e6fb" stroke="#000" d="m26 343c74-15 150-39 213-132-31-5-59-18.105-96-22-38-4-78-3-117-3z"/>
+  <path stroke="#000" stroke-dasharray="6 1" d="m26 211h213"/>
+  <path stroke="#000" marker-start="url(#arrow-down)" marker-end="url(#arrow-up)" d="m166 192.67v18.327"/>
+  <path stroke="#000" marker-start="url(#arrow-down)" marker-end="url(#arrow-up)" d="m166 211v76.85"/>
   <g font-family="Arial" font-size="10">
-    <text x="229" y="320">Saltwater</text>
     <text x="82" y="256">Fresh water</text>
+    <text x="229" y="320">Saltwater</text>
     <text x="346" y="208">Sea level</text>
     <text x="170" y="206">h</text>
     <text x="170" y="249">z</text>
-    <text dy="-4">
-      <textPath startOffset="40%" xlink:href="#j">Land surface</textPath>
-    </text>
-    <text dy="-4">
-      <textPath startOffset="40%" xlink:href="#h">Water table</textPath>
-    </text>
-    <text dy="-4">
-      <textPath startOffset="20%" xlink:href="#i">Sea floor</textPath>
-    </text>
-    <text dy="-4">
-      <textPath startOffset="12%" xlink:href="#g">Interface</textPath>
-    </text>
+    <text dy="-4"><textPath startOffset="40%" xlink:href="#path1">Land surface</textPath></text>
+    <text dy="-4"><textPath startOffset="40%" xlink:href="#path2">Water table</textPath></text>
+    <text dy="-4"><textPath startOffset="20%" xlink:href="#path3">Sea floor</textPath></text>
+    <text dy="-4"><textPath startOffset="12%" xlink:href="#path4">Interface</textPath></text>
   </g>
 </svg>
