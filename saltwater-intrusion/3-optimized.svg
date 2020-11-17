@@ -1,66 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs>
-    <pattern id="pattern4563" patternTransform="matrix(2.5321 2.5321 -4.2925 4.2925 321.93 -22.934)" xlink:href="#pattern4548"/>
-    <marker id="marker4371" overflow="visible" orient="auto">
-      <path transform="scale(.6) rotate(180) translate(0)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".625"/>
-    </marker>
-    <marker id="marker4361" overflow="visible" orient="auto">
-      <path transform="scale(.6) translate(0)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".625"/>
-    </marker>
-    <marker id="Arrow2Mend" overflow="visible" orient="auto">
-      <path transform="scale(.6) rotate(180) translate(0)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".625"/>
-    </marker>
-    <marker id="Arrow2Mstart" overflow="visible" orient="auto">
-      <path transform="scale(.6) translate(0)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".625"/>
-    </marker>
-    <pattern id="pattern4548" width="7.8500148" height="8.0000009" patternTransform="translate(317.93 -22.934)" patternUnits="userSpaceOnUse">
-      <g transform="translate(-317.93 22.934)">
-        <rect x="317.93" y="-22.934" width="7.85" height="8" fill="none"/>
-        <path d="m318.85-22.934v8" fill="none" stroke="#666" stroke-width=".2"/>
-        <path d="m319.85-22.934v8" fill="none" stroke="#666" stroke-width=".2"/>
-        <path d="m320.85-22.934v8" fill="none" stroke="#666" stroke-width=".2"/>
-        <path d="m321.85-22.934v8" fill="none" stroke="#666" stroke-width=".2"/>
-        <path d="m322.85-22.934v8" fill="none" stroke="#666" stroke-width=".2"/>
-        <path d="m323.85-22.934v8" fill="none" stroke="#666" stroke-width=".2"/>
-        <path d="m324.85-22.934v8" fill="none" stroke="#666" stroke-width=".2"/>
-        <path d="m317.98-22.934v8" fill="none" stroke="#666" stroke-width=".1"/>
-        <path d="m325.73-22.934v8" fill="none" stroke="#666" stroke-width=".1"/>
-      </g>
-    </pattern>
-  </defs>
-  <g>
-    <path id="path3496" d="m26 343c74-15 150-39 213-132-31-5-59-18.105-96-22-38-4-78-3-117-3z" fill="#c2e6fb" stroke="#000" stroke-width="1px"/>
-    <g fill="none">
-      <g stroke="#000">
-        <path d="m26 160v194h468v-193" stroke-width="1px"/>
-        <path d="m494 211h-255" stroke-width="1px"/>
-        <path d="m26 211h213" stroke-dasharray="6, 1"/>
-      </g>
-      <rect x="287" y="-256" width="8" height="8"/>
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <pattern id="a" patternTransform="matrix(2.5321 2.5321 -4.2925 4.2925 321.93 -22.934)"
+           xlink:href="#f"/>
+  <marker id="b" orient="auto" overflow="visible">
+    <path d="m-5.2312-2.4202 6.5556 2.4106-6.5556 2.4106c1.0473-1.4233 1.0412-3.3705 0-4.8212z"
+          fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".625"/>
+  </marker>
+  <marker id="c" orient="auto" overflow="visible">
+    <path d="m5.2312 2.4202-6.5556-2.4106 6.5556-2.4106c-1.0473 1.4233-1.0412 3.3705 0 4.8212z"
+          fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".625"/>
+  </marker>
+  <marker id="d" orient="auto" overflow="visible">
+    <path d="m-5.2312-2.4202 6.5556 2.4106-6.5556 2.4106c1.0473-1.4233 1.0412-3.3705 0-4.8212z"
+          fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".625"/>
+  </marker>
+  <marker id="e" orient="auto" overflow="visible">
+    <path d="m5.2312 2.4202-6.5556-2.4106 6.5556-2.4106c-1.0473 1.4233-1.0412 3.3705 0 4.8212z"
+          fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".625"/>
+  </marker>
+  <pattern id="f" height="8.000001" patternTransform="translate(317.93 -22.934)"
+           patternUnits="userSpaceOnUse" width="7.850015">
+    <path d="m317.93-22.934h7.85v8h-7.85z" fill="none"/>
+    <path d="m.92 0v8" fill="none" stroke="#666" stroke-width=".2"/>
+    <path d="m1.92 0v8" fill="none" stroke="#666" stroke-width=".2"/>
+    <path d="m2.92 0v8" fill="none" stroke="#666" stroke-width=".2"/>
+    <path d="m3.92 0v8" fill="none" stroke="#666" stroke-width=".2"/>
+    <path d="m4.92 0v8" fill="none" stroke="#666" stroke-width=".2"/>
+    <path d="m5.92 0v8" fill="none" stroke="#666" stroke-width=".2"/>
+    <path d="m6.92 0v8" fill="none" stroke="#666" stroke-width=".2"/>
+    <path d="m.05 0v8" fill="none" stroke="#666" stroke-width=".1"/>
+    <path d="m7.8 0v8" fill="none" stroke="#666" stroke-width=".1"/>
+  </pattern>
+  <path id="g" d="m26 343c74-15 150-39 213-132-31-5-59-18.105-96-22-38-4-78-3-117-3z" fill="#c2e6fb"
+        stroke="#000"/>
+  <g fill="none">
+    <g stroke="#000">
+      <path d="m26 160v194h468v-193"/>
+      <path d="m494 211h-255"/>
+      <path d="m26 211h213" stroke-dasharray="6 1"/>
     </g>
-    <g>
-      <path d="m26 343c74-15 150-39 213-132 133 117 149 109 255 132v11h-468z" fill="#72c7f6"/>
-      <path d="m239 211c-63 93-139 117-213 132v11h468v-11c-106-23-122-15-255-132zm-17 99.375h56v12h-56z" fill="url(#pattern4563)"/>
-      <text x="228.86473" y="319.9541" fill="#000000" font-family="sans-serif" font-size="10px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="228.86473" y="319.9541" font-family="Arial" font-size="10px">Saltwater</tspan></text>
-    </g>
-    <path d="m26 343c74-15 150-39 213-132 133 117 149 109 255 132v11h-468z" fill="none" stroke="#000" stroke-width="1px"/>
-    <path id="path3484" d="m170 172c-17 1-37 3-51 1-21-3-63-13-63-13h-30v26c39 0 79-1 117 3 37 3.8947 65 17 96 22-31-27-35-41-69-39z" fill="#dcd4bf" stroke="#000" stroke-width="1px"/>
-    <path id="path3494" d="m239 211c133 117 149 109 255 132v-132z" fill="#72c7f6" stroke="#000" stroke-width="1px"/>
-    <g fill="#000000" font-family="sans-serif" letter-spacing="0px" word-spacing="0px">
-      <g font-size="10px">
-        <text transform="translate(-.50508 -4.1263)" style="line-height:1" xml:space="preserve"><textPath startOffset="44.999999%" xlink:href="#path3484"><tspan font-size="10px" text-align="center" text-anchor="middle">Water table</tspan></textPath></text>
-        <text transform="translate(4,-2)" style="line-height:1" xml:space="preserve"><textPath startOffset="20%" xlink:href="#path3494"><tspan font-family="Arial" font-size="10px">Sea floor</tspan></textPath></text>
-        <text transform="translate(0,-4)" style="line-height:1.25" xml:space="preserve"><textPath startOffset="12%" xlink:href="#path3496"><tspan font-family="Arial" font-size="10px">Interface</tspan></textPath></text>
-      </g>
-      <text transform="translate(0,-4)" font-size="40px" style="line-height:1.25" xml:space="preserve"><textPath startOffset="40.000001%" xlink:href="#path4496"><tspan dy="0" font-family="Arial" font-size="10px">Land surface</tspan></textPath></text>
-      <text x="81.485878" y="255.53815" font-size="40px" style="line-height:1.25" xml:space="preserve"><tspan x="81.485878" y="255.53815" font-family="Arial" font-size="10px">Fresh water</tspan></text>
-      <text x="345.64542" y="207.58635" font-size="10px" style="line-height:1.25" xml:space="preserve"><tspan x="345.64542" y="207.58635" font-family="Arial" font-size="10px">Sea level</tspan></text>
-    </g>
-    <path d="m166 192.67v18.327" fill="none" marker-end="url(#Arrow2Mend)" marker-start="url(#Arrow2Mstart)" stroke="#000" stroke-width="1px"/>
-    <path d="m166 211v76.85" fill="none" marker-end="url(#marker4371)" marker-start="url(#marker4361)" stroke="#000" stroke-width="1px"/>
-    <text x="171.34082" y="206.1582" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="171.34082" y="206.1582" font-family="Arial" font-size="10px">h</tspan></text>
-    <text x="171.80469" y="249.18555" fill="#000000" font-family="sans-serif" font-size="10px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="171.80469" y="249.18555" font-family="Arial" font-size="10px">z</tspan></text>
-    <path id="path4496" d="m26 160h30s42 10 63 13c14 2 34 0 51-1 34-2 38 12 69 39" fill="none" stroke="#000" stroke-width="1px"/>
+    <path d="m287-256h8v8h-8z"/>
   </g>
+  <path d="m26 343c74-15 150-39 213-132 133 117 149 109 255 132v11h-468z" fill="#72c7f6"/>
+  <path d="m239 211c-63 93-139 117-213 132v11h468v-11c-106-23-122-15-255-132zm-17 99.375h56v12h-56z" fill="url(#a)"/>
+  <text font-family="Arial" font-size="10" letter-spacing="0" word-spacing="0" x="228.86473" y="319.9541">Saltwater</text>
+  <path d="m26 343c74-15 150-39 213-132 133 117 149 109 255 132v11h-468z" fill="none"
+        stroke="#000"/>
+  <path id="h"
+        d="m170 172c-17 1-37 3-51 1-21-3-63-13-63-13h-30v26c39 0 79-1 117 3 37 3.8947 65 17 96 22-31-27-35-41-69-39z"
+        fill="#dcd4bf" stroke="#000"/>
+  <path id="i" d="m239 211c133 117 149 109 255 132v-132z" fill="#72c7f6" stroke="#000"/>
+  <g font-family="Arial">
+    <g font-size="10">
+      <text>
+        <textPath startOffset="44.999999%" xlink:href="#h">
+          <tspan font-size="10" text-anchor="middle">Water table</tspan>
+        </textPath>
+      </text>
+      <text>
+        <textPath startOffset="20%" xlink:href="#i">
+          <tspan font-family="Arial" font-size="10">Sea floor</tspan>
+        </textPath>
+      </text>
+      <text>
+        <textPath startOffset="12%" xlink:href="#g">
+          <tspan font-family="Arial" font-size="10">Interface</tspan>
+        </textPath>
+      </text>
+    </g>
+    <text font-size="40">
+      <textPath startOffset="40.000001%" xlink:href="#j">
+        <tspan dy="0" font-family="Arial" font-size="10">Land surface</tspan>
+      </textPath>
+    </text>
+    <text font-size="40" x="81.485878" y="255.53815">
+      <tspan font-family="Arial" font-size="10" x="81.485878" y="255.53815">Fresh water</tspan>
+    </text>
+    <text font-size="10" x="345.64542" y="207.58635">
+      <tspan font-family="Arial" font-size="10" x="345.64542" y="207.58635">Sea level</tspan>
+    </text>
+  </g>
+  <path d="m166 192.67v18.327" fill="none" marker-end="url(#d)" marker-start="url(#e)"
+        stroke="#000"/>
+  <path d="m166 211v76.85" fill="none" marker-end="url(#b)" marker-start="url(#c)" stroke="#000"/>
+  <text font-family="sans-serif" font-size="40" letter-spacing="0" word-spacing="0" x="171.34082"
+        y="206.1582">
+    <tspan font-family="Arial" font-size="10" x="171.34082" y="206.1582">h</tspan>
+  </text>
+  <text font-family="sans-serif" font-size="10" letter-spacing="0" word-spacing="0" x="171.80469"
+        y="249.18555">
+    <tspan font-family="Arial" font-size="10" x="171.80469" y="249.18555">z</tspan>
+  </text>
+  <path id="j" d="m26 160h30s42 10 63 13c14 2 34 0 51-1 34-2 38 12 69 39" fill="none"
+        stroke="#000"/>
 </svg>
