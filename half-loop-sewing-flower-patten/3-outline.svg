@@ -1,27 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <circle cx="256" cy="256" r="2"/>
   <g id="petal">
-    <circle cx="256" cy="256" r="2"/>
-    <circle cx="294.74" cy="23.927" r="2"/>
-    <circle cx="313.11" cy="18.842" r="2"/>
-    <circle cx="332.19" cy="18.682" r="2"/>
-    <circle cx="350.66" cy="23.461" r="2"/>
-    <circle cx="367.25" cy="32.829" r="2"/>
-    <circle cx="278.31" cy="33.626" r="2"/>
-    <circle cx="390.53" cy="62.654" r="2"/>
-    <circle cx="264.92" cy="47.226" r="2"/>
-    <circle cx="380.85" cy="46.213" r="2"/>
-    <circle cx="395.81" cy="100.09" r="2"/>
-    <circle cx="395.62" cy="81.015" r="2"/>
-    <circle cx="338.57" cy="173.41" r="2"/>
-    <circle cx="324.81" cy="187.18" r="2"/>
-    <circle cx="311.06" cy="200.94" r="2"/>
-    <circle cx="269.77" cy="242.24" r="2"/>
-    <circle cx="283.53" cy="228.48" r="2"/>
-    <circle cx="297.30" cy="214.70" r="2"/>
-    <circle cx="391.78" cy="120.24" r="2"/>
-    <circle cx="352.35" cy="159.67" r="2"/>
-    <circle cx="378.39" cy="133.63" r="2"/>
-    <circle cx="365.85" cy="146.16" r="2"/>
+    <circle cx="338.12" cy="173.88" r="2"/>
+    <circle cx="324.44" cy="187.56" r="2"/>
+    <circle cx="310.76" cy="201.24" r="2"/>
+    <circle cx="297.07" cy="214.93" r="2"/>
+    <circle cx="283.39" cy="228.61" r="2"/>
+    <circle cx="269.71" cy="242.29" r="2"/>
+    <circle cx="397.72" cy="81.172" r="2"/>
+    <circle cx="397.76" cy="100.47" r="2"/>
+    <circle cx="392.80" cy="119.11" r="2"/>
+    <circle cx="379.17" cy="132.83" r="2"/>
+    <circle cx="365.48" cy="146.51" r="2"/>
+    <circle cx="351.80" cy="160.20" r="2"/>
+    <circle cx="265.72" cy="45.813" r="2"/>
+    <circle cx="279.38" cy="32.187" r="2"/>
+    <circle cx="296.10" cy="22.553" r="2"/>
+    <circle cx="314.74" cy="17.571" r="2"/>
+    <circle cx="334.03" cy="17.574" r="2"/>
+    <circle cx="352.67" cy="22.568" r="2"/>
+    <circle cx="369.39" cy="32.207" r="2"/>
+    <circle cx="383.04" cy="45.842" r="2"/>
+    <circle cx="392.70" cy="62.541" r="2"/>
   </g>
   <use xlink:href="#petal" transform="rotate(45 256 256)"/>
   <use xlink:href="#petal" transform="rotate(90 256 256)"/>
