@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <marker id="arrow-up" orient="auto" overflow="visible">
-    <path fill="#000" d="m-5.2312-2.4202 6.5556 2.4106-6.5556 2.4106c1.0473-1.4233 1.0412-3.3705 0-4.8212z"/>
+    <path fill="#000" d="m5.2312 2.4202-6.5556-2.4106 6.5556-2.4106c-1.0473 1.4233-1.0412 3.3705 0 4.8212z"/>
   </marker>
   <marker id="arrow-down" orient="auto" overflow="visible">
-    <path fill="#000" d="m5.2312 2.4202-6.5556-2.4106 6.5556-2.4106c-1.0473 1.4233-1.0412 3.3705 0 4.8212z"/>
+    <path fill="#000" d="m-5.2312-2.4202 6.5556 2.4106-6.5556 2.4106c1.0473-1.4233 1.0412-3.3705 0-4.8212z"/>
   </marker>
 
   <pattern id="stripe" fill="none" stroke="#666" stroke-width=".2" width="7.85" height="8" patternTransform="matrix(3 3 -4 4 0 0)" patternUnits="userSpaceOnUse">
@@ -25,15 +25,15 @@
   <path id="path1" fill="#dcd4bf" stroke="#000" d="m170 172c34-2 38 12 69 39-31-5-59-18.105-96-22-38-4-78-3-117-3v-26h30s42 10 63 13c14 2 34 0 51-1z"/>
   <path id="path2" fill="#72c7f6" stroke="#000" d="m239 211c133 117 149 109 255 132v-132z"/>
   <path id="path3" fill="#c2e6fb" stroke="#000" d="m26 343c74-15 150-39 213-132-31-5-59-18.105-96-22-38-4-78-3-117-3z"/>
-  <path stroke="#000" marker-start="url(#arrow-down)" marker-end="url(#arrow-up)" d="m166 192.67v18.327"/>
-  <path stroke="#000" marker-start="url(#arrow-down)" marker-end="url(#arrow-up)" d="m166 211v76.85"/>
+  <path stroke="#000" marker-start="url(#arrow-up)" marker-end="url(#arrow-down)" d="m166 192.67v18.327"/>
+  <path stroke="#000" marker-start="url(#arrow-up)" marker-end="url(#arrow-down)" d="m166 211v76.85"/>
   <path stroke="#000" stroke-dasharray="6 1" d="m26 211h213"/>
 
   <g font-family="B Nazanin, sans serif" font-size="10">
     <text x="82" y="256">آب تازه</text>
     <text x="32" y="182">[با توجه به نسخه انگلیسی تصحیح شود]</text>
     <text x="237" y="318">آب شور</text>
-    <text x="346" y="208">سطح دریا</text>
+    <text x="346" y="206">سطح دریا</text>
     <text x="170" y="206">h</text>
     <text x="170" y="249">z</text>
     <text x="130" y="166">سطح زمین</text>
