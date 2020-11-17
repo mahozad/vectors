@@ -12,3 +12,9 @@ We can set the rotation center of the `rotate` transform in SVG `transform` elem
     <use transform="rotate(45 256 256)" xlink:href="#template"/>
 
 `... 256 256` is the rotation center in the above code
+
+---
+
+The `ruler` path effect can be used to mark a path (the petal in this vector)
+with equal distances and then using CTRL + SHIFT + k to break apart theme for
+snapping to work
