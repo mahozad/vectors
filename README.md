@@ -3,6 +3,10 @@
 Scheme vs Schema:  
 The word **Schema** is used for diagrams and models.
 
+To reference a file or article from wikipedia in Commons, do like this:
+
+    [[:en:Image:Exceptional newcomer.jpg|blah blah blah]]
+
 It seems that browsers do NOT (yet) support mesh gradients
 
 To reference files from other wikipedia languages prefix its name with the language code.
