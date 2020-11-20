@@ -35,3 +35,8 @@ See [this post](https://stackoverflow.com/q/38169475) for more info
 If the same exact version of SVG is already available on Wikipedia, then it
 won't enable to upload the file. So to see if the vector on Wikipedia is the
 latest version or not, just upload the latest version of the vector image there
+
+--
+
+Images would better to have some padding. A good rule of thumb could be 5-15% of
+size of the canvas so for size of 512 pixels, 40 pixels seems good.
