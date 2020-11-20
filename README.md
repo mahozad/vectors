@@ -24,6 +24,10 @@ Use {{Vector version available|NewImage.svg}} template in old raster pages to sh
 
 ---
 
+Guidelines for creating  SVG files are available in [this mozilla page](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/SVG_Guidelines)
+
+---
+
 The xml declaration is not needed at the top of the SVG file:
 
     <?xml version="1.0" encoding="UTF-8"?>
