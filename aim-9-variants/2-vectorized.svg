@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="54.9375"
-     inkscape:cx="215.78773"
-     inkscape:cy="174.53887"
+     inkscape:zoom="4"
+     inkscape:cx="282.0319"
+     inkscape:cy="163.17218"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -42,7 +42,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:snap-grids="false">
+     inkscape:snap-grids="true">
     <inkscape:grid
        type="xygrid"
        id="grid10"
@@ -84,19 +84,23 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline">
+    <g
+       id="g838">
+      <path
+         style="fill:#ff0a0a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 319.5,176.78125 V 166.775 H 303 L 295.5,174 H 228 l 1.5,-5 -9.5,5.25 h -9 c -0.71896,0 -2.5,0.14725 -2.5,1.09688 0,0.60755 -0.0148,0.93931 0,1.43437"
+         id="path847"
+         sodipodi:nodetypes="cccccccssc" />
+    </g>
     <path
        style="fill:#ff0a0a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 320,177 v -10 h -17 l -7,7 h -68 l 1.5,-5 -9.5,5 h -9 c -0.71896,0 -2.5,0.39725 -2.5,1.34688 0,0.60755 -0.0148,1.15806 0,1.65312"
-       id="path847"
-       sodipodi:nodetypes="cccccccssc" />
-    <use
-       xlink:href="#path847"
-       transform="matrix(1,0,0,-1,0,354)"
-       fill="#008000"
-       id="use9"
-       x="0"
-       y="0"
-       width="100%"
-       height="100%" />
+       d="m 319.5,202.77474 v -10 h -16.75 l -7,7.72526 H 226.6 l 2.4,-5.5 -9.65912,5.41873 c -3.49642,0 -5.97579,0.0347 -9.3786,0.20091 -2.66914,0.13036 -4.90759,0.0291 -4.90759,1.93948"
+       id="path840"
+       sodipodi:nodetypes="cccccccsc" />
+    <path
+       style="fill:#ff0a0a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 319.5,228.64974 v -10 h -16 L 295.75,225.5 H 231.37297 L 232,220 220,226 H 202.08728 C 196.9782,226 196,226 194.25,227.64479 v 0.50808"
+       id="path848"
+       sodipodi:nodetypes="cccccccscc" />
   </g>
 </svg>
