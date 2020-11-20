@@ -2,7 +2,7 @@
 
 Used on [this page](https://en.wikipedia.org/wiki/Saltwater_intrusion)
 
-Do NOT extract `fill` and `stroke` to the parent `pattern element as wikipedia won't show it
+Do NOT extract `fill` and `stroke` to the parent `pattern` element as wikipedia won't show it
 
 The pattern can be tampered with by modifying its `patternTransform="matrix(3 3 -4 4 0 0)"` attribute
 
