@@ -24,6 +24,10 @@ Use {{Vector version available|NewImage.svg}} template in old raster pages to sh
 
 ---
 
+For translating SVG files see [this helpful guide](https://commons.wikimedia.org/wiki/Commons:Translation_possible/Learn_more)
+
+---
+
 Guidelines for creating  SVG files are available in [this mozilla page](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/SVG_Guidelines)
 
 ---
