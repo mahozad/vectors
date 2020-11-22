@@ -1,0 +1,1335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="85.894px" height="292.39px" viewBox="0 0 85.894 292.39" enable-background="new 0 0 85.894 292.39" xml:space="preserve">
+<g id="background">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="41.8662" y1="2.1787" x2="41.8662" y2="83.6411">
+		<stop  offset="0" style="stop-color:#CCCCCC"/>
+		<stop  offset="1" style="stop-color:#666666"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" stroke="#000000" d="M35.745,1.609c-0.896,9.962-20.755,59.85,1.691,81.415c4.542,0,5.154,0,10.309,0
+		c13.999-10.256,9.916-61.947,1.691-81.415C41.212,1.502,37.745,1.609,35.745,1.609"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="9.4453" y1="183.5327" x2="75.9385" y2="183.5327">
+		<stop  offset="0.0056" style="stop-color:#EBC17D"/>
+		<stop  offset="0.1854" style="stop-color:#DFB77C"/>
+		<stop  offset="0.5955" style="stop-color:#C08329"/>
+		<stop  offset="0.8708" style="stop-color:#EABE81"/>
+		<stop  offset="1" style="stop-color:#EEDCC3"/>
+	</linearGradient>
+	<rect x="9.445" y="129.464" fill="url(#SVGID_2_)" width="66.493" height="108.137"/>
+</g>
+<g id="head">
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="42.5908" y1="130.9492" x2="42.5908" y2="1.677">
+		<stop  offset="0.0056" style="stop-color:#C4C6C8"/>
+		<stop  offset="0.3596" style="stop-color:#939598"/>
+		<stop  offset="0.5867" style="stop-color:#A2A4A7"/>
+		<stop  offset="0.6517" style="stop-color:#A7A9AC"/>
+		<stop  offset="0.8652" style="stop-color:#A9ABAE"/>
+		<stop  offset="1" style="stop-color:#A7A9AC"/>
+		<stop  offset="1" style="stop-color:#D1D3D4"/>
+	</linearGradient>
+	<path fill="url(#SVGID_3_)" stroke="#000000" stroke-linejoin="round" d="M71.667,35.134C65.145-2.319,55.024,1.63,49.437,1.609
+		c0,0,0,7.17,0.358,11.115c13.624,34.488,0.998,62.591-2.05,70.3h-5.154h-5.154c-3.048-7.709-15.674-35.812-2.05-70.3
+		c0.358-3.945,0.358-11.115,0.358-11.115c-5.588,0.021-15.708-3.928-22.23,33.525c-6.908,39.668-5.378,99.142-5.378,106.671
+		c6.902,0,7.709,0,9.86,0c0.985-0.985,11.625-11.234,24.594-10.774c12.969-0.46,23.608,9.789,24.594,10.774c2.151,0,2.958,0,9.86,0
+		C77.045,134.276,78.575,74.802,71.667,35.134z"/>
+</g>
+<g id="body">
+	<g>
+		<g>
+			<defs>
+				<path id="SVGID_4_" d="M71.29,204.662c-4.404,0.979-11.906,6.688-16.311,5.546s-7.177-0.816-15.658,4.403
+					s-6.937,3.915-10.847,7.421c-4.729,4.24-1.795,0.815-5.466,4.486s0,0-3.791,3.791s-6.021,4.592-6.773,5.343
+					s-2.999,2.283-2.999,2.283l-0.001,51.446h66.494v-86.919L71.29,204.662z"/>
+			</defs>
+			<use xlink:href="#SVGID_4_"  overflow="visible" fill="#CDA349"/>
+			<clipPath id="SVGID_5_">
+				<use xlink:href="#SVGID_4_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_5_)">
+				<g>
+					<defs>
+						<rect id="SVGID_6_" x="67.59" y="189.167" width="28.8" height="28.8"/>
+					</defs>
+					<use xlink:href="#SVGID_6_"  overflow="visible" fill="#CDA349"/>
+					<clipPath id="SVGID_7_">
+						<use xlink:href="#SVGID_6_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_7_)" fill="#CDA349" cx="96.39" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_7_)" fill="#CDA349" cx="81.989" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_7_)" fill="#CDA349" cx="67.59" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_7_)" fill="#CDA349" cx="96.39" cy="203.568" r="5.04"/>
+					<circle clip-path="url(#SVGID_7_)" fill="#CDA349" cx="81.989" cy="203.568" r="5.04"/>
+					<circle clip-path="url(#SVGID_7_)" fill="#CDA349" cx="67.59" cy="203.568" r="5.04"/>
+					<circle clip-path="url(#SVGID_7_)" fill="#CDA349" cx="96.39" cy="189.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_7_)" fill="#CDA349" cx="81.989" cy="189.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_7_)" fill="#CDA349" cx="67.59" cy="189.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_7_)" fill="#CDA349" cx="74.79" cy="210.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_7_)" fill="#CDA349" cx="89.189" cy="210.767" r="5.04"/>
+					<path clip-path="url(#SVGID_7_)" fill="#CDA349" d="M103.59,205.727c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V205.727z"/>
+					<circle clip-path="url(#SVGID_7_)" fill="#CDA349" cx="74.79" cy="196.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_7_)" fill="#CDA349" cx="89.189" cy="196.368" r="5.04"/>
+					<path clip-path="url(#SVGID_7_)" fill="#CDA349" d="M103.59,191.328c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V191.328z"/>
+					<path clip-path="url(#SVGID_7_)" fill="#CDA349" d="M69.75,181.967c0,2.783,2.256,5.04,5.04,5.04c2.782,0,5.04-2.257,5.04-5.04
+						H69.75z"/>
+					<path clip-path="url(#SVGID_7_)" fill="#CDA349" d="M84.149,181.967c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H84.149z"/>
+					<path clip-path="url(#SVGID_7_)" fill="#CDA349" d="M79.83,225.167c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H79.83z"/>
+					<path clip-path="url(#SVGID_7_)" fill="#CDA349" d="M94.229,225.167c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H94.229z"/>
+					<path clip-path="url(#SVGID_7_)" fill="#CDA349" d="M60.39,215.807c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V215.807z"/>
+					<path clip-path="url(#SVGID_7_)" fill="#CDA349" d="M60.39,201.408c2.783,0,5.04-2.257,5.04-5.04c0-2.784-2.257-5.04-5.04-5.04
+						V201.408z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_5_)">
+				<g>
+					<defs>
+						<rect id="SVGID_8_" x="67.59" y="217.967" width="28.8" height="28.8"/>
+					</defs>
+					<use xlink:href="#SVGID_8_"  overflow="visible" fill="#CDA349"/>
+					<clipPath id="SVGID_9_">
+						<use xlink:href="#SVGID_8_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_9_)" fill="#CDA349" cx="96.39" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_9_)" fill="#CDA349" cx="81.989" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_9_)" fill="#CDA349" cx="67.59" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_9_)" fill="#CDA349" cx="96.39" cy="232.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_9_)" fill="#CDA349" cx="81.989" cy="232.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_9_)" fill="#CDA349" cx="67.59" cy="232.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_9_)" fill="#CDA349" cx="96.39" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_9_)" fill="#CDA349" cx="81.989" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_9_)" fill="#CDA349" cx="67.59" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_9_)" fill="#CDA349" cx="74.79" cy="239.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_9_)" fill="#CDA349" cx="89.189" cy="239.567" r="5.04"/>
+					<path clip-path="url(#SVGID_9_)" fill="#CDA349" d="M103.59,234.527c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V234.527z"/>
+					<circle clip-path="url(#SVGID_9_)" fill="#CDA349" cx="74.79" cy="225.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_9_)" fill="#CDA349" cx="89.189" cy="225.167" r="5.04"/>
+					<path clip-path="url(#SVGID_9_)" fill="#CDA349" d="M103.59,220.127c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V220.127z"/>
+					<path clip-path="url(#SVGID_9_)" fill="#CDA349" d="M69.75,210.767c0,2.783,2.256,5.04,5.04,5.04c2.782,0,5.04-2.257,5.04-5.04
+						H69.75z"/>
+					<path clip-path="url(#SVGID_9_)" fill="#CDA349" d="M84.149,210.767c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H84.149z"/>
+					<path clip-path="url(#SVGID_9_)" fill="#CDA349" d="M79.83,253.967c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H79.83z"/>
+					<path clip-path="url(#SVGID_9_)" fill="#CDA349" d="M94.229,253.967c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H94.229z"/>
+					<path clip-path="url(#SVGID_9_)" fill="#CDA349" d="M60.39,244.607c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V244.607z"/>
+					<path clip-path="url(#SVGID_9_)" fill="#CDA349" d="M60.39,230.208c2.783,0,5.04-2.257,5.04-5.04c0-2.784-2.257-5.04-5.04-5.04
+						V230.208z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_5_)">
+				<g>
+					<defs>
+						<rect id="SVGID_10_" x="67.59" y="246.767" width="28.8" height="28.8"/>
+					</defs>
+					<use xlink:href="#SVGID_10_"  overflow="visible" fill="#CDA349"/>
+					<clipPath id="SVGID_11_">
+						<use xlink:href="#SVGID_10_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_11_)" fill="#CDA349" cx="96.39" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_11_)" fill="#CDA349" cx="81.989" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_11_)" fill="#CDA349" cx="67.59" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_11_)" fill="#CDA349" cx="96.39" cy="261.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_11_)" fill="#CDA349" cx="81.989" cy="261.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_11_)" fill="#CDA349" cx="67.59" cy="261.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_11_)" fill="#CDA349" cx="96.39" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_11_)" fill="#CDA349" cx="81.989" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_11_)" fill="#CDA349" cx="67.59" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_11_)" fill="#CDA349" cx="74.79" cy="268.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_11_)" fill="#CDA349" cx="89.189" cy="268.367" r="5.04"/>
+					<path clip-path="url(#SVGID_11_)" fill="#CDA349" d="M103.59,263.327c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V263.327z"/>
+					<circle clip-path="url(#SVGID_11_)" fill="#CDA349" cx="74.79" cy="253.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_11_)" fill="#CDA349" cx="89.189" cy="253.967" r="5.04"/>
+					<path clip-path="url(#SVGID_11_)" fill="#CDA349" d="M103.59,248.927c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V248.927z"/>
+					<path clip-path="url(#SVGID_11_)" fill="#CDA349" d="M69.75,239.567c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H69.75z"/>
+					<path clip-path="url(#SVGID_11_)" fill="#CDA349" d="M84.149,239.567c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H84.149z"/>
+					<path clip-path="url(#SVGID_11_)" fill="#CDA349" d="M79.83,282.767c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H79.83z"/>
+					<path clip-path="url(#SVGID_11_)" fill="#CDA349" d="M94.229,282.767c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H94.229z"/>
+					<path clip-path="url(#SVGID_11_)" fill="#CDA349" d="M60.39,273.407c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V273.407z"/>
+					<path clip-path="url(#SVGID_11_)" fill="#CDA349" d="M60.39,259.007c2.783,0,5.04-2.257,5.04-5.04
+						c0-2.784-2.257-5.04-5.04-5.04V259.007z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_5_)">
+				<g>
+					<defs>
+						<rect id="SVGID_12_" x="67.59" y="275.567" width="28.8" height="28.8"/>
+					</defs>
+					<use xlink:href="#SVGID_12_"  overflow="visible" fill="#CDA349"/>
+					<clipPath id="SVGID_13_">
+						<use xlink:href="#SVGID_12_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_13_)" fill="#CDA349" cx="96.39" cy="304.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_13_)" fill="#CDA349" cx="81.989" cy="304.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_13_)" fill="#CDA349" cx="67.59" cy="304.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_13_)" fill="#CDA349" cx="96.39" cy="289.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_13_)" fill="#CDA349" cx="81.989" cy="289.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_13_)" fill="#CDA349" cx="67.59" cy="289.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_13_)" fill="#CDA349" cx="96.39" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_13_)" fill="#CDA349" cx="81.989" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_13_)" fill="#CDA349" cx="67.59" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_13_)" fill="#CDA349" cx="74.79" cy="297.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_13_)" fill="#CDA349" cx="89.189" cy="297.167" r="5.04"/>
+					<path clip-path="url(#SVGID_13_)" fill="#CDA349" d="M103.59,292.126c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V292.126z"/>
+					<circle clip-path="url(#SVGID_13_)" fill="#CDA349" cx="74.79" cy="282.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_13_)" fill="#CDA349" cx="89.189" cy="282.767" r="5.04"/>
+					<path clip-path="url(#SVGID_13_)" fill="#CDA349" d="M103.59,277.727c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V277.727z"/>
+					<path clip-path="url(#SVGID_13_)" fill="#CDA349" d="M69.75,268.367c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H69.75z"/>
+					<path clip-path="url(#SVGID_13_)" fill="#CDA349" d="M84.149,268.367c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H84.149z"/>
+					<path clip-path="url(#SVGID_13_)" fill="#CDA349" d="M79.83,311.567c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H79.83z"/>
+					<path clip-path="url(#SVGID_13_)" fill="#CDA349" d="M94.229,311.567c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H94.229z"/>
+					<path clip-path="url(#SVGID_13_)" fill="#CDA349" d="M60.39,302.207c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V302.207z"/>
+					<path clip-path="url(#SVGID_13_)" fill="#CDA349" d="M60.39,287.807c2.783,0,5.04-2.257,5.04-5.04
+						c0-2.784-2.257-5.04-5.04-5.04V287.807z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_5_)">
+				<g>
+					<defs>
+						<rect id="SVGID_14_" x="38.79" y="189.167" width="28.8" height="28.8"/>
+					</defs>
+					<use xlink:href="#SVGID_14_"  overflow="visible" fill="#CDA349"/>
+					<clipPath id="SVGID_15_">
+						<use xlink:href="#SVGID_14_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_15_)" fill="#CDA349" cx="67.59" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_15_)" fill="#CDA349" cx="53.189" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_15_)" fill="#CDA349" cx="38.79" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_15_)" fill="#CDA349" cx="67.59" cy="203.568" r="5.04"/>
+					<circle clip-path="url(#SVGID_15_)" fill="#CDA349" cx="53.189" cy="203.568" r="5.04"/>
+					<circle clip-path="url(#SVGID_15_)" fill="#CDA349" cx="38.79" cy="203.568" r="5.04"/>
+					<circle clip-path="url(#SVGID_15_)" fill="#CDA349" cx="67.59" cy="189.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_15_)" fill="#CDA349" cx="53.189" cy="189.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_15_)" fill="#CDA349" cx="38.79" cy="189.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_15_)" fill="#CDA349" cx="45.99" cy="210.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_15_)" fill="#CDA349" cx="60.39" cy="210.767" r="5.04"/>
+					<path clip-path="url(#SVGID_15_)" fill="#CDA349" d="M74.79,205.727c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V205.727z"/>
+					<circle clip-path="url(#SVGID_15_)" fill="#CDA349" cx="45.99" cy="196.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_15_)" fill="#CDA349" cx="60.39" cy="196.368" r="5.04"/>
+					<path clip-path="url(#SVGID_15_)" fill="#CDA349" d="M74.79,191.328c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V191.328z"/>
+					<path clip-path="url(#SVGID_15_)" fill="#CDA349" d="M40.95,181.967c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H40.95z"/>
+					<path clip-path="url(#SVGID_15_)" fill="#CDA349" d="M55.35,181.967c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H55.35z"/>
+					<path clip-path="url(#SVGID_15_)" fill="#CDA349" d="M51.03,225.167c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H51.03z"/>
+					<path clip-path="url(#SVGID_15_)" fill="#CDA349" d="M65.43,225.167c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H65.43z"/>
+					<path clip-path="url(#SVGID_15_)" fill="#CDA349" d="M31.59,215.807c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V215.807z"/>
+					<path clip-path="url(#SVGID_15_)" fill="#CDA349" d="M31.59,201.408c2.783,0,5.04-2.257,5.04-5.04
+						c0-2.784-2.257-5.04-5.04-5.04V201.408z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_5_)">
+				<g>
+					<defs>
+						<rect id="SVGID_16_" x="38.79" y="217.967" width="28.8" height="28.8"/>
+					</defs>
+					<use xlink:href="#SVGID_16_"  overflow="visible" fill="#CDA349"/>
+					<clipPath id="SVGID_17_">
+						<use xlink:href="#SVGID_16_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_17_)" fill="#CDA349" cx="67.59" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_17_)" fill="#CDA349" cx="53.189" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_17_)" fill="#CDA349" cx="38.79" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_17_)" fill="#CDA349" cx="67.59" cy="232.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_17_)" fill="#CDA349" cx="53.189" cy="232.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_17_)" fill="#CDA349" cx="38.79" cy="232.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_17_)" fill="#CDA349" cx="67.59" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_17_)" fill="#CDA349" cx="53.189" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_17_)" fill="#CDA349" cx="38.79" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_17_)" fill="#CDA349" cx="45.99" cy="239.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_17_)" fill="#CDA349" cx="60.39" cy="239.567" r="5.04"/>
+					<path clip-path="url(#SVGID_17_)" fill="#CDA349" d="M74.79,234.527c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V234.527z"/>
+					<circle clip-path="url(#SVGID_17_)" fill="#CDA349" cx="45.99" cy="225.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_17_)" fill="#CDA349" cx="60.39" cy="225.167" r="5.04"/>
+					<path clip-path="url(#SVGID_17_)" fill="#CDA349" d="M74.79,220.127c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V220.127z"/>
+					<path clip-path="url(#SVGID_17_)" fill="#CDA349" d="M40.95,210.767c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H40.95z"/>
+					<path clip-path="url(#SVGID_17_)" fill="#CDA349" d="M55.35,210.767c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H55.35z"/>
+					<path clip-path="url(#SVGID_17_)" fill="#CDA349" d="M51.03,253.967c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H51.03z"/>
+					<path clip-path="url(#SVGID_17_)" fill="#CDA349" d="M65.43,253.967c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H65.43z"/>
+					<path clip-path="url(#SVGID_17_)" fill="#CDA349" d="M31.59,244.607c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V244.607z"/>
+					<path clip-path="url(#SVGID_17_)" fill="#CDA349" d="M31.59,230.208c2.783,0,5.04-2.257,5.04-5.04
+						c0-2.784-2.257-5.04-5.04-5.04V230.208z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_5_)">
+				<g>
+					<defs>
+						<rect id="SVGID_18_" x="38.79" y="246.767" width="28.8" height="28.8"/>
+					</defs>
+					<use xlink:href="#SVGID_18_"  overflow="visible" fill="#CDA349"/>
+					<clipPath id="SVGID_19_">
+						<use xlink:href="#SVGID_18_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_19_)" fill="#CDA349" cx="67.59" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_19_)" fill="#CDA349" cx="53.189" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_19_)" fill="#CDA349" cx="38.79" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_19_)" fill="#CDA349" cx="67.59" cy="261.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_19_)" fill="#CDA349" cx="53.189" cy="261.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_19_)" fill="#CDA349" cx="38.79" cy="261.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_19_)" fill="#CDA349" cx="67.59" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_19_)" fill="#CDA349" cx="53.189" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_19_)" fill="#CDA349" cx="38.79" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_19_)" fill="#CDA349" cx="45.99" cy="268.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_19_)" fill="#CDA349" cx="60.39" cy="268.367" r="5.04"/>
+					<path clip-path="url(#SVGID_19_)" fill="#CDA349" d="M74.79,263.327c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V263.327z"/>
+					<circle clip-path="url(#SVGID_19_)" fill="#CDA349" cx="45.99" cy="253.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_19_)" fill="#CDA349" cx="60.39" cy="253.967" r="5.04"/>
+					<path clip-path="url(#SVGID_19_)" fill="#CDA349" d="M74.79,248.927c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V248.927z"/>
+					<path clip-path="url(#SVGID_19_)" fill="#CDA349" d="M40.95,239.567c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H40.95z"/>
+					<path clip-path="url(#SVGID_19_)" fill="#CDA349" d="M55.35,239.567c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H55.35z"/>
+					<path clip-path="url(#SVGID_19_)" fill="#CDA349" d="M51.03,282.767c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H51.03z"/>
+					<path clip-path="url(#SVGID_19_)" fill="#CDA349" d="M65.43,282.767c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H65.43z"/>
+					<path clip-path="url(#SVGID_19_)" fill="#CDA349" d="M31.59,273.407c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V273.407z"/>
+					<path clip-path="url(#SVGID_19_)" fill="#CDA349" d="M31.59,259.007c2.783,0,5.04-2.257,5.04-5.04
+						c0-2.784-2.257-5.04-5.04-5.04V259.007z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_5_)">
+				<g>
+					<defs>
+						<rect id="SVGID_20_" x="38.79" y="275.567" width="28.8" height="28.8"/>
+					</defs>
+					<use xlink:href="#SVGID_20_"  overflow="visible" fill="#CDA349"/>
+					<clipPath id="SVGID_21_">
+						<use xlink:href="#SVGID_20_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_21_)" fill="#CDA349" cx="67.59" cy="304.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_21_)" fill="#CDA349" cx="53.189" cy="304.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_21_)" fill="#CDA349" cx="38.79" cy="304.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_21_)" fill="#CDA349" cx="67.59" cy="289.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_21_)" fill="#CDA349" cx="53.189" cy="289.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_21_)" fill="#CDA349" cx="38.79" cy="289.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_21_)" fill="#CDA349" cx="67.59" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_21_)" fill="#CDA349" cx="53.189" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_21_)" fill="#CDA349" cx="38.79" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_21_)" fill="#CDA349" cx="45.99" cy="297.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_21_)" fill="#CDA349" cx="60.39" cy="297.167" r="5.04"/>
+					<path clip-path="url(#SVGID_21_)" fill="#CDA349" d="M74.79,292.126c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V292.126z"/>
+					<circle clip-path="url(#SVGID_21_)" fill="#CDA349" cx="45.99" cy="282.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_21_)" fill="#CDA349" cx="60.39" cy="282.767" r="5.04"/>
+					<path clip-path="url(#SVGID_21_)" fill="#CDA349" d="M74.79,277.727c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V277.727z"/>
+					<path clip-path="url(#SVGID_21_)" fill="#CDA349" d="M40.95,268.367c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H40.95z"/>
+					<path clip-path="url(#SVGID_21_)" fill="#CDA349" d="M55.35,268.367c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H55.35z"/>
+					<path clip-path="url(#SVGID_21_)" fill="#CDA349" d="M51.03,311.567c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H51.03z"/>
+					<path clip-path="url(#SVGID_21_)" fill="#CDA349" d="M65.43,311.567c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H65.43z"/>
+					<path clip-path="url(#SVGID_21_)" fill="#CDA349" d="M31.59,302.207c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V302.207z"/>
+					<path clip-path="url(#SVGID_21_)" fill="#CDA349" d="M31.59,287.807c2.783,0,5.04-2.257,5.04-5.04
+						c0-2.784-2.257-5.04-5.04-5.04V287.807z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_5_)">
+				<g>
+					<defs>
+						<rect id="SVGID_22_" x="9.99" y="189.167" width="28.8" height="28.8"/>
+					</defs>
+					<use xlink:href="#SVGID_22_"  overflow="visible" fill="#CDA349"/>
+					<clipPath id="SVGID_23_">
+						<use xlink:href="#SVGID_22_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_23_)" fill="#CDA349" cx="38.79" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_23_)" fill="#CDA349" cx="24.39" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_23_)" fill="#CDA349" cx="9.99" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_23_)" fill="#CDA349" cx="38.79" cy="203.568" r="5.04"/>
+					<circle clip-path="url(#SVGID_23_)" fill="#CDA349" cx="24.39" cy="203.568" r="5.04"/>
+					<circle clip-path="url(#SVGID_23_)" fill="#CDA349" cx="9.99" cy="203.568" r="5.04"/>
+					<circle clip-path="url(#SVGID_23_)" fill="#CDA349" cx="38.79" cy="189.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_23_)" fill="#CDA349" cx="24.39" cy="189.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_23_)" fill="#CDA349" cx="9.99" cy="189.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_23_)" fill="#CDA349" cx="17.19" cy="210.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_23_)" fill="#CDA349" cx="31.59" cy="210.767" r="5.04"/>
+					<path clip-path="url(#SVGID_23_)" fill="#CDA349" d="M45.99,205.727c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V205.727z"/>
+					<circle clip-path="url(#SVGID_23_)" fill="#CDA349" cx="17.19" cy="196.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_23_)" fill="#CDA349" cx="31.59" cy="196.368" r="5.04"/>
+					<path clip-path="url(#SVGID_23_)" fill="#CDA349" d="M45.99,191.328c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V191.328z"/>
+					<path clip-path="url(#SVGID_23_)" fill="#CDA349" d="M12.15,181.967c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H12.15z"/>
+					<path clip-path="url(#SVGID_23_)" fill="#CDA349" d="M26.55,181.967c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H26.55z"/>
+					<path clip-path="url(#SVGID_23_)" fill="#CDA349" d="M22.23,225.167c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H22.23z"/>
+					<path clip-path="url(#SVGID_23_)" fill="#CDA349" d="M36.63,225.167c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H36.63z"/>
+					<path clip-path="url(#SVGID_23_)" fill="#CDA349" d="M2.79,215.807c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V215.807z"/>
+					<path clip-path="url(#SVGID_23_)" fill="#CDA349" d="M2.79,201.408c2.783,0,5.04-2.257,5.04-5.04c0-2.784-2.257-5.04-5.04-5.04
+						V201.408z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_5_)">
+				<g>
+					<defs>
+						<rect id="SVGID_24_" x="9.99" y="217.967" width="28.8" height="28.8"/>
+					</defs>
+					<use xlink:href="#SVGID_24_"  overflow="visible" fill="#CDA349"/>
+					<clipPath id="SVGID_25_">
+						<use xlink:href="#SVGID_24_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_25_)" fill="#CDA349" cx="38.79" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_25_)" fill="#CDA349" cx="24.39" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_25_)" fill="#CDA349" cx="9.99" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_25_)" fill="#CDA349" cx="38.79" cy="232.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_25_)" fill="#CDA349" cx="24.39" cy="232.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_25_)" fill="#CDA349" cx="9.99" cy="232.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_25_)" fill="#CDA349" cx="38.79" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_25_)" fill="#CDA349" cx="24.39" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_25_)" fill="#CDA349" cx="9.99" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_25_)" fill="#CDA349" cx="17.19" cy="239.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_25_)" fill="#CDA349" cx="31.59" cy="239.567" r="5.04"/>
+					<path clip-path="url(#SVGID_25_)" fill="#CDA349" d="M45.99,234.527c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V234.527z"/>
+					<circle clip-path="url(#SVGID_25_)" fill="#CDA349" cx="17.19" cy="225.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_25_)" fill="#CDA349" cx="31.59" cy="225.167" r="5.04"/>
+					<path clip-path="url(#SVGID_25_)" fill="#CDA349" d="M45.99,220.127c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V220.127z"/>
+					<path clip-path="url(#SVGID_25_)" fill="#CDA349" d="M12.15,210.767c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H12.15z"/>
+					<path clip-path="url(#SVGID_25_)" fill="#CDA349" d="M26.55,210.767c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H26.55z"/>
+					<path clip-path="url(#SVGID_25_)" fill="#CDA349" d="M22.23,253.967c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H22.23z"/>
+					<path clip-path="url(#SVGID_25_)" fill="#CDA349" d="M36.63,253.967c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H36.63z"/>
+					<path clip-path="url(#SVGID_25_)" fill="#CDA349" d="M2.79,244.607c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V244.607z"/>
+					<path clip-path="url(#SVGID_25_)" fill="#CDA349" d="M2.79,230.208c2.783,0,5.04-2.257,5.04-5.04c0-2.784-2.257-5.04-5.04-5.04
+						V230.208z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_5_)">
+				<g>
+					<defs>
+						<rect id="SVGID_26_" x="9.99" y="246.767" width="28.8" height="28.8"/>
+					</defs>
+					<use xlink:href="#SVGID_26_"  overflow="visible" fill="#CDA349"/>
+					<clipPath id="SVGID_27_">
+						<use xlink:href="#SVGID_26_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_27_)" fill="#CDA349" cx="38.79" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_27_)" fill="#CDA349" cx="24.39" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_27_)" fill="#CDA349" cx="9.99" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_27_)" fill="#CDA349" cx="38.79" cy="261.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_27_)" fill="#CDA349" cx="24.39" cy="261.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_27_)" fill="#CDA349" cx="9.99" cy="261.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_27_)" fill="#CDA349" cx="38.79" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_27_)" fill="#CDA349" cx="24.39" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_27_)" fill="#CDA349" cx="9.99" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_27_)" fill="#CDA349" cx="17.19" cy="268.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_27_)" fill="#CDA349" cx="31.59" cy="268.367" r="5.04"/>
+					<path clip-path="url(#SVGID_27_)" fill="#CDA349" d="M45.99,263.327c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V263.327z"/>
+					<circle clip-path="url(#SVGID_27_)" fill="#CDA349" cx="17.19" cy="253.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_27_)" fill="#CDA349" cx="31.59" cy="253.967" r="5.04"/>
+					<path clip-path="url(#SVGID_27_)" fill="#CDA349" d="M45.99,248.927c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V248.927z"/>
+					<path clip-path="url(#SVGID_27_)" fill="#CDA349" d="M12.15,239.567c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H12.15z"/>
+					<path clip-path="url(#SVGID_27_)" fill="#CDA349" d="M26.55,239.567c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H26.55z"/>
+					<path clip-path="url(#SVGID_27_)" fill="#CDA349" d="M22.23,282.767c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H22.23z"/>
+					<path clip-path="url(#SVGID_27_)" fill="#CDA349" d="M36.63,282.767c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H36.63z"/>
+					<path clip-path="url(#SVGID_27_)" fill="#CDA349" d="M2.79,273.407c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V273.407z"/>
+					<path clip-path="url(#SVGID_27_)" fill="#CDA349" d="M2.79,259.007c2.783,0,5.04-2.257,5.04-5.04c0-2.784-2.257-5.04-5.04-5.04
+						V259.007z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_5_)">
+				<g>
+					<defs>
+						<rect id="SVGID_28_" x="9.99" y="275.567" width="28.8" height="28.8"/>
+					</defs>
+					<use xlink:href="#SVGID_28_"  overflow="visible" fill="#CDA349"/>
+					<clipPath id="SVGID_29_">
+						<use xlink:href="#SVGID_28_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_29_)" fill="#CDA349" cx="38.79" cy="304.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_29_)" fill="#CDA349" cx="24.39" cy="304.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_29_)" fill="#CDA349" cx="9.99" cy="304.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_29_)" fill="#CDA349" cx="38.79" cy="289.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_29_)" fill="#CDA349" cx="24.39" cy="289.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_29_)" fill="#CDA349" cx="9.99" cy="289.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_29_)" fill="#CDA349" cx="38.79" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_29_)" fill="#CDA349" cx="24.39" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_29_)" fill="#CDA349" cx="9.99" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_29_)" fill="#CDA349" cx="17.19" cy="297.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_29_)" fill="#CDA349" cx="31.59" cy="297.167" r="5.04"/>
+					<path clip-path="url(#SVGID_29_)" fill="#CDA349" d="M45.99,292.126c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V292.126z"/>
+					<circle clip-path="url(#SVGID_29_)" fill="#CDA349" cx="17.19" cy="282.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_29_)" fill="#CDA349" cx="31.59" cy="282.767" r="5.04"/>
+					<path clip-path="url(#SVGID_29_)" fill="#CDA349" d="M45.99,277.727c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V277.727z"/>
+					<path clip-path="url(#SVGID_29_)" fill="#CDA349" d="M12.15,268.367c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H12.15z"/>
+					<path clip-path="url(#SVGID_29_)" fill="#CDA349" d="M26.55,268.367c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H26.55z"/>
+					<path clip-path="url(#SVGID_29_)" fill="#CDA349" d="M22.23,311.567c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H22.23z"/>
+					<path clip-path="url(#SVGID_29_)" fill="#CDA349" d="M36.63,311.567c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H36.63z"/>
+					<path clip-path="url(#SVGID_29_)" fill="#CDA349" d="M2.79,302.207c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V302.207z"/>
+					<path clip-path="url(#SVGID_29_)" fill="#CDA349" d="M2.79,287.807c2.783,0,5.04-2.257,5.04-5.04c0-2.784-2.257-5.04-5.04-5.04
+						V287.807z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_5_)">
+				<g>
+					<defs>
+						<rect id="SVGID_30_" x="-18.81" y="189.167" width="28.8" height="28.8"/>
+					</defs>
+					<use xlink:href="#SVGID_30_"  overflow="visible" fill="#CDA349"/>
+					<clipPath id="SVGID_31_">
+						<use xlink:href="#SVGID_30_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_31_)" fill="#CDA349" cx="9.99" cy="217.967" r="5.04"/>
+					<path clip-path="url(#SVGID_31_)" fill="#CDA349" d="M-4.405,212.928c0.026,3.359,0.018,6.719-0.012,10.078
+						c0.003,0,0.005,0.001,0.007,0.001c2.783,0,5.04-2.257,5.04-5.04C0.63,215.185-1.624,212.93-4.405,212.928z"/>
+					<circle clip-path="url(#SVGID_31_)" fill="#CDA349" cx="9.99" cy="203.568" r="5.04"/>
+					<path clip-path="url(#SVGID_31_)" fill="#CDA349" d="M-4.41,198.528c-0.11,0-0.214,0.025-0.322,0.032
+						c0.125,3.348,0.209,6.694,0.263,10.042c0.021,0,0.039,0.006,0.06,0.006c2.783,0,5.04-2.258,5.04-5.04
+						C0.63,200.784-1.627,198.528-4.41,198.528z"/>
+					<circle clip-path="url(#SVGID_31_)" fill="#CDA349" cx="9.99" cy="189.167" r="5.04"/>
+					<path clip-path="url(#SVGID_31_)" fill="#CDA349" d="M-4.41,184.127c-0.387,0-0.759,0.053-1.12,0.135
+						c0.243,3.298,0.447,6.596,0.605,9.894c0.172,0.018,0.338,0.052,0.515,0.052c2.783,0,5.04-2.257,5.04-5.04
+						C0.63,186.383-1.627,184.127-4.41,184.127z"/>
+					<circle clip-path="url(#SVGID_31_)" fill="#CDA349" cx="2.79" cy="210.767" r="5.04"/>
+					<path clip-path="url(#SVGID_31_)" fill="#CDA349" d="M17.19,205.727c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V205.727z"/>
+					<circle clip-path="url(#SVGID_31_)" fill="#CDA349" cx="2.79" cy="196.368" r="5.04"/>
+					<path clip-path="url(#SVGID_31_)" fill="#CDA349" d="M17.19,191.328c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V191.328z"/>
+					<path clip-path="url(#SVGID_31_)" fill="#CDA349" d="M-2.25,181.967c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H-2.25z"/>
+					<path clip-path="url(#SVGID_31_)" fill="#CDA349" d="M7.83,225.167c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H7.83z"/>
+					<path clip-path="url(#SVGID_31_)" fill="#CDA349" d="M-24.902,191.458c-0.357-0.08-0.726-0.131-1.107-0.131v5.582
+						C-25.666,195.09-25.301,193.273-24.902,191.458z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_5_)">
+				<g>
+					<defs>
+						<rect id="SVGID_32_" x="-18.81" y="217.967" width="28.8" height="28.8"/>
+					</defs>
+					<use xlink:href="#SVGID_32_"  overflow="visible" fill="#CDA349"/>
+					<clipPath id="SVGID_33_">
+						<use xlink:href="#SVGID_32_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_33_)" fill="#CDA349" cx="9.99" cy="246.767" r="5.04"/>
+					<path clip-path="url(#SVGID_33_)" fill="#CDA349" d="M-4.41,241.727c-0.134,0-0.259,0.029-0.391,0.039
+						c-0.101,3.323-0.212,6.646-0.333,9.968c0.238,0.035,0.476,0.073,0.724,0.073c2.783,0,5.04-2.257,5.04-5.04
+						C0.63,243.983-1.627,241.727-4.41,241.727z"/>
+					<circle clip-path="url(#SVGID_33_)" fill="#CDA349" cx="9.99" cy="232.368" r="5.04"/>
+					<path clip-path="url(#SVGID_33_)" fill="#CDA349" d="M-4.41,227.328c-0.021,0-0.04,0.006-0.061,0.006
+						c-0.05,3.35-0.114,6.698-0.202,10.048c0.089,0.005,0.173,0.026,0.263,0.026c2.783,0,5.04-2.258,5.04-5.04
+						C0.63,229.583-1.627,227.328-4.41,227.328z"/>
+					<circle clip-path="url(#SVGID_33_)" fill="#CDA349" cx="9.99" cy="217.967" r="5.04"/>
+					<path clip-path="url(#SVGID_33_)" fill="#CDA349" d="M-4.405,212.928c0.026,3.359,0.018,6.719-0.012,10.078
+						c0.003,0,0.005,0.001,0.007,0.001c2.783,0,5.04-2.257,5.04-5.04C0.63,215.185-1.624,212.93-4.405,212.928z"/>
+					<circle clip-path="url(#SVGID_33_)" fill="#CDA349" cx="2.79" cy="239.567" r="5.04"/>
+					<path clip-path="url(#SVGID_33_)" fill="#CDA349" d="M17.19,234.527c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V234.527z"/>
+					<circle clip-path="url(#SVGID_33_)" fill="#CDA349" cx="2.79" cy="225.167" r="5.04"/>
+					<path clip-path="url(#SVGID_33_)" fill="#CDA349" d="M17.19,220.127c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V220.127z"/>
+					<path clip-path="url(#SVGID_33_)" fill="#CDA349" d="M-2.25,210.767c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H-2.25z"/>
+					<path clip-path="url(#SVGID_33_)" fill="#CDA349" d="M7.83,253.967c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H7.83z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_5_)">
+				<g>
+					<defs>
+						<rect id="SVGID_34_" x="-18.81" y="246.767" width="28.8" height="28.8"/>
+					</defs>
+					<use xlink:href="#SVGID_34_"  overflow="visible" fill="#CDA349"/>
+					<clipPath id="SVGID_35_">
+						<use xlink:href="#SVGID_34_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_35_)" fill="#CDA349" cx="9.99" cy="275.567" r="5.04"/>
+					<path clip-path="url(#SVGID_35_)" fill="#CDA349" d="M-4.41,270.527c-0.514,0-1,0.1-1.467,0.242
+						c-0.126,3.161-0.248,6.321-0.363,9.482c0.568,0.223,1.183,0.355,1.83,0.355c2.783,0,5.04-2.257,5.04-5.04
+						C0.63,272.783-1.627,270.527-4.41,270.527z"/>
+					<circle clip-path="url(#SVGID_35_)" fill="#CDA349" cx="9.99" cy="261.167" r="5.04"/>
+					<path clip-path="url(#SVGID_35_)" fill="#CDA349" d="M-4.41,256.127c-0.305,0-0.601,0.038-0.89,0.09
+						c-0.127,3.269-0.256,6.537-0.388,9.807c0.41,0.107,0.833,0.184,1.277,0.184c2.783,0,5.04-2.258,5.04-5.04
+						C0.63,258.383-1.627,256.127-4.41,256.127z"/>
+					<circle clip-path="url(#SVGID_35_)" fill="#CDA349" cx="9.99" cy="246.767" r="5.04"/>
+					<path clip-path="url(#SVGID_35_)" fill="#CDA349" d="M-4.41,241.727c-0.134,0-0.259,0.029-0.391,0.039
+						c-0.101,3.323-0.212,6.646-0.333,9.968c0.238,0.035,0.476,0.073,0.724,0.073c2.783,0,5.04-2.257,5.04-5.04
+						C0.63,243.983-1.627,241.727-4.41,241.727z"/>
+					<circle clip-path="url(#SVGID_35_)" fill="#CDA349" cx="2.79" cy="268.367" r="5.04"/>
+					<path clip-path="url(#SVGID_35_)" fill="#CDA349" d="M17.19,263.327c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V263.327z"/>
+					<circle clip-path="url(#SVGID_35_)" fill="#CDA349" cx="2.79" cy="253.967" r="5.04"/>
+					<path clip-path="url(#SVGID_35_)" fill="#CDA349" d="M17.19,248.927c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V248.927z"/>
+					<path clip-path="url(#SVGID_35_)" fill="#CDA349" d="M-2.25,239.567c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H-2.25z"/>
+					<path clip-path="url(#SVGID_35_)" fill="#CDA349" d="M7.83,282.767c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H7.83z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_5_)">
+				<g>
+					<defs>
+						<rect id="SVGID_36_" x="-18.81" y="275.567" width="28.8" height="28.8"/>
+					</defs>
+					<use xlink:href="#SVGID_36_"  overflow="visible" fill="#CDA349"/>
+					<clipPath id="SVGID_37_">
+						<use xlink:href="#SVGID_36_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_37_)" fill="#CDA349" cx="9.99" cy="304.367" r="5.04"/>
+					<path clip-path="url(#SVGID_37_)" fill="#CDA349" d="M-4.41,299.327c-0.875,0-1.686,0.243-2.402,0.636
+						c-0.06,2.913-0.101,5.827-0.126,8.741c0.746,0.436,1.603,0.703,2.528,0.703c2.783,0,5.04-2.257,5.04-5.04
+						C0.63,301.583-1.627,299.327-4.41,299.327z"/>
+					<circle clip-path="url(#SVGID_37_)" fill="#CDA349" cx="9.99" cy="289.967" r="5.04"/>
+					<path clip-path="url(#SVGID_37_)" fill="#CDA349" d="M-4.41,284.927c-0.714,0-1.391,0.152-2.006,0.42
+						c-0.102,3.03-0.193,6.062-0.272,9.092c0.688,0.352,1.454,0.568,2.278,0.568c2.783,0,5.04-2.258,5.04-5.04
+						C0.63,287.183-1.627,284.927-4.41,284.927z"/>
+					<circle clip-path="url(#SVGID_37_)" fill="#CDA349" cx="9.99" cy="275.567" r="5.04"/>
+					<path clip-path="url(#SVGID_37_)" fill="#CDA349" d="M-4.41,270.527c-0.514,0-1,0.1-1.467,0.242
+						c-0.126,3.161-0.248,6.321-0.363,9.482c0.568,0.223,1.183,0.355,1.83,0.355c2.783,0,5.04-2.257,5.04-5.04
+						C0.63,272.783-1.627,270.527-4.41,270.527z"/>
+					<circle clip-path="url(#SVGID_37_)" fill="#CDA349" cx="2.79" cy="297.167" r="5.04"/>
+					<path clip-path="url(#SVGID_37_)" fill="#CDA349" d="M17.19,292.126c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V292.126z"/>
+					<circle clip-path="url(#SVGID_37_)" fill="#CDA349" cx="2.79" cy="282.767" r="5.04"/>
+					<path clip-path="url(#SVGID_37_)" fill="#CDA349" d="M17.19,277.727c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V277.727z"/>
+					<path clip-path="url(#SVGID_37_)" fill="#CDA349" d="M-2.25,268.367c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H-2.25z"/>
+					<path clip-path="url(#SVGID_37_)" fill="#CDA349" d="M7.83,311.567c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H7.83z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<defs>
+				<path id="SVGID_38_" d="M71.29,204.662c-4.404,0.979-11.906,6.688-16.311,5.546s-7.177-0.816-15.658,4.403
+					s-6.937,3.915-10.847,7.421c-4.729,4.24-1.795,0.815-5.466,4.486s0,0-3.791,3.791s-6.021,4.592-6.773,5.343
+					s-2.999,2.283-2.999,2.283l-0.001,51.446h66.494v-86.919L71.29,204.662z"/>
+			</defs>
+			<clipPath id="SVGID_39_">
+				<use xlink:href="#SVGID_38_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_39_)">
+				<g>
+					<defs>
+						<rect id="SVGID_40_" x="67.59" y="189.167" width="28.8" height="28.8"/>
+					</defs>
+					<clipPath id="SVGID_41_">
+						<use xlink:href="#SVGID_40_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_41_)" fill="#231F20" cx="96.39" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_41_)" fill="#231F20" cx="81.989" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_41_)" fill="#231F20" cx="67.59" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_41_)" fill="#231F20" cx="96.39" cy="203.568" r="5.04"/>
+					<circle clip-path="url(#SVGID_41_)" fill="#231F20" cx="81.989" cy="203.568" r="5.04"/>
+					<circle clip-path="url(#SVGID_41_)" fill="#231F20" cx="67.59" cy="203.568" r="5.04"/>
+					<circle clip-path="url(#SVGID_41_)" fill="#231F20" cx="96.39" cy="189.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_41_)" fill="#231F20" cx="81.989" cy="189.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_41_)" fill="#231F20" cx="67.59" cy="189.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_41_)" fill="#231F20" cx="74.79" cy="210.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_41_)" fill="#231F20" cx="89.189" cy="210.767" r="5.04"/>
+					<path clip-path="url(#SVGID_41_)" fill="#231F20" d="M103.59,205.727c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V205.727z"/>
+					<circle clip-path="url(#SVGID_41_)" fill="#231F20" cx="74.79" cy="196.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_41_)" fill="#231F20" cx="89.189" cy="196.368" r="5.04"/>
+					<path clip-path="url(#SVGID_41_)" fill="#231F20" d="M103.59,191.328c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V191.328z"/>
+					<path clip-path="url(#SVGID_41_)" fill="#231F20" d="M69.75,181.967c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H69.75z"/>
+					<path clip-path="url(#SVGID_41_)" fill="#231F20" d="M84.149,181.967c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H84.149z"/>
+					<path clip-path="url(#SVGID_41_)" fill="#231F20" d="M79.83,225.167c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H79.83z"/>
+					<path clip-path="url(#SVGID_41_)" fill="#231F20" d="M94.229,225.167c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H94.229z"/>
+					<path clip-path="url(#SVGID_41_)" fill="#231F20" d="M60.39,215.807c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V215.807z"/>
+					<path clip-path="url(#SVGID_41_)" fill="#231F20" d="M60.39,201.408c2.783,0,5.04-2.257,5.04-5.04
+						c0-2.784-2.257-5.04-5.04-5.04V201.408z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_39_)">
+				<g>
+					<defs>
+						<rect id="SVGID_42_" x="67.59" y="217.967" width="28.8" height="28.8"/>
+					</defs>
+					<clipPath id="SVGID_43_">
+						<use xlink:href="#SVGID_42_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_43_)" fill="#231F20" cx="96.39" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_43_)" fill="#231F20" cx="81.989" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_43_)" fill="#231F20" cx="67.59" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_43_)" fill="#231F20" cx="96.39" cy="232.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_43_)" fill="#231F20" cx="81.989" cy="232.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_43_)" fill="#231F20" cx="67.59" cy="232.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_43_)" fill="#231F20" cx="96.39" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_43_)" fill="#231F20" cx="81.989" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_43_)" fill="#231F20" cx="67.59" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_43_)" fill="#231F20" cx="74.79" cy="239.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_43_)" fill="#231F20" cx="89.189" cy="239.567" r="5.04"/>
+					<path clip-path="url(#SVGID_43_)" fill="#231F20" d="M103.59,234.527c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V234.527z"/>
+					<circle clip-path="url(#SVGID_43_)" fill="#231F20" cx="74.79" cy="225.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_43_)" fill="#231F20" cx="89.189" cy="225.167" r="5.04"/>
+					<path clip-path="url(#SVGID_43_)" fill="#231F20" d="M103.59,220.127c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V220.127z"/>
+					<path clip-path="url(#SVGID_43_)" fill="#231F20" d="M69.75,210.767c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H69.75z"/>
+					<path clip-path="url(#SVGID_43_)" fill="#231F20" d="M84.149,210.767c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H84.149z"/>
+					<path clip-path="url(#SVGID_43_)" fill="#231F20" d="M79.83,253.967c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H79.83z"/>
+					<path clip-path="url(#SVGID_43_)" fill="#231F20" d="M94.229,253.967c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H94.229z"/>
+					<path clip-path="url(#SVGID_43_)" fill="#231F20" d="M60.39,244.607c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V244.607z"/>
+					<path clip-path="url(#SVGID_43_)" fill="#231F20" d="M60.39,230.208c2.783,0,5.04-2.257,5.04-5.04
+						c0-2.784-2.257-5.04-5.04-5.04V230.208z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_39_)">
+				<g>
+					<defs>
+						<rect id="SVGID_44_" x="67.59" y="246.767" width="28.8" height="28.8"/>
+					</defs>
+					<clipPath id="SVGID_45_">
+						<use xlink:href="#SVGID_44_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_45_)" fill="#231F20" cx="96.39" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_45_)" fill="#231F20" cx="81.989" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_45_)" fill="#231F20" cx="67.59" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_45_)" fill="#231F20" cx="96.39" cy="261.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_45_)" fill="#231F20" cx="81.989" cy="261.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_45_)" fill="#231F20" cx="67.59" cy="261.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_45_)" fill="#231F20" cx="96.39" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_45_)" fill="#231F20" cx="81.989" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_45_)" fill="#231F20" cx="67.59" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_45_)" fill="#231F20" cx="74.79" cy="268.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_45_)" fill="#231F20" cx="89.189" cy="268.367" r="5.04"/>
+					<path clip-path="url(#SVGID_45_)" fill="#231F20" d="M103.59,263.327c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V263.327z"/>
+					<circle clip-path="url(#SVGID_45_)" fill="#231F20" cx="74.79" cy="253.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_45_)" fill="#231F20" cx="89.189" cy="253.967" r="5.04"/>
+					<path clip-path="url(#SVGID_45_)" fill="#231F20" d="M103.59,248.927c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V248.927z"/>
+					<path clip-path="url(#SVGID_45_)" fill="#231F20" d="M69.75,239.567c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H69.75z"/>
+					<path clip-path="url(#SVGID_45_)" fill="#231F20" d="M84.149,239.567c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H84.149z"/>
+					<path clip-path="url(#SVGID_45_)" fill="#231F20" d="M79.83,282.767c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H79.83z"/>
+					<path clip-path="url(#SVGID_45_)" fill="#231F20" d="M94.229,282.767c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H94.229z"/>
+					<path clip-path="url(#SVGID_45_)" fill="#231F20" d="M60.39,273.407c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V273.407z"/>
+					<path clip-path="url(#SVGID_45_)" fill="#231F20" d="M60.39,259.007c2.783,0,5.04-2.257,5.04-5.04
+						c0-2.784-2.257-5.04-5.04-5.04V259.007z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_39_)">
+				<g>
+					<defs>
+						<rect id="SVGID_46_" x="67.59" y="275.567" width="28.8" height="28.8"/>
+					</defs>
+					<clipPath id="SVGID_47_">
+						<use xlink:href="#SVGID_46_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_47_)" fill="#231F20" cx="96.39" cy="304.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_47_)" fill="#231F20" cx="81.989" cy="304.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_47_)" fill="#231F20" cx="67.59" cy="304.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_47_)" fill="#231F20" cx="96.39" cy="289.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_47_)" fill="#231F20" cx="81.989" cy="289.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_47_)" fill="#231F20" cx="67.59" cy="289.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_47_)" fill="#231F20" cx="96.39" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_47_)" fill="#231F20" cx="81.989" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_47_)" fill="#231F20" cx="67.59" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_47_)" fill="#231F20" cx="74.79" cy="297.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_47_)" fill="#231F20" cx="89.189" cy="297.167" r="5.04"/>
+					<path clip-path="url(#SVGID_47_)" fill="#231F20" d="M103.59,292.126c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V292.126z"/>
+					<circle clip-path="url(#SVGID_47_)" fill="#231F20" cx="74.79" cy="282.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_47_)" fill="#231F20" cx="89.189" cy="282.767" r="5.04"/>
+					<path clip-path="url(#SVGID_47_)" fill="#231F20" d="M103.59,277.727c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V277.727z"/>
+					<path clip-path="url(#SVGID_47_)" fill="#231F20" d="M69.75,268.367c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H69.75z"/>
+					<path clip-path="url(#SVGID_47_)" fill="#231F20" d="M84.149,268.367c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H84.149z"/>
+					<path clip-path="url(#SVGID_47_)" fill="#231F20" d="M79.83,311.567c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H79.83z"/>
+					<path clip-path="url(#SVGID_47_)" fill="#231F20" d="M94.229,311.567c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H94.229z"/>
+					<path clip-path="url(#SVGID_47_)" fill="#231F20" d="M60.39,302.207c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V302.207z"/>
+					<path clip-path="url(#SVGID_47_)" fill="#231F20" d="M60.39,287.807c2.783,0,5.04-2.257,5.04-5.04
+						c0-2.784-2.257-5.04-5.04-5.04V287.807z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_39_)">
+				<g>
+					<defs>
+						<rect id="SVGID_48_" x="38.79" y="189.167" width="28.8" height="28.8"/>
+					</defs>
+					<clipPath id="SVGID_49_">
+						<use xlink:href="#SVGID_48_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_49_)" fill="#231F20" cx="67.59" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_49_)" fill="#231F20" cx="53.189" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_49_)" fill="#231F20" cx="38.79" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_49_)" fill="#231F20" cx="67.59" cy="203.568" r="5.04"/>
+					<circle clip-path="url(#SVGID_49_)" fill="#231F20" cx="53.189" cy="203.568" r="5.04"/>
+					<circle clip-path="url(#SVGID_49_)" fill="#231F20" cx="38.79" cy="203.568" r="5.04"/>
+					<circle clip-path="url(#SVGID_49_)" fill="#231F20" cx="67.59" cy="189.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_49_)" fill="#231F20" cx="53.189" cy="189.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_49_)" fill="#231F20" cx="38.79" cy="189.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_49_)" fill="#231F20" cx="45.99" cy="210.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_49_)" fill="#231F20" cx="60.39" cy="210.767" r="5.04"/>
+					<path clip-path="url(#SVGID_49_)" fill="#231F20" d="M74.79,205.727c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V205.727z"/>
+					<circle clip-path="url(#SVGID_49_)" fill="#231F20" cx="45.99" cy="196.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_49_)" fill="#231F20" cx="60.39" cy="196.368" r="5.04"/>
+					<path clip-path="url(#SVGID_49_)" fill="#231F20" d="M74.79,191.328c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V191.328z"/>
+					<path clip-path="url(#SVGID_49_)" fill="#231F20" d="M40.95,181.967c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H40.95z"/>
+					<path clip-path="url(#SVGID_49_)" fill="#231F20" d="M55.35,181.967c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H55.35z"/>
+					<path clip-path="url(#SVGID_49_)" fill="#231F20" d="M51.03,225.167c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H51.03z"/>
+					<path clip-path="url(#SVGID_49_)" fill="#231F20" d="M65.43,225.167c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H65.43z"/>
+					<path clip-path="url(#SVGID_49_)" fill="#231F20" d="M31.59,215.807c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V215.807z"/>
+					<path clip-path="url(#SVGID_49_)" fill="#231F20" d="M31.59,201.408c2.783,0,5.04-2.257,5.04-5.04
+						c0-2.784-2.257-5.04-5.04-5.04V201.408z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_39_)">
+				<g>
+					<defs>
+						<rect id="SVGID_50_" x="38.79" y="217.967" width="28.8" height="28.8"/>
+					</defs>
+					<clipPath id="SVGID_51_">
+						<use xlink:href="#SVGID_50_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_51_)" fill="#231F20" cx="67.59" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_51_)" fill="#231F20" cx="53.189" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_51_)" fill="#231F20" cx="38.79" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_51_)" fill="#231F20" cx="67.59" cy="232.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_51_)" fill="#231F20" cx="53.189" cy="232.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_51_)" fill="#231F20" cx="38.79" cy="232.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_51_)" fill="#231F20" cx="67.59" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_51_)" fill="#231F20" cx="53.189" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_51_)" fill="#231F20" cx="38.79" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_51_)" fill="#231F20" cx="45.99" cy="239.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_51_)" fill="#231F20" cx="60.39" cy="239.567" r="5.04"/>
+					<path clip-path="url(#SVGID_51_)" fill="#231F20" d="M74.79,234.527c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V234.527z"/>
+					<circle clip-path="url(#SVGID_51_)" fill="#231F20" cx="45.99" cy="225.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_51_)" fill="#231F20" cx="60.39" cy="225.167" r="5.04"/>
+					<path clip-path="url(#SVGID_51_)" fill="#231F20" d="M74.79,220.127c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V220.127z"/>
+					<path clip-path="url(#SVGID_51_)" fill="#231F20" d="M40.95,210.767c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H40.95z"/>
+					<path clip-path="url(#SVGID_51_)" fill="#231F20" d="M55.35,210.767c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H55.35z"/>
+					<path clip-path="url(#SVGID_51_)" fill="#231F20" d="M51.03,253.967c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H51.03z"/>
+					<path clip-path="url(#SVGID_51_)" fill="#231F20" d="M65.43,253.967c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H65.43z"/>
+					<path clip-path="url(#SVGID_51_)" fill="#231F20" d="M31.59,244.607c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V244.607z"/>
+					<path clip-path="url(#SVGID_51_)" fill="#231F20" d="M31.59,230.208c2.783,0,5.04-2.257,5.04-5.04
+						c0-2.784-2.257-5.04-5.04-5.04V230.208z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_39_)">
+				<g>
+					<defs>
+						<rect id="SVGID_52_" x="38.79" y="246.767" width="28.8" height="28.8"/>
+					</defs>
+					<clipPath id="SVGID_53_">
+						<use xlink:href="#SVGID_52_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_53_)" fill="#231F20" cx="67.59" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_53_)" fill="#231F20" cx="53.189" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_53_)" fill="#231F20" cx="38.79" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_53_)" fill="#231F20" cx="67.59" cy="261.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_53_)" fill="#231F20" cx="53.189" cy="261.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_53_)" fill="#231F20" cx="38.79" cy="261.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_53_)" fill="#231F20" cx="67.59" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_53_)" fill="#231F20" cx="53.189" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_53_)" fill="#231F20" cx="38.79" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_53_)" fill="#231F20" cx="45.99" cy="268.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_53_)" fill="#231F20" cx="60.39" cy="268.367" r="5.04"/>
+					<path clip-path="url(#SVGID_53_)" fill="#231F20" d="M74.79,263.327c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V263.327z"/>
+					<circle clip-path="url(#SVGID_53_)" fill="#231F20" cx="45.99" cy="253.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_53_)" fill="#231F20" cx="60.39" cy="253.967" r="5.04"/>
+					<path clip-path="url(#SVGID_53_)" fill="#231F20" d="M74.79,248.927c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V248.927z"/>
+					<path clip-path="url(#SVGID_53_)" fill="#231F20" d="M40.95,239.567c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H40.95z"/>
+					<path clip-path="url(#SVGID_53_)" fill="#231F20" d="M55.35,239.567c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H55.35z"/>
+					<path clip-path="url(#SVGID_53_)" fill="#231F20" d="M51.03,282.767c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H51.03z"/>
+					<path clip-path="url(#SVGID_53_)" fill="#231F20" d="M65.43,282.767c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H65.43z"/>
+					<path clip-path="url(#SVGID_53_)" fill="#231F20" d="M31.59,273.407c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V273.407z"/>
+					<path clip-path="url(#SVGID_53_)" fill="#231F20" d="M31.59,259.007c2.783,0,5.04-2.257,5.04-5.04
+						c0-2.784-2.257-5.04-5.04-5.04V259.007z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_39_)">
+				<g>
+					<defs>
+						<rect id="SVGID_54_" x="38.79" y="275.567" width="28.8" height="28.8"/>
+					</defs>
+					<clipPath id="SVGID_55_">
+						<use xlink:href="#SVGID_54_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_55_)" fill="#231F20" cx="67.59" cy="304.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_55_)" fill="#231F20" cx="53.189" cy="304.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_55_)" fill="#231F20" cx="38.79" cy="304.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_55_)" fill="#231F20" cx="67.59" cy="289.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_55_)" fill="#231F20" cx="53.189" cy="289.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_55_)" fill="#231F20" cx="38.79" cy="289.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_55_)" fill="#231F20" cx="67.59" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_55_)" fill="#231F20" cx="53.189" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_55_)" fill="#231F20" cx="38.79" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_55_)" fill="#231F20" cx="45.99" cy="297.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_55_)" fill="#231F20" cx="60.39" cy="297.167" r="5.04"/>
+					<path clip-path="url(#SVGID_55_)" fill="#231F20" d="M74.79,292.126c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V292.126z"/>
+					<circle clip-path="url(#SVGID_55_)" fill="#231F20" cx="45.99" cy="282.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_55_)" fill="#231F20" cx="60.39" cy="282.767" r="5.04"/>
+					<path clip-path="url(#SVGID_55_)" fill="#231F20" d="M74.79,277.727c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V277.727z"/>
+					<path clip-path="url(#SVGID_55_)" fill="#231F20" d="M40.95,268.367c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H40.95z"/>
+					<path clip-path="url(#SVGID_55_)" fill="#231F20" d="M55.35,268.367c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H55.35z"/>
+					<path clip-path="url(#SVGID_55_)" fill="#231F20" d="M51.03,311.567c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H51.03z"/>
+					<path clip-path="url(#SVGID_55_)" fill="#231F20" d="M65.43,311.567c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H65.43z"/>
+					<path clip-path="url(#SVGID_55_)" fill="#231F20" d="M31.59,302.207c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V302.207z"/>
+					<path clip-path="url(#SVGID_55_)" fill="#231F20" d="M31.59,287.807c2.783,0,5.04-2.257,5.04-5.04
+						c0-2.784-2.257-5.04-5.04-5.04V287.807z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_39_)">
+				<g>
+					<defs>
+						<rect id="SVGID_56_" x="9.99" y="189.167" width="28.8" height="28.8"/>
+					</defs>
+					<clipPath id="SVGID_57_">
+						<use xlink:href="#SVGID_56_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_57_)" fill="#231F20" cx="38.79" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_57_)" fill="#231F20" cx="24.39" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_57_)" fill="#231F20" cx="9.99" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_57_)" fill="#231F20" cx="38.79" cy="203.568" r="5.04"/>
+					<circle clip-path="url(#SVGID_57_)" fill="#231F20" cx="24.39" cy="203.568" r="5.04"/>
+					<circle clip-path="url(#SVGID_57_)" fill="#231F20" cx="9.99" cy="203.568" r="5.04"/>
+					<circle clip-path="url(#SVGID_57_)" fill="#231F20" cx="38.79" cy="189.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_57_)" fill="#231F20" cx="24.39" cy="189.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_57_)" fill="#231F20" cx="9.99" cy="189.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_57_)" fill="#231F20" cx="17.19" cy="210.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_57_)" fill="#231F20" cx="31.59" cy="210.767" r="5.04"/>
+					<path clip-path="url(#SVGID_57_)" fill="#231F20" d="M45.99,205.727c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V205.727z"/>
+					<circle clip-path="url(#SVGID_57_)" fill="#231F20" cx="17.19" cy="196.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_57_)" fill="#231F20" cx="31.59" cy="196.368" r="5.04"/>
+					<path clip-path="url(#SVGID_57_)" fill="#231F20" d="M45.99,191.328c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V191.328z"/>
+					<path clip-path="url(#SVGID_57_)" fill="#231F20" d="M12.15,181.967c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H12.15z"/>
+					<path clip-path="url(#SVGID_57_)" fill="#231F20" d="M26.55,181.967c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H26.55z"/>
+					<path clip-path="url(#SVGID_57_)" fill="#231F20" d="M22.23,225.167c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H22.23z"/>
+					<path clip-path="url(#SVGID_57_)" fill="#231F20" d="M36.63,225.167c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H36.63z"/>
+					<path clip-path="url(#SVGID_57_)" fill="#231F20" d="M2.79,215.807c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V215.807z"/>
+					<path clip-path="url(#SVGID_57_)" fill="#231F20" d="M2.79,201.408c2.783,0,5.04-2.257,5.04-5.04c0-2.784-2.257-5.04-5.04-5.04
+						V201.408z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_39_)">
+				<g>
+					<defs>
+						<rect id="SVGID_58_" x="9.99" y="217.967" width="28.8" height="28.8"/>
+					</defs>
+					<clipPath id="SVGID_59_">
+						<use xlink:href="#SVGID_58_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_59_)" fill="#231F20" cx="38.79" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_59_)" fill="#231F20" cx="24.39" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_59_)" fill="#231F20" cx="9.99" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_59_)" fill="#231F20" cx="38.79" cy="232.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_59_)" fill="#231F20" cx="24.39" cy="232.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_59_)" fill="#231F20" cx="9.99" cy="232.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_59_)" fill="#231F20" cx="38.79" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_59_)" fill="#231F20" cx="24.39" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_59_)" fill="#231F20" cx="9.99" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_59_)" fill="#231F20" cx="17.19" cy="239.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_59_)" fill="#231F20" cx="31.59" cy="239.567" r="5.04"/>
+					<path clip-path="url(#SVGID_59_)" fill="#231F20" d="M45.99,234.527c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V234.527z"/>
+					<circle clip-path="url(#SVGID_59_)" fill="#231F20" cx="17.19" cy="225.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_59_)" fill="#231F20" cx="31.59" cy="225.167" r="5.04"/>
+					<path clip-path="url(#SVGID_59_)" fill="#231F20" d="M45.99,220.127c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V220.127z"/>
+					<path clip-path="url(#SVGID_59_)" fill="#231F20" d="M12.15,210.767c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H12.15z"/>
+					<path clip-path="url(#SVGID_59_)" fill="#231F20" d="M26.55,210.767c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H26.55z"/>
+					<path clip-path="url(#SVGID_59_)" fill="#231F20" d="M22.23,253.967c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H22.23z"/>
+					<path clip-path="url(#SVGID_59_)" fill="#231F20" d="M36.63,253.967c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H36.63z"/>
+					<path clip-path="url(#SVGID_59_)" fill="#231F20" d="M2.79,244.607c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V244.607z"/>
+					<path clip-path="url(#SVGID_59_)" fill="#231F20" d="M2.79,230.208c2.783,0,5.04-2.257,5.04-5.04c0-2.784-2.257-5.04-5.04-5.04
+						V230.208z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_39_)">
+				<g>
+					<defs>
+						<rect id="SVGID_60_" x="9.99" y="246.767" width="28.8" height="28.8"/>
+					</defs>
+					<clipPath id="SVGID_61_">
+						<use xlink:href="#SVGID_60_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_61_)" fill="#231F20" cx="38.79" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_61_)" fill="#231F20" cx="24.39" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_61_)" fill="#231F20" cx="9.99" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_61_)" fill="#231F20" cx="38.79" cy="261.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_61_)" fill="#231F20" cx="24.39" cy="261.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_61_)" fill="#231F20" cx="9.99" cy="261.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_61_)" fill="#231F20" cx="38.79" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_61_)" fill="#231F20" cx="24.39" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_61_)" fill="#231F20" cx="9.99" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_61_)" fill="#231F20" cx="17.19" cy="268.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_61_)" fill="#231F20" cx="31.59" cy="268.367" r="5.04"/>
+					<path clip-path="url(#SVGID_61_)" fill="#231F20" d="M45.99,263.327c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V263.327z"/>
+					<circle clip-path="url(#SVGID_61_)" fill="#231F20" cx="17.19" cy="253.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_61_)" fill="#231F20" cx="31.59" cy="253.967" r="5.04"/>
+					<path clip-path="url(#SVGID_61_)" fill="#231F20" d="M45.99,248.927c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V248.927z"/>
+					<path clip-path="url(#SVGID_61_)" fill="#231F20" d="M12.15,239.567c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H12.15z"/>
+					<path clip-path="url(#SVGID_61_)" fill="#231F20" d="M26.55,239.567c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H26.55z"/>
+					<path clip-path="url(#SVGID_61_)" fill="#231F20" d="M22.23,282.767c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H22.23z"/>
+					<path clip-path="url(#SVGID_61_)" fill="#231F20" d="M36.63,282.767c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H36.63z"/>
+					<path clip-path="url(#SVGID_61_)" fill="#231F20" d="M2.79,273.407c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V273.407z"/>
+					<path clip-path="url(#SVGID_61_)" fill="#231F20" d="M2.79,259.007c2.783,0,5.04-2.257,5.04-5.04c0-2.784-2.257-5.04-5.04-5.04
+						V259.007z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_39_)">
+				<g>
+					<defs>
+						<rect id="SVGID_62_" x="9.99" y="275.567" width="28.8" height="28.8"/>
+					</defs>
+					<clipPath id="SVGID_63_">
+						<use xlink:href="#SVGID_62_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_63_)" fill="#231F20" cx="38.79" cy="304.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_63_)" fill="#231F20" cx="24.39" cy="304.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_63_)" fill="#231F20" cx="9.99" cy="304.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_63_)" fill="#231F20" cx="38.79" cy="289.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_63_)" fill="#231F20" cx="24.39" cy="289.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_63_)" fill="#231F20" cx="9.99" cy="289.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_63_)" fill="#231F20" cx="38.79" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_63_)" fill="#231F20" cx="24.39" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_63_)" fill="#231F20" cx="9.99" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_63_)" fill="#231F20" cx="17.19" cy="297.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_63_)" fill="#231F20" cx="31.59" cy="297.167" r="5.04"/>
+					<path clip-path="url(#SVGID_63_)" fill="#231F20" d="M45.99,292.126c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V292.126z"/>
+					<circle clip-path="url(#SVGID_63_)" fill="#231F20" cx="17.19" cy="282.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_63_)" fill="#231F20" cx="31.59" cy="282.767" r="5.04"/>
+					<path clip-path="url(#SVGID_63_)" fill="#231F20" d="M45.99,277.727c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V277.727z"/>
+					<path clip-path="url(#SVGID_63_)" fill="#231F20" d="M12.15,268.367c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H12.15z"/>
+					<path clip-path="url(#SVGID_63_)" fill="#231F20" d="M26.55,268.367c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H26.55z"/>
+					<path clip-path="url(#SVGID_63_)" fill="#231F20" d="M22.23,311.567c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H22.23z"/>
+					<path clip-path="url(#SVGID_63_)" fill="#231F20" d="M36.63,311.567c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H36.63z"/>
+					<path clip-path="url(#SVGID_63_)" fill="#231F20" d="M2.79,302.207c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V302.207z"/>
+					<path clip-path="url(#SVGID_63_)" fill="#231F20" d="M2.79,287.807c2.783,0,5.04-2.257,5.04-5.04c0-2.784-2.257-5.04-5.04-5.04
+						V287.807z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_39_)">
+				<g>
+					<defs>
+						<rect id="SVGID_64_" x="-18.81" y="189.167" width="28.8" height="28.8"/>
+					</defs>
+					<clipPath id="SVGID_65_">
+						<use xlink:href="#SVGID_64_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_65_)" fill="#231F20" cx="9.99" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_65_)" fill="#231F20" cx="-4.41" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_65_)" fill="#231F20" cx="-18.81" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_65_)" fill="#231F20" cx="9.99" cy="203.568" r="5.04"/>
+					<circle clip-path="url(#SVGID_65_)" fill="#231F20" cx="-4.41" cy="203.568" r="5.04"/>
+					<circle clip-path="url(#SVGID_65_)" fill="#231F20" cx="-18.81" cy="203.568" r="5.04"/>
+					<circle clip-path="url(#SVGID_65_)" fill="#231F20" cx="9.99" cy="189.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_65_)" fill="#231F20" cx="-4.41" cy="189.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_65_)" fill="#231F20" cx="-18.81" cy="189.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_65_)" fill="#231F20" cx="-11.609" cy="210.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_65_)" fill="#231F20" cx="2.79" cy="210.767" r="5.04"/>
+					<path clip-path="url(#SVGID_65_)" fill="#231F20" d="M17.19,205.727c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V205.727z"/>
+					<circle clip-path="url(#SVGID_65_)" fill="#231F20" cx="-11.609" cy="196.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_65_)" fill="#231F20" cx="2.79" cy="196.368" r="5.04"/>
+					<path clip-path="url(#SVGID_65_)" fill="#231F20" d="M17.19,191.328c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V191.328z"/>
+					<path clip-path="url(#SVGID_65_)" fill="#231F20" d="M-16.649,181.967c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H-16.649z"/>
+					<path clip-path="url(#SVGID_65_)" fill="#231F20" d="M-2.25,181.967c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H-2.25z"/>
+					<path clip-path="url(#SVGID_65_)" fill="#231F20" d="M-6.569,225.167c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H-6.569z"/>
+					<path clip-path="url(#SVGID_65_)" fill="#231F20" d="M7.83,225.167c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H7.83z"/>
+					<path clip-path="url(#SVGID_65_)" fill="#231F20" d="M-26.01,215.807c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V215.807z"/>
+					<path clip-path="url(#SVGID_65_)" fill="#231F20" d="M-26.01,201.408c2.783,0,5.04-2.257,5.04-5.04
+						c0-2.784-2.257-5.04-5.04-5.04V201.408z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_39_)">
+				<g>
+					<defs>
+						<rect id="SVGID_66_" x="-18.81" y="217.967" width="28.8" height="28.8"/>
+					</defs>
+					<clipPath id="SVGID_67_">
+						<use xlink:href="#SVGID_66_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_67_)" fill="#231F20" cx="9.99" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_67_)" fill="#231F20" cx="-4.41" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_67_)" fill="#231F20" cx="-18.81" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_67_)" fill="#231F20" cx="9.99" cy="232.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_67_)" fill="#231F20" cx="-4.41" cy="232.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_67_)" fill="#231F20" cx="-18.81" cy="232.368" r="5.04"/>
+					<circle clip-path="url(#SVGID_67_)" fill="#231F20" cx="9.99" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_67_)" fill="#231F20" cx="-4.41" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_67_)" fill="#231F20" cx="-18.81" cy="217.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_67_)" fill="#231F20" cx="-11.609" cy="239.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_67_)" fill="#231F20" cx="2.79" cy="239.567" r="5.04"/>
+					<path clip-path="url(#SVGID_67_)" fill="#231F20" d="M17.19,234.527c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V234.527z"/>
+					<circle clip-path="url(#SVGID_67_)" fill="#231F20" cx="-11.609" cy="225.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_67_)" fill="#231F20" cx="2.79" cy="225.167" r="5.04"/>
+					<path clip-path="url(#SVGID_67_)" fill="#231F20" d="M17.19,220.127c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V220.127z"/>
+					<path clip-path="url(#SVGID_67_)" fill="#231F20" d="M-16.649,210.767c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H-16.649z"/>
+					<path clip-path="url(#SVGID_67_)" fill="#231F20" d="M-2.25,210.767c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H-2.25z"/>
+					<path clip-path="url(#SVGID_67_)" fill="#231F20" d="M-6.569,253.967c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H-6.569z"/>
+					<path clip-path="url(#SVGID_67_)" fill="#231F20" d="M7.83,253.967c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H7.83z"/>
+					<path clip-path="url(#SVGID_67_)" fill="#231F20" d="M-26.01,244.607c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V244.607z"/>
+					<path clip-path="url(#SVGID_67_)" fill="#231F20" d="M-26.01,230.208c2.783,0,5.04-2.257,5.04-5.04
+						c0-2.784-2.257-5.04-5.04-5.04V230.208z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_39_)">
+				<g>
+					<defs>
+						<rect id="SVGID_68_" x="-18.81" y="246.767" width="28.8" height="28.8"/>
+					</defs>
+					<clipPath id="SVGID_69_">
+						<use xlink:href="#SVGID_68_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_69_)" fill="#231F20" cx="9.99" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_69_)" fill="#231F20" cx="-4.41" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_69_)" fill="#231F20" cx="-18.81" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_69_)" fill="#231F20" cx="9.99" cy="261.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_69_)" fill="#231F20" cx="-4.41" cy="261.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_69_)" fill="#231F20" cx="-18.81" cy="261.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_69_)" fill="#231F20" cx="9.99" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_69_)" fill="#231F20" cx="-4.41" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_69_)" fill="#231F20" cx="-18.81" cy="246.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_69_)" fill="#231F20" cx="-11.609" cy="268.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_69_)" fill="#231F20" cx="2.79" cy="268.367" r="5.04"/>
+					<path clip-path="url(#SVGID_69_)" fill="#231F20" d="M17.19,263.327c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V263.327z"/>
+					<circle clip-path="url(#SVGID_69_)" fill="#231F20" cx="-11.609" cy="253.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_69_)" fill="#231F20" cx="2.79" cy="253.967" r="5.04"/>
+					<path clip-path="url(#SVGID_69_)" fill="#231F20" d="M17.19,248.927c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V248.927z"/>
+					<path clip-path="url(#SVGID_69_)" fill="#231F20" d="M-16.649,239.567c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H-16.649z"/>
+					<path clip-path="url(#SVGID_69_)" fill="#231F20" d="M-2.25,239.567c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H-2.25z"/>
+					<path clip-path="url(#SVGID_69_)" fill="#231F20" d="M-6.569,282.767c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H-6.569z"/>
+					<path clip-path="url(#SVGID_69_)" fill="#231F20" d="M7.83,282.767c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H7.83z"/>
+					<path clip-path="url(#SVGID_69_)" fill="#231F20" d="M-26.01,273.407c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V273.407z"/>
+					<path clip-path="url(#SVGID_69_)" fill="#231F20" d="M-26.01,259.007c2.783,0,5.04-2.257,5.04-5.04
+						c0-2.784-2.257-5.04-5.04-5.04V259.007z"/>
+				</g>
+			</g>
+			<g clip-path="url(#SVGID_39_)">
+				<g>
+					<defs>
+						<rect id="SVGID_70_" x="-18.81" y="275.567" width="28.8" height="28.8"/>
+					</defs>
+					<clipPath id="SVGID_71_">
+						<use xlink:href="#SVGID_70_"  overflow="visible"/>
+					</clipPath>
+					<circle clip-path="url(#SVGID_71_)" fill="#231F20" cx="9.99" cy="304.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_71_)" fill="#231F20" cx="-4.41" cy="304.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_71_)" fill="#231F20" cx="-18.81" cy="304.367" r="5.04"/>
+					<circle clip-path="url(#SVGID_71_)" fill="#231F20" cx="9.99" cy="289.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_71_)" fill="#231F20" cx="-4.41" cy="289.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_71_)" fill="#231F20" cx="-18.81" cy="289.967" r="5.04"/>
+					<circle clip-path="url(#SVGID_71_)" fill="#231F20" cx="9.99" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_71_)" fill="#231F20" cx="-4.41" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_71_)" fill="#231F20" cx="-18.81" cy="275.567" r="5.04"/>
+					<circle clip-path="url(#SVGID_71_)" fill="#231F20" cx="-11.609" cy="297.167" r="5.04"/>
+					<circle clip-path="url(#SVGID_71_)" fill="#231F20" cx="2.79" cy="297.167" r="5.04"/>
+					<path clip-path="url(#SVGID_71_)" fill="#231F20" d="M17.19,292.126c-2.784,0-5.04,2.257-5.04,5.04s2.256,5.04,5.04,5.04
+						V292.126z"/>
+					<circle clip-path="url(#SVGID_71_)" fill="#231F20" cx="-11.609" cy="282.767" r="5.04"/>
+					<circle clip-path="url(#SVGID_71_)" fill="#231F20" cx="2.79" cy="282.767" r="5.04"/>
+					<path clip-path="url(#SVGID_71_)" fill="#231F20" d="M17.19,277.727c-2.784,0-5.04,2.256-5.04,5.04
+						c0,2.783,2.256,5.04,5.04,5.04V277.727z"/>
+					<path clip-path="url(#SVGID_71_)" fill="#231F20" d="M-16.649,268.367c0,2.783,2.256,5.04,5.04,5.04
+						c2.782,0,5.04-2.257,5.04-5.04H-16.649z"/>
+					<path clip-path="url(#SVGID_71_)" fill="#231F20" d="M-2.25,268.367c0,2.783,2.256,5.04,5.04,5.04
+						c2.783,0,5.04-2.257,5.04-5.04H-2.25z"/>
+					<path clip-path="url(#SVGID_71_)" fill="#231F20" d="M-6.569,311.567c0-2.784-2.258-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H-6.569z"/>
+					<path clip-path="url(#SVGID_71_)" fill="#231F20" d="M7.83,311.567c0-2.784-2.257-5.04-5.04-5.04
+						c-2.784,0-5.04,2.256-5.04,5.04H7.83z"/>
+					<path clip-path="url(#SVGID_71_)" fill="#231F20" d="M-26.01,302.207c2.783,0,5.04-2.257,5.04-5.04s-2.257-5.04-5.04-5.04
+						V302.207z"/>
+					<path clip-path="url(#SVGID_71_)" fill="#231F20" d="M-26.01,287.807c2.783,0,5.04-2.257,5.04-5.04
+						c0-2.784-2.257-5.04-5.04-5.04V287.807z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<linearGradient id="SVGID_72_" gradientUnits="userSpaceOnUse" x1="7.4453" y1="201.4624" x2="12.4453" y2="201.4624">
+		<stop  offset="0.0056" style="stop-color:#401617"/>
+		<stop  offset="0.0843" style="stop-color:#6B4C2D"/>
+		<stop  offset="0.382" style="stop-color:#A58A55"/>
+		<stop  offset="0.5618" style="stop-color:#E5D4B5"/>
+		<stop  offset="0.7973" style="stop-color:#987A59"/>
+		<stop  offset="0.8034" style="stop-color:#967857"/>
+		<stop  offset="0.9551" style="stop-color:#814F2F"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_72_)" stroke="#000000" stroke-width="0.25" points="11.445,289.381 7.445,289.381 7.445,113.544 
+		12.445,113.544 12.445,117.544 11.445,117.544 11.445,289.381 	"/>
+	<linearGradient id="SVGID_73_" gradientUnits="userSpaceOnUse" x1="72.9385" y1="201.4624" x2="77.9385" y2="201.4624">
+		<stop  offset="0.0056" style="stop-color:#401617"/>
+		<stop  offset="0.0843" style="stop-color:#6B4C2D"/>
+		<stop  offset="0.382" style="stop-color:#A58A55"/>
+		<stop  offset="0.5618" style="stop-color:#E5D4B5"/>
+		<stop  offset="0.7973" style="stop-color:#987A59"/>
+		<stop  offset="0.8034" style="stop-color:#967857"/>
+		<stop  offset="0.9551" style="stop-color:#814F2F"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_73_)" stroke="#000000" stroke-width="0.25" points="77.938,289.381 73.938,289.381 73.938,117.544 
+		72.938,117.544 72.938,113.544 77.938,113.544 77.938,289.381 	"/>
+	<radialGradient id="SVGID_74_" cx="42.9053" cy="287.4331" r="41.2387" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.0056" style="stop-color:#401617"/>
+		<stop  offset="0.024" style="stop-color:#6B4C2D"/>
+		<stop  offset="0.218" style="stop-color:#A58A55"/>
+		<stop  offset="0.6908" style="stop-color:#E5D4B5"/>
+		<stop  offset="0.8732" style="stop-color:#A1795A"/>
+		<stop  offset="0.9551" style="stop-color:#814F2F"/>
+		<stop  offset="0.9939" style="stop-color:#967857"/>
+	</radialGradient>
+	<path fill="url(#SVGID_74_)" stroke="#000000" stroke-width="0.25" d="M80.918,283.485c-2.159,0-3.914,1.744-3.943,3.896H8.837
+		c-0.029-2.152-1.784-3.896-3.943-3.896c-2.177,0-3.948,1.771-3.948,3.948s1.771,3.948,3.948,3.948h75.646v-0.038
+		c0.127,0.012,0.249,0.038,0.379,0.038c2.177,0,3.948-1.771,3.948-3.948S83.095,283.485,80.918,283.485z"/>
+</g>
+</svg>
