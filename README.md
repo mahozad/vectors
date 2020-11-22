@@ -24,6 +24,11 @@ Use {{Vector version available|NewImage.svg}} template in old raster pages to sh
 
 ---
 
+The `{{language|cs}}` template can be used to show the name of a language in user's language.
+Could be user e.g. in captions of other versions of the SVG.
+
+---
+
 For translating SVG files see [this helpful guide](https://commons.wikimedia.org/wiki/Commons:Translation_possible/Learn_more)
 
 ---
