@@ -23,6 +23,12 @@ Supported fonts in SVG files on Wikipedia are listed [here](https://meta.wikimed
 Use {{Vector version available|NewImage.svg}} template in old raster pages to show that the vector version is available
 Use {{superseded|File:NewImage.svg}} template to indicate the new version of the image should be used
 Use {{Derived from|OldImage.jpg|display=50}} template to show that the vector is derived from another image.
+
+---
+
+Instead of providing separate SVG files for a multi-part image, the `viewBox` attribute
+of the SVG can be used on the same SVG file to show only the needed part.
+
 ---
 
 The `{{language|cs}}` template can be used to show the name of a language in user's language.
