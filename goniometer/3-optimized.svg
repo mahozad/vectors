@@ -1,6 +1,6 @@
-<svg width="512" height="512" version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <radialGradient id="radialGradient8305" cx="256" cy="491" r="240" gradientTransform="translate(1.02e-5 -120)" gradientUnits="userSpaceOnUse">
+    <radialGradient id="radialGradient8305" r="240" cx="256" cy="491" gradientTransform="translate(1.02e-5 -120)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#fff" offset="0"/>
       <stop stop-color="#b5e3b5" offset=".792"/>
       <stop stop-color="#00e500" offset=".812"/>
@@ -9,13 +9,13 @@
     <linearGradient id="linearGradient2724" x1="256" x2="256" y1="392" y2="338" gradientUnits="userSpaceOnUse">
       <stop stop-color="#4ecc4d" offset="0"/>
       <stop stop-color="#4ecc4d" offset=".16"/>
-      <stop stop-color="#64e364" offset=".266"/>
-      <stop stop-color="#4ecc4d" offset=".361"/>
+      <stop stop-color="#64e364" offset=".26"/>
+      <stop stop-color="#4ecc4d" offset=".36"/>
       <stop stop-color="#00e500" offset=".9"/>
       <stop stop-color="#a1dea1" offset="1"/>
     </linearGradient>
-    <filter id="filter2836" x="-.164" y="-.164" width="1.33" height="1.33" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="0.4107"/>
+    <filter id="filter2836" width="1.33" height="1.33" x="-.164" y="-.164" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="0.4"/>
     </filter>
     <linearGradient id="linearGradient2854" x1="256" x2="256" y1="364" y2="370" gradientUnits="userSpaceOnUse">
       <stop stop-color="#66ff75" offset="0"/>
@@ -23,57 +23,57 @@
     </linearGradient>
   </defs>
   <g>
-    <path d="m41 371a215 215 0 0 1 215-215 215 215 0 0 1 215 215" fill="none" stop-color="#000000" stroke="url(#radialGradient8305)" stroke-width="50"/>
-    <path d="m64 338c-1.82 10.7-2.77 21.7-2.77 33h-45.2v21h480v-21h-45.2c0-11.3-0.958-22.3-2.77-33h-5.03-374-5.03zm192 26a3 3 0 0 1 0.0508 0 3 3 0 0 1 3 3 3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 2.95-3z" fill="url(#linearGradient2724)"/>
-    <path d="m16 371h4" fill="none" stroke="#000" stroke-width="1px"/>
-    <path d="m16 371h7" fill="none" stroke="#000" stroke-width="1px"/>
-    <g fill="#000000" font-family="sans-serif" font-size="6px" font-weight="bold" letter-spacing="0px" word-spacing="0px">
-      <text x="25.867188" y="373.17969" style="line-height:1.25" xml:space="preserve"><tspan x="25.867188" y="373.17969" font-family="Arial" font-size="6px" font-weight="900">0</tspan></text>
-      <text transform="rotate(-80)" x="-320.90973" y="90.713951" style="line-height:1" xml:space="preserve"><tspan x="-320.90973" y="90.713951" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">10</tspan></text>
-      <text transform="rotate(-70)" x="-261.06534" y="141.6078" style="line-height:1" xml:space="preserve"><tspan x="-261.06534" y="141.6078" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">20</tspan></text>
-      <text transform="rotate(-60)" x="-193.29248" y="181.33659" style="line-height:1" xml:space="preserve"><tspan x="-193.29248" y="181.33659" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">30</tspan></text>
-      <text transform="rotate(-50)" x="-119.65041" y="208.69318" style="line-height:1" xml:space="preserve"><tspan x="-119.65041" y="208.69318" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">40</tspan></text>
-      <text transform="rotate(-40)" x="-42.376717" y="222.84634" style="line-height:1" xml:space="preserve"><tspan x="-42.376717" y="222.84634" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">50</tspan></text>
-      <text transform="rotate(-30)" x="36.180691" y="223.36606" style="line-height:1" xml:space="preserve"><tspan x="36.180691" y="223.36606" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">60</tspan></text>
-      <text transform="rotate(-20)" x="113.63488" y="210.23653" style="line-height:1" xml:space="preserve"><tspan x="113.63488" y="210.23653" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">70</tspan></text>
-      <text transform="rotate(-10)" x="187.63245" y="183.85667" style="line-height:1" xml:space="preserve"><tspan x="187.63245" y="183.85667" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">80</tspan></text>
-      <text x="255.92502" y="145.02806" style="line-height:1" xml:space="preserve"><tspan x="255.92502" y="145.02806" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">90</tspan></text>
-      <text transform="rotate(10)" x="316.43756" y="94.930458" style="line-height:1" xml:space="preserve"><tspan x="316.43756" y="94.930458" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">100</tspan></text>
-      <text transform="rotate(20)" x="367.33142" y="35.086056" style="line-height:1" xml:space="preserve"><tspan x="367.33142" y="35.086056" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">110</tspan></text>
-      <text transform="rotate(30)" x="407.06021" y="-32.686798" style="line-height:1" xml:space="preserve"><tspan x="407.06021" y="-32.686798" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">120</tspan></text>
-      <text transform="rotate(40)" x="434.41681" y="-106.32887" style="line-height:1" xml:space="preserve"><tspan x="434.41681" y="-106.32887" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">130</tspan></text>
-      <text transform="rotate(50)" x="448.56998" y="-183.60257" style="line-height:1" xml:space="preserve"><tspan x="448.56998" y="-183.60257" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">140</tspan></text>
-      <text transform="rotate(60)" x="449.08969" y="-262.15997" style="line-height:1" xml:space="preserve"><tspan x="449.08969" y="-262.15997" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">150</tspan></text>
-      <text transform="rotate(70)" x="435.96014" y="-339.61417" style="line-height:1" xml:space="preserve"><tspan x="435.96014" y="-339.61417" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">160</tspan></text>
-      <text transform="rotate(80)" x="409.58029" y="-413.61172" style="line-height:1" xml:space="preserve"><tspan x="409.58029" y="-413.61172" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">170</tspan></text>
-      <text transform="rotate(-20)" x="113.63488" y="210.23653" style="line-height:1" xml:space="preserve"><tspan x="113.63488" y="210.23653" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">70</tspan></text>
-      <text x="484.37888" y="373.14746" style="line-height:1.25" xml:space="preserve"><tspan x="484.37888" y="373.14746" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">180</tspan></text>
-    </g>
+    <path fill="none" stroke="url(#radialGradient8305)" stroke-width="50" d="m41 371a215 215 0 0 1 215-215 215 215 0 0 1 215 215"/>
+    <path fill="url(#linearGradient2724)" d="m64 338c-1.82 10.7-2.77 21.7-2.77 33h-45.2v21h480v-21h-45.2c0-11.3-0.958-22.3-2.77-33h-5.03-374-5.03zm192 26a3 3 0 0 1 0.0508 0 3 3 0 0 1 3 3 3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 2.95-3z"/>
+    <path fill="none" stroke="#000" stroke-width="1px" d="m16 371h4"/>
+    <path fill="none" stroke="#000" stroke-width="1px" d="m16 371h7"/>
+
+    <text><tspan font-family="Arial" font-size="6px" x="25.867188" y="373.17969" font-weight="900">0</tspan></text>
+    <text><tspan font-family="Arial" font-size="6px" x="255.92502" y="145.02806" font-weight="900" text-anchor="middle">90</tspan></text>
+    <text transform="rotate(-80)"><tspan font-family="Arial" font-size="6px" x="-320.90973" y="90.713951" font-weight="900" text-anchor="middle">10</tspan></text>
+    <text transform="rotate(-70)"><tspan font-family="Arial" font-size="6px" x="-261.06534" y="141.6078" font-weight="900" text-anchor="middle">20</tspan></text>
+    <text transform="rotate(-60)"><tspan font-family="Arial" font-size="6px" x="-193.29248" y="181.33659" font-weight="900" text-anchor="middle">30</tspan></text>
+    <text transform="rotate(-50)"><tspan font-family="Arial" font-size="6px" x="-119.65041" y="208.69318" font-weight="900" text-anchor="middle">40</tspan></text>
+    <text transform="rotate(-40)"><tspan font-family="Arial" font-size="6px" x="-42.376717" y="222.84634" font-weight="900" text-anchor="middle">50</tspan></text>
+    <text transform="rotate(-30)"><tspan font-family="Arial" font-size="6px" x="36.180691" y="223.36606" font-weight="900" text-anchor="middle">60</tspan></text>
+    <text transform="rotate(-20)"><tspan font-family="Arial" font-size="6px" x="113.63488" y="210.23653" font-weight="900" text-anchor="middle">70</tspan></text>
+    <text transform="rotate(-10)"><tspan font-family="Arial" font-size="6px" x="187.63245" y="183.85667" font-weight="900" text-anchor="middle">80</tspan></text>
+    <text transform="rotate(10)"><tspan font-family="Arial" font-size="6px" x="316.43756" y="94.930458" font-weight="900" text-anchor="middle">100</tspan></text>
+    <text transform="rotate(20)"><tspan font-family="Arial" font-size="6px" x="367.33142" y="35.086056" font-weight="900" text-anchor="middle">110</tspan></text>
+    <text transform="rotate(30)"><tspan font-family="Arial" font-size="6px" x="407.06021" y="-32.686798" font-weight="900" text-anchor="middle">120</tspan></text>
+    <text transform="rotate(40)"><tspan font-family="Arial" font-size="6px" x="434.41681" y="-106.32887" font-weight="900" text-anchor="middle">130</tspan></text>
+    <text transform="rotate(50)"><tspan font-family="Arial" font-size="6px" x="448.56998" y="-183.60257" font-weight="900" text-anchor="middle">140</tspan></text>
+    <text transform="rotate(60)"><tspan font-family="Arial" font-size="6px" x="449.08969" y="-262.15997" font-weight="900" text-anchor="middle">150</tspan></text>
+    <text transform="rotate(70)"><tspan font-family="Arial" font-size="6px" x="435.96014" y="-339.61417" font-weight="900" text-anchor="middle">160</tspan></text>
+    <text transform="rotate(80)"><tspan font-family="Arial" font-size="6px" x="409.58029" y="-413.61172" font-weight="900" text-anchor="middle">170</tspan></text>
+    <text transform="rotate(-20)"><tspan font-family="Arial" font-size="6px" x="113.63488" y="210.23653" font-weight="900" text-anchor="middle">70</tspan></text>
+    <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="484.37888" y="373.14746" font-weight="900" text-anchor="middle">180</tspan></text>
+
     <g fill="none" stroke="#000" stroke-width="1px">
       <path d="m32 371h7"/>
       <path d="m43 371h6.5"/>
       <path d="m59 371h7"/>
     </g>
-    <text transform="rotate(-80)" x="-320.90973" y="116.68172" fill="#000000" font-family="sans-serif" font-size="6px" font-weight="bold" letter-spacing="0px" word-spacing="0px" style="line-height:1" xml:space="preserve"><tspan x="-320.90973" y="116.68172" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">170</tspan></text>
-    <path d="m39 371h-4" fill="none" stroke="#000" stroke-width="1px"/>
-    <path d="m43 371h4" fill="none" stroke="#000" stroke-width="1px"/>
+    <text fill="#000000"><tspan font-family="Arial" font-size="6px" x="-320.90973" y="116.68172" font-weight="900" text-anchor="middle">170</tspan></text>
+    <path fill="none" stroke="#000" stroke-width="1px" d="m39 371h-4"/>
+    <path fill="none" stroke="#000" stroke-width="1px" d="m43 371h4"/>
     <g fill="#000000" font-family="sans-serif" font-size="6px" font-weight="bold" letter-spacing="0px" word-spacing="0px">
-      <text transform="rotate(-70)" x="-261.07092" y="167.57607" style="line-height:1" xml:space="preserve"><tspan x="-261.07092" y="167.57607" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">160</tspan></text>
-      <text transform="rotate(-60)" x="-193.3035" y="207.3063" style="line-height:1" xml:space="preserve"><tspan x="-193.3035" y="207.3063" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">150</tspan></text>
-      <text transform="rotate(-50)" x="-119.66653" y="234.66527" style="line-height:1" xml:space="preserve"><tspan x="-119.66653" y="234.66527" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">140</tspan></text>
-      <text transform="rotate(-40)" x="-42.39743" y="248.82166" style="line-height:1" xml:space="preserve"><tspan x="-42.39743" y="248.82166" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">130</tspan></text>
-      <text transform="rotate(-30)" x="36.156006" y="249.34534" style="line-height:1" xml:space="preserve"><tspan x="36.156006" y="249.34534" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">120</tspan></text>
-      <text transform="rotate(-20)" x="113.60697" y="236.2204" style="line-height:1" xml:space="preserve"><tspan x="113.60697" y="236.2204" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">110</tspan></text>
-      <text transform="rotate(-10)" x="187.60217" y="209.84564" style="line-height:1" xml:space="preserve"><tspan x="187.60217" y="209.84564" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">100</tspan></text>
-      <text x="255.89328" y="171.02245" style="line-height:1" xml:space="preserve"><tspan x="255.89328" y="171.02245" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">90</tspan></text>
-      <text transform="rotate(10)" x="316.40533" y="120.93044" style="line-height:1" xml:space="preserve"><tspan x="316.40533" y="120.93044" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">80</tspan></text>
-      <text transform="rotate(20)" x="367.29968" y="61.091637" style="line-height:1" xml:space="preserve"><tspan x="367.29968" y="61.091637" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">70</tspan></text>
-      <text transform="rotate(30)" x="407.02994" y="-6.6757913" style="line-height:1" xml:space="preserve"><tspan x="407.02994" y="-6.6757913" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">60</tspan></text>
-      <text transform="rotate(40)" x="434.38889" y="-80.312759" style="line-height:1" xml:space="preserve"><tspan x="434.38889" y="-80.312759" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">50</tspan></text>
-      <text transform="rotate(50)" x="448.54529" y="-157.58185" style="line-height:1" xml:space="preserve"><tspan x="448.54529" y="-157.58185" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">40</tspan></text>
-      <text transform="rotate(60)" x="449.06897" y="-236.13528" style="line-height:1" xml:space="preserve"><tspan x="449.06897" y="-236.13528" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">30</tspan></text>
-      <text transform="rotate(70)" x="435.94403" y="-313.58624" style="line-height:1" xml:space="preserve"><tspan x="435.94403" y="-313.58624" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">20</tspan></text>
-      <text transform="rotate(80)" x="409.56927" y="-387.58145" style="line-height:1" xml:space="preserve"><tspan x="409.56927" y="-387.58145" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">10</tspan></text>
+      <text transform="rotate(-70)"><tspan font-family="Arial" font-size="6px" x="-261.07092" y="167.57607" font-weight="900" text-anchor="middle">160</tspan></text>
+      <text transform="rotate(-60)"><tspan font-family="Arial" font-size="6px" x="-193.3035" y="207.3063" font-weight="900" text-anchor="middle">150</tspan></text>
+      <text transform="rotate(-50)"><tspan font-family="Arial" font-size="6px" x="-119.66653" y="234.66527" font-weight="900" text-anchor="middle">140</tspan></text>
+      <text transform="rotate(-40)"><tspan font-family="Arial" font-size="6px" x="-42.39743" y="248.82166" font-weight="900" text-anchor="middle">130</tspan></text>
+      <text transform="rotate(-30)"><tspan font-family="Arial" font-size="6px" x="36.156006" y="249.34534" font-weight="900" text-anchor="middle">120</tspan></text>
+      <text transform="rotate(-20)"><tspan font-family="Arial" font-size="6px" x="113.60697" y="236.2204" font-weight="900" text-anchor="middle">110</tspan></text>
+      <text transform="rotate(-10)"><tspan font-family="Arial" font-size="6px" x="187.60217" y="209.84564" font-weight="900" text-anchor="middle">100</tspan></text>
+      <text><tspan font-family="Arial" font-size="6px" x="255.89328" y="171.02245" font-weight="900" text-anchor="middle">90</tspan></text>
+      <text transform="rotate(10)"><tspan font-family="Arial" font-size="6px" x="316.40533" y="120.93044" font-weight="900" text-anchor="middle">80</tspan></text>
+      <text transform="rotate(20)"><tspan font-family="Arial" font-size="6px" x="367.29968" y="61.091637" font-weight="900" text-anchor="middle">70</tspan></text>
+      <text transform="rotate(30)"><tspan font-family="Arial" font-size="6px" x="407.02994" y="-6.6757913" font-weight="900" text-anchor="middle">60</tspan></text>
+      <text transform="rotate(40)"><tspan font-family="Arial" font-size="6px" x="434.38889" y="-80.312759" font-weight="900" text-anchor="middle">50</tspan></text>
+      <text transform="rotate(50)"><tspan font-family="Arial" font-size="6px" x="448.54529" y="-157.58185" font-weight="900" text-anchor="middle">40</tspan></text>
+      <text transform="rotate(60)"><tspan font-family="Arial" font-size="6px" x="449.06897" y="-236.13528" font-weight="900" text-anchor="middle">30</tspan></text>
+      <text transform="rotate(70)"><tspan font-family="Arial" font-size="6px" x="435.94403" y="-313.58624" font-weight="900" text-anchor="middle">20</tspan></text>
+      <text transform="rotate(80)"><tspan font-family="Arial" font-size="6px" x="409.56927" y="-387.58145" font-weight="900" text-anchor="middle">10</tspan></text>
     </g>
     <g fill="none" stroke="#000" stroke-width="1px">
       <path d="m68.9 338h374"/>
@@ -183,8 +183,8 @@
       <path d="m413 338v3"/>
       <path d="m416 338v3"/>
     </g>
-    <path d="m96 338v6" fill="none" stroke="#000" stroke-width="1px"/>
-    <path d="m416 338-2e-3 6" fill="none" stroke="#000" stroke-width="1px"/>
+    <path fill="none" stroke="#000" stroke-width="1px" d="m96 338v6"/>
+    <path fill="none" stroke="#000" stroke-width="1px" d="m416 338-2e-3 6"/>
     <g fill="none" stroke="#000" stroke-width="1px">
       <path d="m416 338-2e-3 6"/>
       <path d="m384 338-2e-3 6"/>
@@ -199,17 +199,17 @@
       <path d="m96 338v6"/>
     </g>
     <g fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px">
-      <text x="93.999023" y="349.14746" style="line-height:1.25" xml:space="preserve"><tspan x="93.999023" y="349.14746" font-family="Arial" font-size="6px" font-weight="900">0</tspan></text>
-      <text x="125.99902" y="349.14746" style="line-height:1.25" xml:space="preserve"><tspan x="125.99902" y="349.14746" font-family="Arial" font-size="6px" font-weight="900">1</tspan></text>
-      <text x="158.28027" y="349.14746" style="line-height:1.25" xml:space="preserve"><tspan x="158.28027" y="349.14746" font-family="Arial" font-size="6px" font-weight="900">2</tspan></text>
-      <text x="190.05176" y="349.14746" style="line-height:1.25" xml:space="preserve"><tspan x="190.05176" y="349.14746" font-family="Arial" font-size="6px" font-weight="900">3</tspan></text>
-      <text x="222.05176" y="349.14746" style="line-height:1.25" xml:space="preserve"><tspan x="222.05176" y="349.14746" font-family="Arial" font-size="6px" font-weight="900">4</tspan></text>
-      <text x="254.05176" y="349.14746" style="line-height:1.25" xml:space="preserve"><tspan x="254.05176" y="349.14746" font-family="Arial" font-size="6px" font-weight="900">5</tspan></text>
-      <text x="286.01807" y="349.14746" style="line-height:1.25" xml:space="preserve"><tspan x="286.01807" y="349.14746" font-family="Arial" font-size="6px" font-weight="900">6</tspan></text>
-      <text x="318.01807" y="349.14746" style="line-height:1.25" xml:space="preserve"><tspan x="318.01807" y="349.14746" font-family="Arial" font-size="6px" font-weight="900">7</tspan></text>
-      <text x="350.01807" y="349.14746" style="line-height:1.25" xml:space="preserve"><tspan x="350.01807" y="349.14746" font-family="Arial" font-size="6px" font-weight="900">8</tspan></text>
-      <text x="382.01807" y="349.14746" style="line-height:1.25" xml:space="preserve"><tspan x="382.01807" y="349.14746" font-family="Arial" font-size="6px" font-weight="900">9</tspan></text>
-      <text x="416.01749" y="349.11084" style="line-height:1.25" xml:space="preserve"><tspan x="416.01749" y="349.11084" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">10</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="93.999023" y="349.14746" font-weight="900">0</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="125.99902" y="349.14746" font-weight="900">1</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="158.28027" y="349.14746" font-weight="900">2</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="190.05176" y="349.14746" font-weight="900">3</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="222.05176" y="349.14746" font-weight="900">4</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="254.05176" y="349.14746" font-weight="900">5</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="286.01807" y="349.14746" font-weight="900">6</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="318.01807" y="349.14746" font-weight="900">7</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="350.01807" y="349.14746" font-weight="900">8</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="382.01807" y="349.14746" font-weight="900">9</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="416.01749" y="349.11084" font-weight="900" text-anchor="middle">10</tspan></text>
     </g>
     <g fill="none" stroke="#000" stroke-width="1px">
       <path d="m35 371h442"/>
@@ -369,8 +369,8 @@
       <path d="m20.2 388v4"/>
       <path d="m17 388v4"/>
     </g>
-    <path d="m17 385v7" fill="none" stroke="#000" stroke-width="1px"/>
-    <path d="m495 385v7" fill="none" stroke="#000" stroke-width="1px"/>
+    <path fill="none" stroke="#000" stroke-width="1px" d="m17 385v7"/>
+    <path fill="none" stroke="#000" stroke-width="1px" d="m495 385v7"/>
     <g fill="none" stroke="#000" stroke-width="1px">
       <path d="m495 385v7"/>
       <path d="m463 385v7"/>
@@ -390,706 +390,706 @@
       <path d="m17 385v7"/>
     </g>
     <g fill="#000000" font-family="sans-serif" font-size="6px" letter-spacing="0px" word-spacing="0px">
-      <text x="20" y="384.14746" style="line-height:1.25" xml:space="preserve"><tspan x="20" y="384.14746" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">0</tspan></text>
-      <text x="49" y="384.14746" style="line-height:1.25" xml:space="preserve"><tspan x="49" y="384.14746" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">1</tspan></text>
-      <text x="81" y="384.14746" style="line-height:1.25" xml:space="preserve"><tspan x="81" y="384.14746" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">2</tspan></text>
-      <text x="113" y="384.14746" style="line-height:1.25" xml:space="preserve"><tspan x="113" y="384.14746" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">3</tspan></text>
-      <text x="144" y="384.14746" style="line-height:1.25" xml:space="preserve"><tspan x="144" y="384.14746" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">4</tspan></text>
-      <text x="176" y="384.14746" style="line-height:1.25" xml:space="preserve"><tspan x="176" y="384.14746" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">5</tspan></text>
-      <text x="208" y="384.14746" style="line-height:1.25" xml:space="preserve"><tspan x="208" y="384.14746" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">6</tspan></text>
-      <text x="272" y="384.14746" style="line-height:1.25" xml:space="preserve"><tspan x="272" y="384.14746" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">8</tspan></text>
-      <text x="240" y="384.14746" style="line-height:1.25" xml:space="preserve"><tspan x="240" y="384.14746" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">7</tspan></text>
-      <text x="304" y="384.14746" style="line-height:1.25" xml:space="preserve"><tspan x="304" y="384.14746" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">9</tspan></text>
-      <text x="336" y="384.14746" style="line-height:1.25" xml:space="preserve"><tspan x="336" y="384.14746" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">10</tspan></text>
-      <text x="367" y="384.14746" style="line-height:1.25" xml:space="preserve"><tspan x="367" y="384.14746" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">11</tspan></text>
-      <text x="399" y="384.14746" style="line-height:1.25" xml:space="preserve"><tspan x="399" y="384.14746" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">12</tspan></text>
-      <text x="431" y="384.14746" style="line-height:1.25" xml:space="preserve"><tspan x="431" y="384.14746" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">13</tspan></text>
-      <text x="463" y="384.14746" style="line-height:1.25" xml:space="preserve"><tspan x="463" y="384.14746" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">14</tspan></text>
-      <text x="489.87256" y="384.14746" style="line-height:1.25" xml:space="preserve"><tspan x="489.87256" y="384.14746" font-family="Arial" font-size="6px" font-weight="900" text-align="center" text-anchor="middle">15</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="20" y="384.14746" font-weight="900" text-anchor="middle">0</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="49" y="384.14746" font-weight="900" text-anchor="middle">1</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="81" y="384.14746" font-weight="900" text-anchor="middle">2</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="113" y="384.14746" font-weight="900" text-anchor="middle">3</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="144" y="384.14746" font-weight="900" text-anchor="middle">4</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="176" y="384.14746" font-weight="900" text-anchor="middle">5</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="208" y="384.14746" font-weight="900" text-anchor="middle">6</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="272" y="384.14746" font-weight="900" text-anchor="middle">8</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="240" y="384.14746" font-weight="900" text-anchor="middle">7</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="304" y="384.14746" font-weight="900" text-anchor="middle">9</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="336" y="384.14746" font-weight="900" text-anchor="middle">10</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="367" y="384.14746" font-weight="900" text-anchor="middle">11</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="399" y="384.14746" font-weight="900" text-anchor="middle">12</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="431" y="384.14746" font-weight="900" text-anchor="middle">13</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="463" y="384.14746" font-weight="900" text-anchor="middle">14</tspan></text>
+      <text style="line-height:1.25"><tspan font-family="Arial" font-size="6px" x="489.87256" y="384.14746" font-weight="900" text-anchor="middle">15</tspan></text>
     </g>
     <g fill="none">
       <g stroke="#000" stroke-width="1px">
-        <path transform="rotate(179,256,371)" d="m43 371h4"/>
-        <path transform="rotate(178,256,371)" d="m43 371h4"/>
-        <path transform="rotate(177,256,371)" d="m43 371h4"/>
-        <path transform="rotate(176,256,371)" d="m43 371h4"/>
-        <path transform="rotate(175,256,371)" d="m43 371h4"/>
-        <path transform="rotate(174,256,371)" d="m43 371h4"/>
-        <path transform="rotate(173,256,371)" d="m43 371h4"/>
-        <path transform="rotate(172,256,371)" d="m43 371h4"/>
-        <path transform="rotate(171,256,371)" d="m43 371h4"/>
-        <path transform="rotate(170,256,371)" d="m43 371h4"/>
-        <path transform="rotate(169,256,371)" d="m43 371h4"/>
-        <path transform="rotate(168,256,371)" d="m43 371h4"/>
-        <path transform="rotate(167,256,371)" d="m43 371h4"/>
-        <path transform="rotate(166,256,371)" d="m43 371h4"/>
-        <path transform="rotate(165,256,371)" d="m43 371h4"/>
-        <path transform="rotate(164,256,371)" d="m43 371h4"/>
-        <path transform="rotate(163,256,371)" d="m43 371h4"/>
-        <path transform="rotate(162,256,371)" d="m43 371h4"/>
-        <path transform="rotate(161,256,371)" d="m43 371h4"/>
-        <path transform="rotate(160,256,371)" d="m43 371h4"/>
-        <path transform="rotate(159,256,371)" d="m43 371h4"/>
-        <path transform="rotate(158,256,371)" d="m43 371h4"/>
-        <path transform="rotate(157,256,371)" d="m43 371h4"/>
-        <path transform="rotate(156,256,371)" d="m43 371h4"/>
-        <path transform="rotate(155,256,371)" d="m43 371h4"/>
-        <path transform="rotate(154,256,371)" d="m43 371h4"/>
-        <path transform="rotate(153,256,371)" d="m43 371h4"/>
-        <path transform="rotate(152,256,371)" d="m43 371h4"/>
-        <path transform="rotate(151,256,371)" d="m43 371h4"/>
-        <path transform="rotate(150,256,371)" d="m43 371h4"/>
-        <path transform="rotate(149,256,371)" d="m43 371h4"/>
-        <path transform="rotate(148,256,371)" d="m43 371h4"/>
-        <path transform="rotate(147,256,371)" d="m43 371h4"/>
-        <path transform="rotate(146,256,371)" d="m43 371h4"/>
-        <path transform="rotate(145,256,371)" d="m43 371h4"/>
-        <path transform="rotate(144,256,371)" d="m43 371h4"/>
-        <path transform="rotate(143,256,371)" d="m43 371h4"/>
-        <path transform="rotate(142,256,371)" d="m43 371h4"/>
-        <path transform="rotate(141,256,371)" d="m43 371h4"/>
-        <path transform="rotate(140,256,371)" d="m43 371h4"/>
-        <path transform="rotate(139,256,371)" d="m43 371h4"/>
-        <path transform="rotate(138,256,371)" d="m43 371h4"/>
-        <path transform="rotate(137,256,371)" d="m43 371h4"/>
-        <path transform="rotate(136,256,371)" d="m43 371h4"/>
-        <path transform="rotate(135,256,371)" d="m43 371h4"/>
-        <path transform="rotate(134,256,371)" d="m43 371h4"/>
-        <path transform="rotate(133,256,371)" d="m43 371h4"/>
-        <path transform="rotate(132,256,371)" d="m43 371h4"/>
-        <path transform="rotate(131,256,371)" d="m43 371h4"/>
-        <path transform="rotate(130,256,371)" d="m43 371h4"/>
-        <path transform="rotate(129,256,371)" d="m43 371h4"/>
-        <path transform="rotate(128,256,371)" d="m43 371h4"/>
-        <path transform="rotate(127,256,371)" d="m43 371h4"/>
-        <path transform="rotate(126,256,371)" d="m43 371h4"/>
-        <path transform="rotate(125,256,371)" d="m43 371h4"/>
-        <path transform="rotate(124,256,371)" d="m43 371h4"/>
-        <path transform="rotate(123,256,371)" d="m43 371h4"/>
-        <path transform="rotate(122,256,371)" d="m43 371h4"/>
-        <path transform="rotate(121,256,371)" d="m43 371h4"/>
-        <path transform="rotate(120,256,371)" d="m43 371h4"/>
-        <path transform="rotate(119,256,371)" d="m43 371h4"/>
-        <path transform="rotate(118,256,371)" d="m43 371h4"/>
-        <path transform="rotate(117,256,371)" d="m43 371h4"/>
-        <path transform="rotate(116,256,371)" d="m43 371h4"/>
-        <path transform="rotate(115,256,371)" d="m43 371h4"/>
-        <path transform="rotate(114,256,371)" d="m43 371h4"/>
-        <path transform="rotate(113,256,371)" d="m43 371h4"/>
-        <path transform="rotate(112,256,371)" d="m43 371h4"/>
-        <path transform="rotate(111,256,371)" d="m43 371h4"/>
-        <path transform="rotate(110,256,371)" d="m43 371h4"/>
-        <path transform="rotate(109,256,371)" d="m43 371h4"/>
-        <path transform="rotate(108,256,371)" d="m43 371h4"/>
-        <path transform="rotate(107,256,371)" d="m43 371h4"/>
-        <path transform="rotate(106,256,371)" d="m43 371h4"/>
-        <path transform="rotate(105,256,371)" d="m43 371h4"/>
-        <path transform="rotate(104,256,371)" d="m43 371h4"/>
-        <path transform="rotate(103,256,371)" d="m43 371h4"/>
-        <path transform="rotate(102,256,371)" d="m43 371h4"/>
-        <path transform="rotate(101,256,371)" d="m43 371h4"/>
-        <path transform="rotate(100,256,371)" d="m43 371h4"/>
-        <path transform="rotate(99,256,371)" d="m43 371h4"/>
-        <path transform="rotate(98,256,371)" d="m43 371h4"/>
-        <path transform="rotate(97,256,371)" d="m43 371h4"/>
-        <path transform="rotate(96,256,371)" d="m43 371h4"/>
-        <path transform="rotate(95,256,371)" d="m43 371h4"/>
-        <path transform="rotate(94,256,371)" d="m43 371h4"/>
-        <path transform="rotate(93,256,371)" d="m43 371h4"/>
-        <path transform="rotate(92,256,371)" d="m43 371h4"/>
-        <path transform="rotate(91,256,371)" d="m43 371h4"/>
-        <path transform="rotate(90,256,371)" d="m43 371h4"/>
-        <path transform="rotate(89,256,371)" d="m43 371h4"/>
-        <path transform="rotate(88,256,371)" d="m43 371h4"/>
-        <path transform="rotate(87,256,371)" d="m43 371h4"/>
-        <path transform="rotate(86,256,371)" d="m43 371h4"/>
-        <path transform="rotate(85,256,371)" d="m43 371h4"/>
-        <path transform="rotate(84,256,371)" d="m43 371h4"/>
-        <path transform="rotate(83,256,371)" d="m43 371h4"/>
-        <path transform="rotate(82,256,371)" d="m43 371h4"/>
-        <path transform="rotate(81,256,371)" d="m43 371h4"/>
-        <path transform="rotate(80,256,371)" d="m43 371h4"/>
-        <path transform="rotate(79,256,371)" d="m43 371h4"/>
-        <path transform="rotate(78,256,371)" d="m43 371h4"/>
-        <path transform="rotate(77,256,371)" d="m43 371h4"/>
-        <path transform="rotate(76,256,371)" d="m43 371h4"/>
-        <path transform="rotate(75,256,371)" d="m43 371h4"/>
-        <path transform="rotate(74,256,371)" d="m43 371h4"/>
-        <path transform="rotate(73,256,371)" d="m43 371h4"/>
-        <path transform="rotate(72,256,371)" d="m43 371h4"/>
-        <path transform="rotate(71,256,371)" d="m43 371h4"/>
-        <path transform="rotate(70,256,371)" d="m43 371h4"/>
-        <path transform="rotate(69,256,371)" d="m43 371h4"/>
-        <path transform="rotate(68,256,371)" d="m43 371h4"/>
-        <path transform="rotate(67,256,371)" d="m43 371h4"/>
-        <path transform="rotate(66,256,371)" d="m43 371h4"/>
-        <path transform="rotate(65,256,371)" d="m43 371h4"/>
-        <path transform="rotate(64,256,371)" d="m43 371h4"/>
-        <path transform="rotate(63,256,371)" d="m43 371h4"/>
-        <path transform="rotate(62,256,371)" d="m43 371h4"/>
-        <path transform="rotate(61,256,371)" d="m43 371h4"/>
-        <path transform="rotate(60,256,371)" d="m43 371h4"/>
-        <path transform="rotate(59,256,371)" d="m43 371h4"/>
-        <path transform="rotate(58,256,371)" d="m43 371h4"/>
-        <path transform="rotate(57,256,371)" d="m43 371h4"/>
-        <path transform="rotate(56,256,371)" d="m43 371h4"/>
-        <path transform="rotate(55,256,371)" d="m43 371h4"/>
-        <path transform="rotate(54,256,371)" d="m43 371h4"/>
-        <path transform="rotate(53,256,371)" d="m43 371h4"/>
-        <path transform="rotate(52,256,371)" d="m43 371h4"/>
-        <path transform="rotate(51,256,371)" d="m43 371h4"/>
-        <path transform="rotate(50,256,371)" d="m43 371h4"/>
-        <path transform="rotate(49,256,371)" d="m43 371h4"/>
-        <path transform="rotate(48,256,371)" d="m43 371h4"/>
-        <path transform="rotate(47,256,371)" d="m43 371h4"/>
-        <path transform="rotate(46,256,371)" d="m43 371h4"/>
-        <path transform="rotate(45,256,371)" d="m43 371h4"/>
-        <path transform="rotate(44,256,371)" d="m43 371h4"/>
-        <path transform="rotate(43,256,371)" d="m43 371h4"/>
-        <path transform="rotate(42,256,371)" d="m43 371h4"/>
-        <path transform="rotate(41,256,371)" d="m43 371h4"/>
-        <path transform="rotate(40,256,371)" d="m43 371h4"/>
-        <path transform="rotate(39,256,371)" d="m43 371h4"/>
-        <path transform="rotate(38,256,371)" d="m43 371h4"/>
-        <path transform="rotate(37,256,371)" d="m43 371h4"/>
-        <path transform="rotate(36,256,371)" d="m43 371h4"/>
-        <path transform="rotate(35,256,371)" d="m43 371h4"/>
-        <path transform="rotate(34,256,371)" d="m43 371h4"/>
-        <path transform="rotate(33,256,371)" d="m43 371h4"/>
-        <path transform="rotate(32,256,371)" d="m43 371h4"/>
-        <path transform="rotate(31,256,371)" d="m43 371h4"/>
-        <path transform="rotate(30,256,371)" d="m43 371h4"/>
-        <path transform="rotate(29,256,371)" d="m43 371h4"/>
-        <path transform="rotate(28,256,371)" d="m43 371h4"/>
-        <path transform="rotate(27,256,371)" d="m43 371h4"/>
-        <path transform="rotate(26,256,371)" d="m43 371h4"/>
-        <path transform="rotate(25,256,371)" d="m43 371h4"/>
-        <path transform="rotate(24,256,371)" d="m43 371h4"/>
-        <path transform="rotate(23,256,371)" d="m43 371h4"/>
-        <path transform="rotate(22,256,371)" d="m43 371h4"/>
-        <path transform="rotate(21,256,371)" d="m43 371h4"/>
-        <path transform="rotate(20,256,371)" d="m43 371h4"/>
-        <path transform="rotate(19,256,371)" d="m43 371h4"/>
-        <path transform="rotate(18,256,371)" d="m43 371h4"/>
-        <path transform="rotate(17,256,371)" d="m43 371h4"/>
-        <path transform="rotate(16,256,371)" d="m43 371h4"/>
-        <path transform="rotate(15,256,371)" d="m43 371h4"/>
-        <path transform="rotate(14,256,371)" d="m43 371h4"/>
-        <path transform="rotate(13,256,371)" d="m43 371h4"/>
-        <path transform="rotate(12,256,371)" d="m43 371h4"/>
-        <path transform="rotate(11,256,371)" d="m43 371h4"/>
-        <path transform="rotate(10,256,371)" d="m43 371h4"/>
-        <path transform="rotate(9,256,371)" d="m43 371h4"/>
-        <path transform="rotate(8,256,371)" d="m43 371h4"/>
-        <path transform="rotate(7,256,371)" d="m43 371h4"/>
-        <path transform="rotate(6,256,371)" d="m43 371h4"/>
-        <path transform="rotate(5,256,371)" d="m43 371h4"/>
-        <path transform="rotate(4,256,371)" d="m43 371h4"/>
-        <path transform="rotate(3,256,371)" d="m43 371h4"/>
-        <path transform="rotate(2,256,371)" d="m43 371h4"/>
-        <path transform="rotate(1,256,371)" d="m43 371h4"/>
-        <path transform="rotate(175,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(170,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(165,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(160,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(155,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(150,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(145,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(140,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(135,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(130,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(125,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(120,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(115,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(110,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(105,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(100,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(95,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(90,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(85,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(80,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(75,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(70,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(65,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(60,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(55,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(50,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(45,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(40,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(35,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(30,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(25,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(20,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(15,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(10,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(5,256,371)" d="m43 371h6.5"/>
-        <path transform="rotate(180,256,371)" d="m59 371h7"/>
-        <path transform="rotate(170,256,371)" d="m59 371h7"/>
-        <path transform="rotate(165,256,371)" d="m59 371h7"/>
-        <path transform="rotate(160,256,371)" d="m59 371h7"/>
-        <path transform="rotate(155,256,371)" d="m59 371h7"/>
-        <path transform="rotate(150,256,371)" d="m59 371h7"/>
-        <path transform="rotate(145,256,371)" d="m59 371h7"/>
-        <path transform="rotate(140,256,371)" d="m59 371h7"/>
-        <path transform="rotate(135,256,371)" d="m59 371h7"/>
-        <path transform="rotate(130,256,371)" d="m59 371h7"/>
-        <path transform="rotate(125,256,371)" d="m59 371h7"/>
-        <path transform="rotate(120,256,371)" d="m59 371h7"/>
-        <path transform="rotate(115,256,371)" d="m59 371h7"/>
-        <path transform="rotate(110,256,371)" d="m59 371h7"/>
-        <path transform="rotate(105,256,371)" d="m59 371h7"/>
-        <path transform="rotate(100,256,371)" d="m59 371h7"/>
-        <path transform="rotate(95,256,371)" d="m59 371h7"/>
-        <path transform="rotate(90,256,371)" d="m59 371h7"/>
-        <path transform="rotate(85,256,371)" d="m59 371h7"/>
-        <path transform="rotate(80,256,371)" d="m59 371h7"/>
-        <path transform="rotate(75,256,371)" d="m59 371h7"/>
-        <path transform="rotate(70,256,371)" d="m59 371h7"/>
-        <path transform="rotate(65,256,371)" d="m59 371h7"/>
-        <path transform="rotate(60,256,371)" d="m59 371h7"/>
-        <path transform="rotate(55,256,371)" d="m59 371h7"/>
-        <path transform="rotate(50,256,371)" d="m59 371h7"/>
-        <path transform="rotate(45,256,371)" d="m59 371h7"/>
-        <path transform="rotate(40,256,371)" d="m59 371h7"/>
-        <path transform="rotate(35,256,371)" d="m59 371h7"/>
-        <path transform="rotate(30,256,371)" d="m59 371h7"/>
-        <path transform="rotate(25,256,371)" d="m59 371h7"/>
-        <path transform="rotate(20,256,371)" d="m59 371h7"/>
-        <path transform="rotate(15,256,371)" d="m59 371h7"/>
-        <path transform="rotate(10,256,371)" d="m59 371h7"/>
-        <path transform="rotate(179,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(178,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(177,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(176,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(175,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(174,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(173,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(172,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(171,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(170,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(169,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(168,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(167,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(166,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(165,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(164,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(163,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(162,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(161,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(160,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(159,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(158,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(157,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(156,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(155,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(154,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(153,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(152,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(151,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(150,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(149,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(148,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(147,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(146,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(145,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(144,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(143,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(142,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(141,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(140,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(139,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(138,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(137,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(136,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(135,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(134,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(133,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(132,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(131,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(130,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(129,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(128,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(127,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(126,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(125,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(124,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(123,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(122,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(121,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(120,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(119,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(118,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(117,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(116,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(115,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(114,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(113,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(112,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(111,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(110,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(109,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(108,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(107,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(106,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(105,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(104,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(103,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(102,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(101,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(100,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(99,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(98,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(97,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(96,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(95,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(94,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(93,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(92,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(91,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(90,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(89,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(88,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(87,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(86,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(85,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(84,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(83,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(82,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(81,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(80,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(79,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(78,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(77,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(76,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(75,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(74,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(73,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(72,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(71,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(70,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(69,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(68,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(67,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(66,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(65,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(64,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(63,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(62,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(61,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(60,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(59,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(58,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(57,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(56,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(55,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(54,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(53,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(52,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(51,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(50,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(49,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(48,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(47,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(46,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(45,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(44,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(43,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(42,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(41,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(40,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(39,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(38,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(37,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(36,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(35,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(34,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(33,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(32,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(31,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(30,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(29,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(28,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(27,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(26,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(25,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(24,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(23,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(22,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(21,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(20,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(19,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(18,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(17,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(16,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(15,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(14,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(13,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(12,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(11,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(10,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(9,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(8,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(7,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(6,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(5,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(4,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(3,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(2,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(1,256,371)" d="m39 371h-4"/>
-        <path transform="rotate(175,256,371)" d="m16 371h7"/>
-        <path transform="rotate(170,256,371)" d="m16 371h7"/>
-        <path transform="rotate(165,256,371)" d="m16 371h7"/>
-        <path transform="rotate(160,256,371)" d="m16 371h7"/>
-        <path transform="rotate(155,256,371)" d="m16 371h7"/>
-        <path transform="rotate(150,256,371)" d="m16 371h7"/>
-        <path transform="rotate(145,256,371)" d="m16 371h7"/>
-        <path transform="rotate(140,256,371)" d="m16 371h7"/>
-        <path transform="rotate(135,256,371)" d="m16 371h7"/>
-        <path transform="rotate(130,256,371)" d="m16 371h7"/>
-        <path transform="rotate(125,256,371)" d="m16 371h7"/>
-        <path transform="rotate(120,256,371)" d="m16 371h7"/>
-        <path transform="rotate(115,256,371)" d="m16 371h7"/>
-        <path transform="rotate(110,256,371)" d="m16 371h7"/>
-        <path transform="rotate(105,256,371)" d="m16 371h7"/>
-        <path transform="rotate(100,256,371)" d="m16 371h7"/>
-        <path transform="rotate(95,256,371)" d="m16 371h7"/>
-        <path transform="rotate(90,256,371)" d="m16 371h7"/>
-        <path transform="rotate(85,256,371)" d="m16 371h7"/>
-        <path transform="rotate(80,256,371)" d="m16 371h7"/>
-        <path transform="rotate(75,256,371)" d="m16 371h7"/>
-        <path transform="rotate(70,256,371)" d="m16 371h7"/>
-        <path transform="rotate(65,256,371)" d="m16 371h7"/>
-        <path transform="rotate(60,256,371)" d="m16 371h7"/>
-        <path transform="rotate(55,256,371)" d="m16 371h7"/>
-        <path transform="rotate(50,256,371)" d="m16 371h7"/>
-        <path transform="rotate(45,256,371)" d="m16 371h7"/>
-        <path transform="rotate(40,256,371)" d="m16 371h7"/>
-        <path transform="rotate(35,256,371)" d="m16 371h7"/>
-        <path transform="rotate(30,256,371)" d="m16 371h7"/>
-        <path transform="rotate(25,256,371)" d="m16 371h7"/>
-        <path transform="rotate(20,256,371)" d="m16 371h7"/>
-        <path transform="rotate(15,256,371)" d="m16 371h7"/>
-        <path transform="rotate(10,256,371)" d="m16 371h7"/>
-        <path transform="rotate(5,256,371)" d="m16 371h7"/>
-        <path transform="rotate(179,256,371)" d="m16 371h4"/>
-        <path transform="rotate(178,256,371)" d="m16 371h4"/>
-        <path transform="rotate(177,256,371)" d="m16 371h4"/>
-        <path transform="rotate(176,256,371)" d="m16 371h4"/>
-        <path transform="rotate(175,256,371)" d="m16 371h4"/>
-        <path transform="rotate(174,256,371)" d="m16 371h4"/>
-        <path transform="rotate(173,256,371)" d="m16 371h4"/>
-        <path transform="rotate(172,256,371)" d="m16 371h4"/>
-        <path transform="rotate(171,256,371)" d="m16 371h4"/>
-        <path transform="rotate(170,256,371)" d="m16 371h4"/>
-        <path transform="rotate(169,256,371)" d="m16 371h4"/>
-        <path transform="rotate(168,256,371)" d="m16 371h4"/>
-        <path transform="rotate(167,256,371)" d="m16 371h4"/>
-        <path transform="rotate(166,256,371)" d="m16 371h4"/>
-        <path transform="rotate(165,256,371)" d="m16 371h4"/>
-        <path transform="rotate(164,256,371)" d="m16 371h4"/>
-        <path transform="rotate(163,256,371)" d="m16 371h4"/>
-        <path transform="rotate(162,256,371)" d="m16 371h4"/>
-        <path transform="rotate(161,256,371)" d="m16 371h4"/>
-        <path transform="rotate(160,256,371)" d="m16 371h4"/>
-        <path transform="rotate(159,256,371)" d="m16 371h4"/>
-        <path transform="rotate(158,256,371)" d="m16 371h4"/>
-        <path transform="rotate(157,256,371)" d="m16 371h4"/>
-        <path transform="rotate(156,256,371)" d="m16 371h4"/>
-        <path transform="rotate(155,256,371)" d="m16 371h4"/>
-        <path transform="rotate(154,256,371)" d="m16 371h4"/>
-        <path transform="rotate(153,256,371)" d="m16 371h4"/>
-        <path transform="rotate(152,256,371)" d="m16 371h4"/>
-        <path transform="rotate(151,256,371)" d="m16 371h4"/>
-        <path transform="rotate(150,256,371)" d="m16 371h4"/>
-        <path transform="rotate(149,256,371)" d="m16 371h4"/>
-        <path transform="rotate(148,256,371)" d="m16 371h4"/>
-        <path transform="rotate(147,256,371)" d="m16 371h4"/>
-        <path transform="rotate(146,256,371)" d="m16 371h4"/>
-        <path transform="rotate(145,256,371)" d="m16 371h4"/>
-        <path transform="rotate(144,256,371)" d="m16 371h4"/>
-        <path transform="rotate(143,256,371)" d="m16 371h4"/>
-        <path transform="rotate(142,256,371)" d="m16 371h4"/>
-        <path transform="rotate(141,256,371)" d="m16 371h4"/>
-        <path transform="rotate(140,256,371)" d="m16 371h4"/>
-        <path transform="rotate(139,256,371)" d="m16 371h4"/>
-        <path transform="rotate(138,256,371)" d="m16 371h4"/>
-        <path transform="rotate(137,256,371)" d="m16 371h4"/>
-        <path transform="rotate(136,256,371)" d="m16 371h4"/>
-        <path transform="rotate(135,256,371)" d="m16 371h4"/>
-        <path transform="rotate(134,256,371)" d="m16 371h4"/>
-        <path transform="rotate(133,256,371)" d="m16 371h4"/>
-        <path transform="rotate(132,256,371)" d="m16 371h4"/>
-        <path transform="rotate(131,256,371)" d="m16 371h4"/>
-        <path transform="rotate(130,256,371)" d="m16 371h4"/>
-        <path transform="rotate(129,256,371)" d="m16 371h4"/>
-        <path transform="rotate(128,256,371)" d="m16 371h4"/>
-        <path transform="rotate(127,256,371)" d="m16 371h4"/>
-        <path transform="rotate(126,256,371)" d="m16 371h4"/>
-        <path transform="rotate(125,256,371)" d="m16 371h4"/>
-        <path transform="rotate(124,256,371)" d="m16 371h4"/>
-        <path transform="rotate(123,256,371)" d="m16 371h4"/>
-        <path transform="rotate(122,256,371)" d="m16 371h4"/>
-        <path transform="rotate(121,256,371)" d="m16 371h4"/>
-        <path transform="rotate(120,256,371)" d="m16 371h4"/>
-        <path transform="rotate(119,256,371)" d="m16 371h4"/>
-        <path transform="rotate(118,256,371)" d="m16 371h4"/>
-        <path transform="rotate(117,256,371)" d="m16 371h4"/>
-        <path transform="rotate(116,256,371)" d="m16 371h4"/>
-        <path transform="rotate(115,256,371)" d="m16 371h4"/>
-        <path transform="rotate(114,256,371)" d="m16 371h4"/>
-        <path transform="rotate(113,256,371)" d="m16 371h4"/>
-        <path transform="rotate(112,256,371)" d="m16 371h4"/>
-        <path transform="rotate(111,256,371)" d="m16 371h4"/>
-        <path transform="rotate(110,256,371)" d="m16 371h4"/>
-        <path transform="rotate(109,256,371)" d="m16 371h4"/>
-        <path transform="rotate(108,256,371)" d="m16 371h4"/>
-        <path transform="rotate(107,256,371)" d="m16 371h4"/>
-        <path transform="rotate(106,256,371)" d="m16 371h4"/>
-        <path transform="rotate(105,256,371)" d="m16 371h4"/>
-        <path transform="rotate(104,256,371)" d="m16 371h4"/>
-        <path transform="rotate(103,256,371)" d="m16 371h4"/>
-        <path transform="rotate(102,256,371)" d="m16 371h4"/>
-        <path transform="rotate(101,256,371)" d="m16 371h4"/>
-        <path transform="rotate(100,256,371)" d="m16 371h4"/>
-        <path transform="rotate(99,256,371)" d="m16 371h4"/>
-        <path transform="rotate(98,256,371)" d="m16 371h4"/>
-        <path transform="rotate(97,256,371)" d="m16 371h4"/>
-        <path transform="rotate(96,256,371)" d="m16 371h4"/>
-        <path transform="rotate(95,256,371)" d="m16 371h4"/>
-        <path transform="rotate(94,256,371)" d="m16 371h4"/>
-        <path transform="rotate(93,256,371)" d="m16 371h4"/>
-        <path transform="rotate(92,256,371)" d="m16 371h4"/>
-        <path transform="rotate(91,256,371)" d="m16 371h4"/>
-        <path transform="rotate(90,256,371)" d="m16 371h4"/>
-        <path transform="rotate(89,256,371)" d="m16 371h4"/>
-        <path transform="rotate(88,256,371)" d="m16 371h4"/>
-        <path transform="rotate(87,256,371)" d="m16 371h4"/>
-        <path transform="rotate(86,256,371)" d="m16 371h4"/>
-        <path transform="rotate(85,256,371)" d="m16 371h4"/>
-        <path transform="rotate(84,256,371)" d="m16 371h4"/>
-        <path transform="rotate(83,256,371)" d="m16 371h4"/>
-        <path transform="rotate(82,256,371)" d="m16 371h4"/>
-        <path transform="rotate(81,256,371)" d="m16 371h4"/>
-        <path transform="rotate(80,256,371)" d="m16 371h4"/>
-        <path transform="rotate(79,256,371)" d="m16 371h4"/>
-        <path transform="rotate(78,256,371)" d="m16 371h4"/>
-        <path transform="rotate(77,256,371)" d="m16 371h4"/>
-        <path transform="rotate(76,256,371)" d="m16 371h4"/>
-        <path transform="rotate(75,256,371)" d="m16 371h4"/>
-        <path transform="rotate(74,256,371)" d="m16 371h4"/>
-        <path transform="rotate(73,256,371)" d="m16 371h4"/>
-        <path transform="rotate(72,256,371)" d="m16 371h4"/>
-        <path transform="rotate(71,256,371)" d="m16 371h4"/>
-        <path transform="rotate(70,256,371)" d="m16 371h4"/>
-        <path transform="rotate(69,256,371)" d="m16 371h4"/>
-        <path transform="rotate(68,256,371)" d="m16 371h4"/>
-        <path transform="rotate(67,256,371)" d="m16 371h4"/>
-        <path transform="rotate(66,256,371)" d="m16 371h4"/>
-        <path transform="rotate(65,256,371)" d="m16 371h4"/>
-        <path transform="rotate(64,256,371)" d="m16 371h4"/>
-        <path transform="rotate(63,256,371)" d="m16 371h4"/>
-        <path transform="rotate(62,256,371)" d="m16 371h4"/>
-        <path transform="rotate(61,256,371)" d="m16 371h4"/>
-        <path transform="rotate(60,256,371)" d="m16 371h4"/>
-        <path transform="rotate(59,256,371)" d="m16 371h4"/>
-        <path transform="rotate(58,256,371)" d="m16 371h4"/>
-        <path transform="rotate(57,256,371)" d="m16 371h4"/>
-        <path transform="rotate(56,256,371)" d="m16 371h4"/>
-        <path transform="rotate(55,256,371)" d="m16 371h4"/>
-        <path transform="rotate(54,256,371)" d="m16 371h4"/>
-        <path transform="rotate(53,256,371)" d="m16 371h4"/>
-        <path transform="rotate(52,256,371)" d="m16 371h4"/>
-        <path transform="rotate(51,256,371)" d="m16 371h4"/>
-        <path transform="rotate(50,256,371)" d="m16 371h4"/>
-        <path transform="rotate(49,256,371)" d="m16 371h4"/>
-        <path transform="rotate(48,256,371)" d="m16 371h4"/>
-        <path transform="rotate(47,256,371)" d="m16 371h4"/>
-        <path transform="rotate(46,256,371)" d="m16 371h4"/>
-        <path transform="rotate(45,256,371)" d="m16 371h4"/>
-        <path transform="rotate(44,256,371)" d="m16 371h4"/>
-        <path transform="rotate(43,256,371)" d="m16 371h4"/>
-        <path transform="rotate(42,256,371)" d="m16 371h4"/>
-        <path transform="rotate(41,256,371)" d="m16 371h4"/>
-        <path transform="rotate(40,256,371)" d="m16 371h4"/>
-        <path transform="rotate(39,256,371)" d="m16 371h4"/>
-        <path transform="rotate(38,256,371)" d="m16 371h4"/>
-        <path transform="rotate(37,256,371)" d="m16 371h4"/>
-        <path transform="rotate(36,256,371)" d="m16 371h4"/>
-        <path transform="rotate(35,256,371)" d="m16 371h4"/>
-        <path transform="rotate(34,256,371)" d="m16 371h4"/>
-        <path transform="rotate(33,256,371)" d="m16 371h4"/>
-        <path transform="rotate(32,256,371)" d="m16 371h4"/>
-        <path transform="rotate(31,256,371)" d="m16 371h4"/>
-        <path transform="rotate(30,256,371)" d="m16 371h4"/>
-        <path transform="rotate(29,256,371)" d="m16 371h4"/>
-        <path transform="rotate(28,256,371)" d="m16 371h4"/>
-        <path transform="rotate(27,256,371)" d="m16 371h4"/>
-        <path transform="rotate(26,256,371)" d="m16 371h4"/>
-        <path transform="rotate(25,256,371)" d="m16 371h4"/>
-        <path transform="rotate(24,256,371)" d="m16 371h4"/>
-        <path transform="rotate(23,256,371)" d="m16 371h4"/>
-        <path transform="rotate(22,256,371)" d="m16 371h4"/>
-        <path transform="rotate(21,256,371)" d="m16 371h4"/>
-        <path transform="rotate(20,256,371)" d="m16 371h4"/>
-        <path transform="rotate(19,256,371)" d="m16 371h4"/>
-        <path transform="rotate(18,256,371)" d="m16 371h4"/>
-        <path transform="rotate(17,256,371)" d="m16 371h4"/>
-        <path transform="rotate(16,256,371)" d="m16 371h4"/>
-        <path transform="rotate(15,256,371)" d="m16 371h4"/>
-        <path transform="rotate(14,256,371)" d="m16 371h4"/>
-        <path transform="rotate(13,256,371)" d="m16 371h4"/>
-        <path transform="rotate(12,256,371)" d="m16 371h4"/>
-        <path transform="rotate(11,256,371)" d="m16 371h4"/>
-        <path transform="rotate(10,256,371)" d="m16 371h4"/>
-        <path transform="rotate(9,256,371)" d="m16 371h4"/>
-        <path transform="rotate(8,256,371)" d="m16 371h4"/>
-        <path transform="rotate(7,256,371)" d="m16 371h4"/>
-        <path transform="rotate(6,256,371)" d="m16 371h4"/>
-        <path transform="rotate(5,256,371)" d="m16 371h4"/>
-        <path transform="rotate(4,256,371)" d="m16 371h4"/>
-        <path transform="rotate(3,256,371)" d="m16 371h4"/>
-        <path transform="rotate(2,256,371)" d="m16 371h4"/>
-        <path transform="rotate(1,256,371)" d="m16 371h4"/>
-        <path transform="rotate(175,256,371)" d="m32 371h7"/>
-        <path transform="rotate(170,256,371)" d="m32 371h7"/>
-        <path transform="rotate(165,256,371)" d="m32 371h7"/>
-        <path transform="rotate(160,256,371)" d="m32 371h7"/>
-        <path transform="rotate(155,256,371)" d="m32 371h7"/>
-        <path transform="rotate(150,256,371)" d="m32 371h7"/>
-        <path transform="rotate(145,256,371)" d="m32 371h7"/>
-        <path transform="rotate(140,256,371)" d="m32 371h7"/>
-        <path transform="rotate(135,256,371)" d="m32 371h7"/>
-        <path transform="rotate(130,256,371)" d="m32 371h7"/>
-        <path transform="rotate(125,256,371)" d="m32 371h7"/>
-        <path transform="rotate(120,256,371)" d="m32 371h7"/>
-        <path transform="rotate(115,256,371)" d="m32 371h7"/>
-        <path transform="rotate(110,256,371)" d="m32 371h7"/>
-        <path transform="rotate(105,256,371)" d="m32 371h7"/>
-        <path transform="rotate(100,256,371)" d="m32 371h7"/>
-        <path transform="rotate(95,256,371)" d="m32 371h7"/>
-        <path transform="rotate(90,256,371)" d="m32 371h7"/>
-        <path transform="rotate(85,256,371)" d="m32 371h7"/>
-        <path transform="rotate(80,256,371)" d="m32 371h7"/>
-        <path transform="rotate(75,256,371)" d="m32 371h7"/>
-        <path transform="rotate(70,256,371)" d="m32 371h7"/>
-        <path transform="rotate(65,256,371)" d="m32 371h7"/>
-        <path transform="rotate(60,256,371)" d="m32 371h7"/>
-        <path transform="rotate(55,256,371)" d="m32 371h7"/>
-        <path transform="rotate(50,256,371)" d="m32 371h7"/>
-        <path transform="rotate(45,256,371)" d="m32 371h7"/>
-        <path transform="rotate(40,256,371)" d="m32 371h7"/>
-        <path transform="rotate(35,256,371)" d="m32 371h7"/>
-        <path transform="rotate(30,256,371)" d="m32 371h7"/>
-        <path transform="rotate(25,256,371)" d="m32 371h7"/>
-        <path transform="rotate(20,256,371)" d="m32 371h7"/>
-        <path transform="rotate(15,256,371)" d="m32 371h7"/>
-        <path transform="rotate(10,256,371)" d="m32 371h7"/>
-        <path transform="rotate(5,256,371)" d="m32 371h7"/>
+        <path d="m43 371h4" transform="rotate(179,256,371)"/>
+        <path d="m43 371h4" transform="rotate(178,256,371)"/>
+        <path d="m43 371h4" transform="rotate(177,256,371)"/>
+        <path d="m43 371h4" transform="rotate(176,256,371)"/>
+        <path d="m43 371h4" transform="rotate(175,256,371)"/>
+        <path d="m43 371h4" transform="rotate(174,256,371)"/>
+        <path d="m43 371h4" transform="rotate(173,256,371)"/>
+        <path d="m43 371h4" transform="rotate(172,256,371)"/>
+        <path d="m43 371h4" transform="rotate(171,256,371)"/>
+        <path d="m43 371h4" transform="rotate(170,256,371)"/>
+        <path d="m43 371h4" transform="rotate(169,256,371)"/>
+        <path d="m43 371h4" transform="rotate(168,256,371)"/>
+        <path d="m43 371h4" transform="rotate(167,256,371)"/>
+        <path d="m43 371h4" transform="rotate(166,256,371)"/>
+        <path d="m43 371h4" transform="rotate(165,256,371)"/>
+        <path d="m43 371h4" transform="rotate(164,256,371)"/>
+        <path d="m43 371h4" transform="rotate(163,256,371)"/>
+        <path d="m43 371h4" transform="rotate(162,256,371)"/>
+        <path d="m43 371h4" transform="rotate(161,256,371)"/>
+        <path d="m43 371h4" transform="rotate(160,256,371)"/>
+        <path d="m43 371h4" transform="rotate(159,256,371)"/>
+        <path d="m43 371h4" transform="rotate(158,256,371)"/>
+        <path d="m43 371h4" transform="rotate(157,256,371)"/>
+        <path d="m43 371h4" transform="rotate(156,256,371)"/>
+        <path d="m43 371h4" transform="rotate(155,256,371)"/>
+        <path d="m43 371h4" transform="rotate(154,256,371)"/>
+        <path d="m43 371h4" transform="rotate(153,256,371)"/>
+        <path d="m43 371h4" transform="rotate(152,256,371)"/>
+        <path d="m43 371h4" transform="rotate(151,256,371)"/>
+        <path d="m43 371h4" transform="rotate(150,256,371)"/>
+        <path d="m43 371h4" transform="rotate(149,256,371)"/>
+        <path d="m43 371h4" transform="rotate(148,256,371)"/>
+        <path d="m43 371h4" transform="rotate(147,256,371)"/>
+        <path d="m43 371h4" transform="rotate(146,256,371)"/>
+        <path d="m43 371h4" transform="rotate(145,256,371)"/>
+        <path d="m43 371h4" transform="rotate(144,256,371)"/>
+        <path d="m43 371h4" transform="rotate(143,256,371)"/>
+        <path d="m43 371h4" transform="rotate(142,256,371)"/>
+        <path d="m43 371h4" transform="rotate(141,256,371)"/>
+        <path d="m43 371h4" transform="rotate(140,256,371)"/>
+        <path d="m43 371h4" transform="rotate(139,256,371)"/>
+        <path d="m43 371h4" transform="rotate(138,256,371)"/>
+        <path d="m43 371h4" transform="rotate(137,256,371)"/>
+        <path d="m43 371h4" transform="rotate(136,256,371)"/>
+        <path d="m43 371h4" transform="rotate(135,256,371)"/>
+        <path d="m43 371h4" transform="rotate(134,256,371)"/>
+        <path d="m43 371h4" transform="rotate(133,256,371)"/>
+        <path d="m43 371h4" transform="rotate(132,256,371)"/>
+        <path d="m43 371h4" transform="rotate(131,256,371)"/>
+        <path d="m43 371h4" transform="rotate(130,256,371)"/>
+        <path d="m43 371h4" transform="rotate(129,256,371)"/>
+        <path d="m43 371h4" transform="rotate(128,256,371)"/>
+        <path d="m43 371h4" transform="rotate(127,256,371)"/>
+        <path d="m43 371h4" transform="rotate(126,256,371)"/>
+        <path d="m43 371h4" transform="rotate(125,256,371)"/>
+        <path d="m43 371h4" transform="rotate(124,256,371)"/>
+        <path d="m43 371h4" transform="rotate(123,256,371)"/>
+        <path d="m43 371h4" transform="rotate(122,256,371)"/>
+        <path d="m43 371h4" transform="rotate(121,256,371)"/>
+        <path d="m43 371h4" transform="rotate(120,256,371)"/>
+        <path d="m43 371h4" transform="rotate(119,256,371)"/>
+        <path d="m43 371h4" transform="rotate(118,256,371)"/>
+        <path d="m43 371h4" transform="rotate(117,256,371)"/>
+        <path d="m43 371h4" transform="rotate(116,256,371)"/>
+        <path d="m43 371h4" transform="rotate(115,256,371)"/>
+        <path d="m43 371h4" transform="rotate(114,256,371)"/>
+        <path d="m43 371h4" transform="rotate(113,256,371)"/>
+        <path d="m43 371h4" transform="rotate(112,256,371)"/>
+        <path d="m43 371h4" transform="rotate(111,256,371)"/>
+        <path d="m43 371h4" transform="rotate(110,256,371)"/>
+        <path d="m43 371h4" transform="rotate(109,256,371)"/>
+        <path d="m43 371h4" transform="rotate(108,256,371)"/>
+        <path d="m43 371h4" transform="rotate(107,256,371)"/>
+        <path d="m43 371h4" transform="rotate(106,256,371)"/>
+        <path d="m43 371h4" transform="rotate(105,256,371)"/>
+        <path d="m43 371h4" transform="rotate(104,256,371)"/>
+        <path d="m43 371h4" transform="rotate(103,256,371)"/>
+        <path d="m43 371h4" transform="rotate(102,256,371)"/>
+        <path d="m43 371h4" transform="rotate(101,256,371)"/>
+        <path d="m43 371h4" transform="rotate(100,256,371)"/>
+        <path d="m43 371h4" transform="rotate(99,256,371)"/>
+        <path d="m43 371h4" transform="rotate(98,256,371)"/>
+        <path d="m43 371h4" transform="rotate(97,256,371)"/>
+        <path d="m43 371h4" transform="rotate(96,256,371)"/>
+        <path d="m43 371h4" transform="rotate(95,256,371)"/>
+        <path d="m43 371h4" transform="rotate(94,256,371)"/>
+        <path d="m43 371h4" transform="rotate(93,256,371)"/>
+        <path d="m43 371h4" transform="rotate(92,256,371)"/>
+        <path d="m43 371h4" transform="rotate(91,256,371)"/>
+        <path d="m43 371h4" transform="rotate(90,256,371)"/>
+        <path d="m43 371h4" transform="rotate(89,256,371)"/>
+        <path d="m43 371h4" transform="rotate(88,256,371)"/>
+        <path d="m43 371h4" transform="rotate(87,256,371)"/>
+        <path d="m43 371h4" transform="rotate(86,256,371)"/>
+        <path d="m43 371h4" transform="rotate(85,256,371)"/>
+        <path d="m43 371h4" transform="rotate(84,256,371)"/>
+        <path d="m43 371h4" transform="rotate(83,256,371)"/>
+        <path d="m43 371h4" transform="rotate(82,256,371)"/>
+        <path d="m43 371h4" transform="rotate(81,256,371)"/>
+        <path d="m43 371h4" transform="rotate(80,256,371)"/>
+        <path d="m43 371h4" transform="rotate(79,256,371)"/>
+        <path d="m43 371h4" transform="rotate(78,256,371)"/>
+        <path d="m43 371h4" transform="rotate(77,256,371)"/>
+        <path d="m43 371h4" transform="rotate(76,256,371)"/>
+        <path d="m43 371h4" transform="rotate(75,256,371)"/>
+        <path d="m43 371h4" transform="rotate(74,256,371)"/>
+        <path d="m43 371h4" transform="rotate(73,256,371)"/>
+        <path d="m43 371h4" transform="rotate(72,256,371)"/>
+        <path d="m43 371h4" transform="rotate(71,256,371)"/>
+        <path d="m43 371h4" transform="rotate(70,256,371)"/>
+        <path d="m43 371h4" transform="rotate(69,256,371)"/>
+        <path d="m43 371h4" transform="rotate(68,256,371)"/>
+        <path d="m43 371h4" transform="rotate(67,256,371)"/>
+        <path d="m43 371h4" transform="rotate(66,256,371)"/>
+        <path d="m43 371h4" transform="rotate(65,256,371)"/>
+        <path d="m43 371h4" transform="rotate(64,256,371)"/>
+        <path d="m43 371h4" transform="rotate(63,256,371)"/>
+        <path d="m43 371h4" transform="rotate(62,256,371)"/>
+        <path d="m43 371h4" transform="rotate(61,256,371)"/>
+        <path d="m43 371h4" transform="rotate(60,256,371)"/>
+        <path d="m43 371h4" transform="rotate(59,256,371)"/>
+        <path d="m43 371h4" transform="rotate(58,256,371)"/>
+        <path d="m43 371h4" transform="rotate(57,256,371)"/>
+        <path d="m43 371h4" transform="rotate(56,256,371)"/>
+        <path d="m43 371h4" transform="rotate(55,256,371)"/>
+        <path d="m43 371h4" transform="rotate(54,256,371)"/>
+        <path d="m43 371h4" transform="rotate(53,256,371)"/>
+        <path d="m43 371h4" transform="rotate(52,256,371)"/>
+        <path d="m43 371h4" transform="rotate(51,256,371)"/>
+        <path d="m43 371h4" transform="rotate(50,256,371)"/>
+        <path d="m43 371h4" transform="rotate(49,256,371)"/>
+        <path d="m43 371h4" transform="rotate(48,256,371)"/>
+        <path d="m43 371h4" transform="rotate(47,256,371)"/>
+        <path d="m43 371h4" transform="rotate(46,256,371)"/>
+        <path d="m43 371h4" transform="rotate(45,256,371)"/>
+        <path d="m43 371h4" transform="rotate(44,256,371)"/>
+        <path d="m43 371h4" transform="rotate(43,256,371)"/>
+        <path d="m43 371h4" transform="rotate(42,256,371)"/>
+        <path d="m43 371h4" transform="rotate(41,256,371)"/>
+        <path d="m43 371h4" transform="rotate(40,256,371)"/>
+        <path d="m43 371h4" transform="rotate(39,256,371)"/>
+        <path d="m43 371h4" transform="rotate(38,256,371)"/>
+        <path d="m43 371h4" transform="rotate(37,256,371)"/>
+        <path d="m43 371h4" transform="rotate(36,256,371)"/>
+        <path d="m43 371h4" transform="rotate(35,256,371)"/>
+        <path d="m43 371h4" transform="rotate(34,256,371)"/>
+        <path d="m43 371h4" transform="rotate(33,256,371)"/>
+        <path d="m43 371h4" transform="rotate(32,256,371)"/>
+        <path d="m43 371h4" transform="rotate(31,256,371)"/>
+        <path d="m43 371h4" transform="rotate(30,256,371)"/>
+        <path d="m43 371h4" transform="rotate(29,256,371)"/>
+        <path d="m43 371h4" transform="rotate(28,256,371)"/>
+        <path d="m43 371h4" transform="rotate(27,256,371)"/>
+        <path d="m43 371h4" transform="rotate(26,256,371)"/>
+        <path d="m43 371h4" transform="rotate(25,256,371)"/>
+        <path d="m43 371h4" transform="rotate(24,256,371)"/>
+        <path d="m43 371h4" transform="rotate(23,256,371)"/>
+        <path d="m43 371h4" transform="rotate(22,256,371)"/>
+        <path d="m43 371h4" transform="rotate(21,256,371)"/>
+        <path d="m43 371h4" transform="rotate(20,256,371)"/>
+        <path d="m43 371h4" transform="rotate(19,256,371)"/>
+        <path d="m43 371h4" transform="rotate(18,256,371)"/>
+        <path d="m43 371h4" transform="rotate(17,256,371)"/>
+        <path d="m43 371h4" transform="rotate(16,256,371)"/>
+        <path d="m43 371h4" transform="rotate(15,256,371)"/>
+        <path d="m43 371h4" transform="rotate(14,256,371)"/>
+        <path d="m43 371h4" transform="rotate(13,256,371)"/>
+        <path d="m43 371h4" transform="rotate(12,256,371)"/>
+        <path d="m43 371h4" transform="rotate(11,256,371)"/>
+        <path d="m43 371h4" transform="rotate(10,256,371)"/>
+        <path d="m43 371h4" transform="rotate(9,256,371)"/>
+        <path d="m43 371h4" transform="rotate(8,256,371)"/>
+        <path d="m43 371h4" transform="rotate(7,256,371)"/>
+        <path d="m43 371h4" transform="rotate(6,256,371)"/>
+        <path d="m43 371h4" transform="rotate(5,256,371)"/>
+        <path d="m43 371h4" transform="rotate(4,256,371)"/>
+        <path d="m43 371h4" transform="rotate(3,256,371)"/>
+        <path d="m43 371h4" transform="rotate(2,256,371)"/>
+        <path d="m43 371h4" transform="rotate(1,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(175,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(170,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(165,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(160,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(155,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(150,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(145,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(140,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(135,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(130,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(125,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(120,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(115,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(110,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(105,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(100,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(95,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(90,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(85,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(80,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(75,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(70,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(65,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(60,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(55,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(50,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(45,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(40,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(35,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(30,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(25,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(20,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(15,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(10,256,371)"/>
+        <path d="m43 371h6.5" transform="rotate(5,256,371)"/>
+        <path d="m59 371h7" transform="rotate(180,256,371)"/>
+        <path d="m59 371h7" transform="rotate(170,256,371)"/>
+        <path d="m59 371h7" transform="rotate(165,256,371)"/>
+        <path d="m59 371h7" transform="rotate(160,256,371)"/>
+        <path d="m59 371h7" transform="rotate(155,256,371)"/>
+        <path d="m59 371h7" transform="rotate(150,256,371)"/>
+        <path d="m59 371h7" transform="rotate(145,256,371)"/>
+        <path d="m59 371h7" transform="rotate(140,256,371)"/>
+        <path d="m59 371h7" transform="rotate(135,256,371)"/>
+        <path d="m59 371h7" transform="rotate(130,256,371)"/>
+        <path d="m59 371h7" transform="rotate(125,256,371)"/>
+        <path d="m59 371h7" transform="rotate(120,256,371)"/>
+        <path d="m59 371h7" transform="rotate(115,256,371)"/>
+        <path d="m59 371h7" transform="rotate(110,256,371)"/>
+        <path d="m59 371h7" transform="rotate(105,256,371)"/>
+        <path d="m59 371h7" transform="rotate(100,256,371)"/>
+        <path d="m59 371h7" transform="rotate(95,256,371)"/>
+        <path d="m59 371h7" transform="rotate(90,256,371)"/>
+        <path d="m59 371h7" transform="rotate(85,256,371)"/>
+        <path d="m59 371h7" transform="rotate(80,256,371)"/>
+        <path d="m59 371h7" transform="rotate(75,256,371)"/>
+        <path d="m59 371h7" transform="rotate(70,256,371)"/>
+        <path d="m59 371h7" transform="rotate(65,256,371)"/>
+        <path d="m59 371h7" transform="rotate(60,256,371)"/>
+        <path d="m59 371h7" transform="rotate(55,256,371)"/>
+        <path d="m59 371h7" transform="rotate(50,256,371)"/>
+        <path d="m59 371h7" transform="rotate(45,256,371)"/>
+        <path d="m59 371h7" transform="rotate(40,256,371)"/>
+        <path d="m59 371h7" transform="rotate(35,256,371)"/>
+        <path d="m59 371h7" transform="rotate(30,256,371)"/>
+        <path d="m59 371h7" transform="rotate(25,256,371)"/>
+        <path d="m59 371h7" transform="rotate(20,256,371)"/>
+        <path d="m59 371h7" transform="rotate(15,256,371)"/>
+        <path d="m59 371h7" transform="rotate(10,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(179,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(178,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(177,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(176,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(175,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(174,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(173,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(172,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(171,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(170,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(169,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(168,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(167,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(166,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(165,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(164,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(163,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(162,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(161,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(160,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(159,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(158,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(157,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(156,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(155,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(154,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(153,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(152,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(151,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(150,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(149,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(148,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(147,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(146,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(145,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(144,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(143,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(142,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(141,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(140,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(139,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(138,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(137,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(136,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(135,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(134,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(133,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(132,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(131,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(130,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(129,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(128,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(127,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(126,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(125,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(124,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(123,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(122,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(121,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(120,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(119,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(118,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(117,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(116,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(115,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(114,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(113,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(112,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(111,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(110,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(109,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(108,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(107,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(106,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(105,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(104,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(103,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(102,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(101,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(100,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(99,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(98,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(97,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(96,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(95,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(94,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(93,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(92,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(91,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(90,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(89,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(88,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(87,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(86,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(85,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(84,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(83,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(82,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(81,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(80,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(79,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(78,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(77,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(76,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(75,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(74,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(73,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(72,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(71,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(70,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(69,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(68,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(67,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(66,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(65,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(64,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(63,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(62,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(61,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(60,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(59,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(58,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(57,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(56,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(55,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(54,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(53,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(52,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(51,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(50,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(49,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(48,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(47,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(46,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(45,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(44,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(43,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(42,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(41,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(40,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(39,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(38,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(37,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(36,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(35,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(34,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(33,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(32,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(31,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(30,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(29,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(28,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(27,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(26,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(25,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(24,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(23,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(22,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(21,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(20,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(19,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(18,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(17,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(16,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(15,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(14,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(13,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(12,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(11,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(10,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(9,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(8,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(7,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(6,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(5,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(4,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(3,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(2,256,371)"/>
+        <path d="m39 371h-4" transform="rotate(1,256,371)"/>
+        <path d="m16 371h7" transform="rotate(175,256,371)"/>
+        <path d="m16 371h7" transform="rotate(170,256,371)"/>
+        <path d="m16 371h7" transform="rotate(165,256,371)"/>
+        <path d="m16 371h7" transform="rotate(160,256,371)"/>
+        <path d="m16 371h7" transform="rotate(155,256,371)"/>
+        <path d="m16 371h7" transform="rotate(150,256,371)"/>
+        <path d="m16 371h7" transform="rotate(145,256,371)"/>
+        <path d="m16 371h7" transform="rotate(140,256,371)"/>
+        <path d="m16 371h7" transform="rotate(135,256,371)"/>
+        <path d="m16 371h7" transform="rotate(130,256,371)"/>
+        <path d="m16 371h7" transform="rotate(125,256,371)"/>
+        <path d="m16 371h7" transform="rotate(120,256,371)"/>
+        <path d="m16 371h7" transform="rotate(115,256,371)"/>
+        <path d="m16 371h7" transform="rotate(110,256,371)"/>
+        <path d="m16 371h7" transform="rotate(105,256,371)"/>
+        <path d="m16 371h7" transform="rotate(100,256,371)"/>
+        <path d="m16 371h7" transform="rotate(95,256,371)"/>
+        <path d="m16 371h7" transform="rotate(90,256,371)"/>
+        <path d="m16 371h7" transform="rotate(85,256,371)"/>
+        <path d="m16 371h7" transform="rotate(80,256,371)"/>
+        <path d="m16 371h7" transform="rotate(75,256,371)"/>
+        <path d="m16 371h7" transform="rotate(70,256,371)"/>
+        <path d="m16 371h7" transform="rotate(65,256,371)"/>
+        <path d="m16 371h7" transform="rotate(60,256,371)"/>
+        <path d="m16 371h7" transform="rotate(55,256,371)"/>
+        <path d="m16 371h7" transform="rotate(50,256,371)"/>
+        <path d="m16 371h7" transform="rotate(45,256,371)"/>
+        <path d="m16 371h7" transform="rotate(40,256,371)"/>
+        <path d="m16 371h7" transform="rotate(35,256,371)"/>
+        <path d="m16 371h7" transform="rotate(30,256,371)"/>
+        <path d="m16 371h7" transform="rotate(25,256,371)"/>
+        <path d="m16 371h7" transform="rotate(20,256,371)"/>
+        <path d="m16 371h7" transform="rotate(15,256,371)"/>
+        <path d="m16 371h7" transform="rotate(10,256,371)"/>
+        <path d="m16 371h7" transform="rotate(5,256,371)"/>
+        <path d="m16 371h4" transform="rotate(179,256,371)"/>
+        <path d="m16 371h4" transform="rotate(178,256,371)"/>
+        <path d="m16 371h4" transform="rotate(177,256,371)"/>
+        <path d="m16 371h4" transform="rotate(176,256,371)"/>
+        <path d="m16 371h4" transform="rotate(175,256,371)"/>
+        <path d="m16 371h4" transform="rotate(174,256,371)"/>
+        <path d="m16 371h4" transform="rotate(173,256,371)"/>
+        <path d="m16 371h4" transform="rotate(172,256,371)"/>
+        <path d="m16 371h4" transform="rotate(171,256,371)"/>
+        <path d="m16 371h4" transform="rotate(170,256,371)"/>
+        <path d="m16 371h4" transform="rotate(169,256,371)"/>
+        <path d="m16 371h4" transform="rotate(168,256,371)"/>
+        <path d="m16 371h4" transform="rotate(167,256,371)"/>
+        <path d="m16 371h4" transform="rotate(166,256,371)"/>
+        <path d="m16 371h4" transform="rotate(165,256,371)"/>
+        <path d="m16 371h4" transform="rotate(164,256,371)"/>
+        <path d="m16 371h4" transform="rotate(163,256,371)"/>
+        <path d="m16 371h4" transform="rotate(162,256,371)"/>
+        <path d="m16 371h4" transform="rotate(161,256,371)"/>
+        <path d="m16 371h4" transform="rotate(160,256,371)"/>
+        <path d="m16 371h4" transform="rotate(159,256,371)"/>
+        <path d="m16 371h4" transform="rotate(158,256,371)"/>
+        <path d="m16 371h4" transform="rotate(157,256,371)"/>
+        <path d="m16 371h4" transform="rotate(156,256,371)"/>
+        <path d="m16 371h4" transform="rotate(155,256,371)"/>
+        <path d="m16 371h4" transform="rotate(154,256,371)"/>
+        <path d="m16 371h4" transform="rotate(153,256,371)"/>
+        <path d="m16 371h4" transform="rotate(152,256,371)"/>
+        <path d="m16 371h4" transform="rotate(151,256,371)"/>
+        <path d="m16 371h4" transform="rotate(150,256,371)"/>
+        <path d="m16 371h4" transform="rotate(149,256,371)"/>
+        <path d="m16 371h4" transform="rotate(148,256,371)"/>
+        <path d="m16 371h4" transform="rotate(147,256,371)"/>
+        <path d="m16 371h4" transform="rotate(146,256,371)"/>
+        <path d="m16 371h4" transform="rotate(145,256,371)"/>
+        <path d="m16 371h4" transform="rotate(144,256,371)"/>
+        <path d="m16 371h4" transform="rotate(143,256,371)"/>
+        <path d="m16 371h4" transform="rotate(142,256,371)"/>
+        <path d="m16 371h4" transform="rotate(141,256,371)"/>
+        <path d="m16 371h4" transform="rotate(140,256,371)"/>
+        <path d="m16 371h4" transform="rotate(139,256,371)"/>
+        <path d="m16 371h4" transform="rotate(138,256,371)"/>
+        <path d="m16 371h4" transform="rotate(137,256,371)"/>
+        <path d="m16 371h4" transform="rotate(136,256,371)"/>
+        <path d="m16 371h4" transform="rotate(135,256,371)"/>
+        <path d="m16 371h4" transform="rotate(134,256,371)"/>
+        <path d="m16 371h4" transform="rotate(133,256,371)"/>
+        <path d="m16 371h4" transform="rotate(132,256,371)"/>
+        <path d="m16 371h4" transform="rotate(131,256,371)"/>
+        <path d="m16 371h4" transform="rotate(130,256,371)"/>
+        <path d="m16 371h4" transform="rotate(129,256,371)"/>
+        <path d="m16 371h4" transform="rotate(128,256,371)"/>
+        <path d="m16 371h4" transform="rotate(127,256,371)"/>
+        <path d="m16 371h4" transform="rotate(126,256,371)"/>
+        <path d="m16 371h4" transform="rotate(125,256,371)"/>
+        <path d="m16 371h4" transform="rotate(124,256,371)"/>
+        <path d="m16 371h4" transform="rotate(123,256,371)"/>
+        <path d="m16 371h4" transform="rotate(122,256,371)"/>
+        <path d="m16 371h4" transform="rotate(121,256,371)"/>
+        <path d="m16 371h4" transform="rotate(120,256,371)"/>
+        <path d="m16 371h4" transform="rotate(119,256,371)"/>
+        <path d="m16 371h4" transform="rotate(118,256,371)"/>
+        <path d="m16 371h4" transform="rotate(117,256,371)"/>
+        <path d="m16 371h4" transform="rotate(116,256,371)"/>
+        <path d="m16 371h4" transform="rotate(115,256,371)"/>
+        <path d="m16 371h4" transform="rotate(114,256,371)"/>
+        <path d="m16 371h4" transform="rotate(113,256,371)"/>
+        <path d="m16 371h4" transform="rotate(112,256,371)"/>
+        <path d="m16 371h4" transform="rotate(111,256,371)"/>
+        <path d="m16 371h4" transform="rotate(110,256,371)"/>
+        <path d="m16 371h4" transform="rotate(109,256,371)"/>
+        <path d="m16 371h4" transform="rotate(108,256,371)"/>
+        <path d="m16 371h4" transform="rotate(107,256,371)"/>
+        <path d="m16 371h4" transform="rotate(106,256,371)"/>
+        <path d="m16 371h4" transform="rotate(105,256,371)"/>
+        <path d="m16 371h4" transform="rotate(104,256,371)"/>
+        <path d="m16 371h4" transform="rotate(103,256,371)"/>
+        <path d="m16 371h4" transform="rotate(102,256,371)"/>
+        <path d="m16 371h4" transform="rotate(101,256,371)"/>
+        <path d="m16 371h4" transform="rotate(100,256,371)"/>
+        <path d="m16 371h4" transform="rotate(99,256,371)"/>
+        <path d="m16 371h4" transform="rotate(98,256,371)"/>
+        <path d="m16 371h4" transform="rotate(97,256,371)"/>
+        <path d="m16 371h4" transform="rotate(96,256,371)"/>
+        <path d="m16 371h4" transform="rotate(95,256,371)"/>
+        <path d="m16 371h4" transform="rotate(94,256,371)"/>
+        <path d="m16 371h4" transform="rotate(93,256,371)"/>
+        <path d="m16 371h4" transform="rotate(92,256,371)"/>
+        <path d="m16 371h4" transform="rotate(91,256,371)"/>
+        <path d="m16 371h4" transform="rotate(90,256,371)"/>
+        <path d="m16 371h4" transform="rotate(89,256,371)"/>
+        <path d="m16 371h4" transform="rotate(88,256,371)"/>
+        <path d="m16 371h4" transform="rotate(87,256,371)"/>
+        <path d="m16 371h4" transform="rotate(86,256,371)"/>
+        <path d="m16 371h4" transform="rotate(85,256,371)"/>
+        <path d="m16 371h4" transform="rotate(84,256,371)"/>
+        <path d="m16 371h4" transform="rotate(83,256,371)"/>
+        <path d="m16 371h4" transform="rotate(82,256,371)"/>
+        <path d="m16 371h4" transform="rotate(81,256,371)"/>
+        <path d="m16 371h4" transform="rotate(80,256,371)"/>
+        <path d="m16 371h4" transform="rotate(79,256,371)"/>
+        <path d="m16 371h4" transform="rotate(78,256,371)"/>
+        <path d="m16 371h4" transform="rotate(77,256,371)"/>
+        <path d="m16 371h4" transform="rotate(76,256,371)"/>
+        <path d="m16 371h4" transform="rotate(75,256,371)"/>
+        <path d="m16 371h4" transform="rotate(74,256,371)"/>
+        <path d="m16 371h4" transform="rotate(73,256,371)"/>
+        <path d="m16 371h4" transform="rotate(72,256,371)"/>
+        <path d="m16 371h4" transform="rotate(71,256,371)"/>
+        <path d="m16 371h4" transform="rotate(70,256,371)"/>
+        <path d="m16 371h4" transform="rotate(69,256,371)"/>
+        <path d="m16 371h4" transform="rotate(68,256,371)"/>
+        <path d="m16 371h4" transform="rotate(67,256,371)"/>
+        <path d="m16 371h4" transform="rotate(66,256,371)"/>
+        <path d="m16 371h4" transform="rotate(65,256,371)"/>
+        <path d="m16 371h4" transform="rotate(64,256,371)"/>
+        <path d="m16 371h4" transform="rotate(63,256,371)"/>
+        <path d="m16 371h4" transform="rotate(62,256,371)"/>
+        <path d="m16 371h4" transform="rotate(61,256,371)"/>
+        <path d="m16 371h4" transform="rotate(60,256,371)"/>
+        <path d="m16 371h4" transform="rotate(59,256,371)"/>
+        <path d="m16 371h4" transform="rotate(58,256,371)"/>
+        <path d="m16 371h4" transform="rotate(57,256,371)"/>
+        <path d="m16 371h4" transform="rotate(56,256,371)"/>
+        <path d="m16 371h4" transform="rotate(55,256,371)"/>
+        <path d="m16 371h4" transform="rotate(54,256,371)"/>
+        <path d="m16 371h4" transform="rotate(53,256,371)"/>
+        <path d="m16 371h4" transform="rotate(52,256,371)"/>
+        <path d="m16 371h4" transform="rotate(51,256,371)"/>
+        <path d="m16 371h4" transform="rotate(50,256,371)"/>
+        <path d="m16 371h4" transform="rotate(49,256,371)"/>
+        <path d="m16 371h4" transform="rotate(48,256,371)"/>
+        <path d="m16 371h4" transform="rotate(47,256,371)"/>
+        <path d="m16 371h4" transform="rotate(46,256,371)"/>
+        <path d="m16 371h4" transform="rotate(45,256,371)"/>
+        <path d="m16 371h4" transform="rotate(44,256,371)"/>
+        <path d="m16 371h4" transform="rotate(43,256,371)"/>
+        <path d="m16 371h4" transform="rotate(42,256,371)"/>
+        <path d="m16 371h4" transform="rotate(41,256,371)"/>
+        <path d="m16 371h4" transform="rotate(40,256,371)"/>
+        <path d="m16 371h4" transform="rotate(39,256,371)"/>
+        <path d="m16 371h4" transform="rotate(38,256,371)"/>
+        <path d="m16 371h4" transform="rotate(37,256,371)"/>
+        <path d="m16 371h4" transform="rotate(36,256,371)"/>
+        <path d="m16 371h4" transform="rotate(35,256,371)"/>
+        <path d="m16 371h4" transform="rotate(34,256,371)"/>
+        <path d="m16 371h4" transform="rotate(33,256,371)"/>
+        <path d="m16 371h4" transform="rotate(32,256,371)"/>
+        <path d="m16 371h4" transform="rotate(31,256,371)"/>
+        <path d="m16 371h4" transform="rotate(30,256,371)"/>
+        <path d="m16 371h4" transform="rotate(29,256,371)"/>
+        <path d="m16 371h4" transform="rotate(28,256,371)"/>
+        <path d="m16 371h4" transform="rotate(27,256,371)"/>
+        <path d="m16 371h4" transform="rotate(26,256,371)"/>
+        <path d="m16 371h4" transform="rotate(25,256,371)"/>
+        <path d="m16 371h4" transform="rotate(24,256,371)"/>
+        <path d="m16 371h4" transform="rotate(23,256,371)"/>
+        <path d="m16 371h4" transform="rotate(22,256,371)"/>
+        <path d="m16 371h4" transform="rotate(21,256,371)"/>
+        <path d="m16 371h4" transform="rotate(20,256,371)"/>
+        <path d="m16 371h4" transform="rotate(19,256,371)"/>
+        <path d="m16 371h4" transform="rotate(18,256,371)"/>
+        <path d="m16 371h4" transform="rotate(17,256,371)"/>
+        <path d="m16 371h4" transform="rotate(16,256,371)"/>
+        <path d="m16 371h4" transform="rotate(15,256,371)"/>
+        <path d="m16 371h4" transform="rotate(14,256,371)"/>
+        <path d="m16 371h4" transform="rotate(13,256,371)"/>
+        <path d="m16 371h4" transform="rotate(12,256,371)"/>
+        <path d="m16 371h4" transform="rotate(11,256,371)"/>
+        <path d="m16 371h4" transform="rotate(10,256,371)"/>
+        <path d="m16 371h4" transform="rotate(9,256,371)"/>
+        <path d="m16 371h4" transform="rotate(8,256,371)"/>
+        <path d="m16 371h4" transform="rotate(7,256,371)"/>
+        <path d="m16 371h4" transform="rotate(6,256,371)"/>
+        <path d="m16 371h4" transform="rotate(5,256,371)"/>
+        <path d="m16 371h4" transform="rotate(4,256,371)"/>
+        <path d="m16 371h4" transform="rotate(3,256,371)"/>
+        <path d="m16 371h4" transform="rotate(2,256,371)"/>
+        <path d="m16 371h4" transform="rotate(1,256,371)"/>
+        <path d="m32 371h7" transform="rotate(175,256,371)"/>
+        <path d="m32 371h7" transform="rotate(170,256,371)"/>
+        <path d="m32 371h7" transform="rotate(165,256,371)"/>
+        <path d="m32 371h7" transform="rotate(160,256,371)"/>
+        <path d="m32 371h7" transform="rotate(155,256,371)"/>
+        <path d="m32 371h7" transform="rotate(150,256,371)"/>
+        <path d="m32 371h7" transform="rotate(145,256,371)"/>
+        <path d="m32 371h7" transform="rotate(140,256,371)"/>
+        <path d="m32 371h7" transform="rotate(135,256,371)"/>
+        <path d="m32 371h7" transform="rotate(130,256,371)"/>
+        <path d="m32 371h7" transform="rotate(125,256,371)"/>
+        <path d="m32 371h7" transform="rotate(120,256,371)"/>
+        <path d="m32 371h7" transform="rotate(115,256,371)"/>
+        <path d="m32 371h7" transform="rotate(110,256,371)"/>
+        <path d="m32 371h7" transform="rotate(105,256,371)"/>
+        <path d="m32 371h7" transform="rotate(100,256,371)"/>
+        <path d="m32 371h7" transform="rotate(95,256,371)"/>
+        <path d="m32 371h7" transform="rotate(90,256,371)"/>
+        <path d="m32 371h7" transform="rotate(85,256,371)"/>
+        <path d="m32 371h7" transform="rotate(80,256,371)"/>
+        <path d="m32 371h7" transform="rotate(75,256,371)"/>
+        <path d="m32 371h7" transform="rotate(70,256,371)"/>
+        <path d="m32 371h7" transform="rotate(65,256,371)"/>
+        <path d="m32 371h7" transform="rotate(60,256,371)"/>
+        <path d="m32 371h7" transform="rotate(55,256,371)"/>
+        <path d="m32 371h7" transform="rotate(50,256,371)"/>
+        <path d="m32 371h7" transform="rotate(45,256,371)"/>
+        <path d="m32 371h7" transform="rotate(40,256,371)"/>
+        <path d="m32 371h7" transform="rotate(35,256,371)"/>
+        <path d="m32 371h7" transform="rotate(30,256,371)"/>
+        <path d="m32 371h7" transform="rotate(25,256,371)"/>
+        <path d="m32 371h7" transform="rotate(20,256,371)"/>
+        <path d="m32 371h7" transform="rotate(15,256,371)"/>
+        <path d="m32 371h7" transform="rotate(10,256,371)"/>
+        <path d="m32 371h7" transform="rotate(5,256,371)"/>
         <path d="m496 371h-4"/>
       </g>
-      <circle cx="256" cy="367" r="3" filter="url(#filter2836)" stop-color="#000000" stroke="url(#linearGradient2854)" stroke-width="1.5" style="mix-blend-mode:normal"/>
-      <path transform="rotate(180,256,371)" d="m43 371h6.5" stroke="#000" stroke-width="1px"/>
-      <path transform="rotate(180,256,371)" d="m43 371h4" stroke="#000" stroke-width="1px"/>
+      <circle stroke="url(#linearGradient2854)" stroke-width="1.5" r="3" cx="256" cy="367" filter="url(#filter2836)" style="mix-blend-mode:normal"/>
+      <path stroke="#000" stroke-width="1px" d="m43 371h6.5" transform="rotate(180,256,371)"/>
+      <path stroke="#000" stroke-width="1px" d="m43 371h4" transform="rotate(180,256,371)"/>
     </g>
   </g>
 </svg>
