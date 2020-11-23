@@ -47,43 +47,29 @@
     <text x="409.58029" y="-413.61172" transform="rotate(80)">170</text>
     <text x="113.63488" y="210.23653" transform="rotate(-20)">70</text>
     <text x="484.37888" y="373.14746">180</text>
+
+    <text x="-320.90973" y="116.68172">170</text>
+    <text x="-261.07092" y="167.57607" transform="rotate(-70)">160</text>
+    <text x="-193.3035" y="207.3063" transform="rotate(-60)">150</text>
+    <text x="-119.66653" y="234.66527" transform="rotate(-50)">140</text>
+    <text x="-42.39743" y="248.82166" transform="rotate(-40)">130</text>
+    <text x="36.156006" y="249.34534" transform="rotate(-30)">120</text>
+    <text x="113.60697" y="236.2204" transform="rotate(-20)">110</text>
+    <text x="187.60217" y="209.84564" transform="rotate(-10)">100</text>
+    <text x="255.89328" y="171.02245">90</text>
+    <text x="316.40533" y="120.93044" transform="rotate(10)">80</text>
+    <text x="367.29968" y="61.091637" transform="rotate(20)">70</text>
+    <text x="407.02994" y="-6.6757913" transform="rotate(30)">60</text>
+    <text x="434.38889" y="-80.312759" transform="rotate(40)">50</text>
+    <text x="448.54529" y="-157.58185" transform="rotate(50)">40</text>
+    <text x="449.06897" y="-236.13528" transform="rotate(60)">30</text>
+    <text x="435.94403" y="-313.58624" transform="rotate(70)">20</text>
+    <text x="409.56927" y="-387.58145" transform="rotate(80)">10</text>
   </g>
 
-  <path fill="none" stroke="#000" d="m16 371h7"/>
-
-
-  <g fill="none" stroke="#000" stroke-width="1px">
+  <g fill="none" stroke="#000">
+    <path d="m16 371h7"/>
     <path d="m32 371h7"/>
-    <path d="m43 371h6.5"/>
-    <path d="m59 371h7"/>
-  </g>
-  <text fill="#000000" font-family="Arial" font-size="6px" x="-320.90973" y="116.68172" font-weight="900" text-anchor="middle">170</text>
-  <path fill="none" stroke="#000" stroke-width="1px" d="m39 371h-4"/>
-  <path fill="none" stroke="#000" stroke-width="1px" d="m43 371h4"/>
-  <g fill="#000000" font-family="sans-serif" font-size="6px" font-weight="bold" letter-spacing="0px" word-spacing="0px">
-    <text font-family="Arial" font-size="6px" x="-261.07092" y="167.57607" transform="rotate(-70)" font-weight="900" text-anchor="middle">160</text>
-    <text font-family="Arial" font-size="6px" x="-193.3035" y="207.3063" transform="rotate(-60)" font-weight="900" text-anchor="middle">150</text>
-    <text font-family="Arial" font-size="6px" x="-119.66653" y="234.66527" transform="rotate(-50)" font-weight="900" text-anchor="middle">140</text>
-    <text font-family="Arial" font-size="6px" x="-42.39743" y="248.82166" transform="rotate(-40)" font-weight="900" text-anchor="middle">130</text>
-    <text font-family="Arial" font-size="6px" x="36.156006" y="249.34534" transform="rotate(-30)" font-weight="900" text-anchor="middle">120</text>
-    <text font-family="Arial" font-size="6px" x="113.60697" y="236.2204" transform="rotate(-20)" font-weight="900" text-anchor="middle">110</text>
-    <text font-family="Arial" font-size="6px" x="187.60217" y="209.84564" transform="rotate(-10)" font-weight="900" text-anchor="middle">100</text>
-    <text font-family="Arial" font-size="6px" x="255.89328" y="171.02245" font-weight="900" text-anchor="middle">90</text>
-    <text font-family="Arial" font-size="6px" x="316.40533" y="120.93044" transform="rotate(10)" font-weight="900" text-anchor="middle">80</text>
-    <text font-family="Arial" font-size="6px" x="367.29968" y="61.091637" transform="rotate(20)" font-weight="900" text-anchor="middle">70</text>
-    <text font-family="Arial" font-size="6px" x="407.02994" y="-6.6757913" transform="rotate(30)" font-weight="900" text-anchor="middle">60</text>
-    <text font-family="Arial" font-size="6px" x="434.38889" y="-80.312759" transform="rotate(40)" font-weight="900" text-anchor="middle">50</text>
-    <text font-family="Arial" font-size="6px" x="448.54529" y="-157.58185" transform="rotate(50)" font-weight="900" text-anchor="middle">40</text>
-    <text font-family="Arial" font-size="6px" x="449.06897" y="-236.13528" transform="rotate(60)" font-weight="900" text-anchor="middle">30</text>
-    <text font-family="Arial" font-size="6px" x="435.94403" y="-313.58624" transform="rotate(70)" font-weight="900" text-anchor="middle">20</text>
-    <text font-family="Arial" font-size="6px" x="409.56927" y="-387.58145" transform="rotate(80)" font-weight="900" text-anchor="middle">10</text>
-  </g>
-  <g fill="none" stroke="#000" stroke-width="1px">
-    <path d="m68.9 338h374"/>
-    <path d="m96 338v3"/>
-    <path d="m416 338v3"/>
-  </g>
-  <g fill="none" stroke="#000" stroke-width="1px">
     <path d="m96 338v3"/>
     <path d="m99.2 338v3"/>
     <path d="m102 338v3"/>
@@ -185,10 +171,6 @@
     <path d="m410 338v3"/>
     <path d="m413 338v3"/>
     <path d="m416 338v3"/>
-  </g>
-  <path fill="none" stroke="#000" stroke-width="1px" d="m96 338v6"/>
-  <path fill="none" stroke="#000" stroke-width="1px" d="m416 338-2e-3 6"/>
-  <g fill="none" stroke="#000" stroke-width="1px">
     <path d="m416 338-2e-3 6"/>
     <path d="m384 338-2e-3 6"/>
     <path d="m352 338-1e-3 6"/>
@@ -200,26 +182,24 @@
     <path d="m160 338v6"/>
     <path d="m128 338v6"/>
     <path d="m96 338v6"/>
+    <path  d="m35 371h442" />
   </g>
-  <g fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px">
-    <text font-family="Arial" font-size="6px" x="93.999023" y="349.14746" style="line-height:1.25" font-weight="900">0</text>
-    <text font-family="Arial" font-size="6px" x="125.99902" y="349.14746" style="line-height:1.25" font-weight="900">1</text>
-    <text font-family="Arial" font-size="6px" x="158.28027" y="349.14746" style="line-height:1.25" font-weight="900">2</text>
-    <text font-family="Arial" font-size="6px" x="190.05176" y="349.14746" style="line-height:1.25" font-weight="900">3</text>
-    <text font-family="Arial" font-size="6px" x="222.05176" y="349.14746" style="line-height:1.25" font-weight="900">4</text>
-    <text font-family="Arial" font-size="6px" x="254.05176" y="349.14746" style="line-height:1.25" font-weight="900">5</text>
-    <text font-family="Arial" font-size="6px" x="286.01807" y="349.14746" style="line-height:1.25" font-weight="900">6</text>
-    <text font-family="Arial" font-size="6px" x="318.01807" y="349.14746" style="line-height:1.25" font-weight="900">7</text>
-    <text font-family="Arial" font-size="6px" x="350.01807" y="349.14746" style="line-height:1.25" font-weight="900">8</text>
-    <text font-family="Arial" font-size="6px" x="382.01807" y="349.14746" style="line-height:1.25" font-weight="900">9</text>
-    <text font-family="Arial" font-size="6px" x="416.01749" y="349.11084" style="line-height:1.25" font-weight="900" text-anchor="middle">10</text>
+
+  <g font-family="Arial" font-size="6" font-weight="900">
+    <text x="93.999023" y="349.14746">0</text>
+    <text x="125.99902" y="349.14746">1</text>
+    <text x="158.28027" y="349.14746">2</text>
+    <text x="190.05176" y="349.14746">3</text>
+    <text x="222.05176" y="349.14746">4</text>
+    <text x="254.05176" y="349.14746">5</text>
+    <text x="286.01807" y="349.14746">6</text>
+    <text x="318.01807" y="349.14746">7</text>
+    <text x="350.01807" y="349.14746">8</text>
+    <text x="382.01807" y="349.14746">9</text>
+    <text x="412.01749" y="349.11084">10</text>
   </g>
-  <g fill="none" stroke="#000" stroke-width="1px">
-    <path d="m35 371h442"/>
-    <path d="m17 388v4"/>
-    <path d="m495 388v4"/>
-  </g>
-  <g fill="none" stroke="#000" stroke-width="1px">
+
+  <g fill="none" stroke="#000">
     <path d="m495 388v4"/>
     <path d="m492 388v4"/>
     <path d="m489 388v4"/>
@@ -372,9 +352,9 @@
     <path d="m20.2 388v4"/>
     <path d="m17 388v4"/>
   </g>
-  <path fill="none" stroke="#000" stroke-width="1px" d="m17 385v7"/>
-  <path fill="none" stroke="#000" stroke-width="1px" d="m495 385v7"/>
-  <g fill="none" stroke="#000" stroke-width="1px">
+  <path fill="none" stroke="#000" d="m17 385v7"/>
+  <path fill="none" stroke="#000" d="m495 385v7"/>
+  <g fill="none" stroke="#000">
     <path d="m495 385v7"/>
     <path d="m463 385v7"/>
     <path d="m431 385v7"/>
@@ -411,7 +391,7 @@
     <text font-family="Arial" font-size="6px" x="489.87256" y="384.14746" style="line-height:1.25" font-weight="900" text-anchor="middle">15</text>
   </g>
   <g fill="none">
-    <g stroke="#000" stroke-width="1px">
+    <g stroke="#000">
       <path d="m43 371h4" transform="rotate(179,256,371)"/>
       <path d="m43 371h4" transform="rotate(178,256,371)"/>
       <path d="m43 371h4" transform="rotate(177,256,371)"/>
@@ -1091,8 +1071,8 @@
       <path d="m496 371h-4"/>
     </g>
     <circle stroke="url(#linear-gradient-2)" stroke-width="1.5" r="3" cx="256" cy="367" filter="url(#blur-filter)" style="mix-blend-mode:normal"/>
-    <path stroke="#000" stroke-width="1px" d="m43 371h6.5" transform="rotate(180,256,371)"/>
-    <path stroke="#000" stroke-width="1px" d="m43 371h4" transform="rotate(180,256,371)"/>
+    <path stroke="#000" d="m43 371h6.5" transform="rotate(180,256,371)"/>
+    <path stroke="#000" d="m43 371h4" transform="rotate(180,256,371)"/>
   </g>
 
 </svg>
