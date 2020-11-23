@@ -48,7 +48,7 @@
     <text x="113.63488" y="210.23653" transform="rotate(-20)">70</text>
     <text x="484.37888" y="373.14746">180</text>
 
-    <text x="-320.90973" y="116.68172">170</text>
+    <text x="-320.90973" y="116.68172" transform="rotate(-80)">170</text>
     <text x="-261.07092" y="167.57607" transform="rotate(-70)">160</text>
     <text x="-193.3035" y="207.3063" transform="rotate(-60)">150</text>
     <text x="-119.66653" y="234.66527" transform="rotate(-50)">140</text>
