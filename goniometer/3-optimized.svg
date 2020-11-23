@@ -19,6 +19,18 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient2852">
+      <stop
+         style="stop-color:#66ff75;stop-opacity:1"
+         offset="0"
+         id="stop2848" />
+      <stop
+         style="stop-color:#227722;stop-opacity:1"
+         offset="1"
+         id="stop2850" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient2730">
       <stop
          style="stop-color:#4ecc4d;stop-opacity:1"
@@ -211,6 +223,28 @@
        x2="256"
        y2="338"
        gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2836"
+       x="-0.16428"
+       width="1.32856"
+       y="-0.16428"
+       height="1.32856">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.4107"
+         id="feGaussianBlur2838" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2852"
+       id="linearGradient2854"
+       x1="256"
+       y1="364"
+       x2="256"
+       y2="370"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -219,9 +253,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="138.46502"
-     inkscape:cy="404.06706"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="114.50518"
+     inkscape:cy="407.43596"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -304,10 +338,6 @@
      id="layer1"
      style="display:inline">
     <path
-       id="path3781"
-       style="fill:url(#linearGradient2724);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.466667"
-       d="M 18.283203 338 C 16.789717 348.79284 16 359.80554 16 371 L 16 392 L 496 392 L 496 371 C 496 359.80554 495.21028 348.79284 493.7168 338 L 443 338 L 69 338 L 18.283203 338 z " />
-    <path
        style="fill:none;fill-rule:evenodd;stroke:url(#radialGradient8305);stroke-width:50;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="path847"
        sodipodi:type="arc"
@@ -320,6 +350,10 @@
        sodipodi:arc-type="arc"
        d="M 41,371 A 215,215 0 0 1 256,156 215,215 0 0 1 471,371"
        sodipodi:open="true" />
+    <path
+       id="path3781"
+       style="fill:url(#linearGradient2724);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.466667"
+       d="M 63.972656 338 C 62.15758 348.72327 61.199219 359.74573 61.199219 371 L 16 371 L 16 392 L 496 392 L 496 371 L 450.80078 371 C 450.80078 359.74573 449.84242 348.72327 448.02734 338 L 443 338 L 69 338 L 63.972656 338 z M 255.94922 364 A 3 3 0 0 1 256 364 A 3 3 0 0 1 259 367 A 3 3 0 0 1 256 370 A 3 3 0 0 1 253 367 A 3 3 0 0 1 255.94922 364 z " />
     <image
        width="302.07999"
        height="168.96001"
@@ -2180,12 +2214,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="18"
+       x="20"
        y="384.14746"
        id="text6383"><tspan
          sodipodi:role="line"
          id="tspan6381"
-         x="18"
+         x="20"
          y="384.14746"
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6px;font-family:Arial;-inkscape-font-specification:'Arial Heavy';text-align:center;text-anchor:middle">0</tspan></text>
     <text
@@ -2345,12 +2379,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="491.87256"
+       x="489.87256"
        y="384.14746"
        id="text6447"><tspan
          sodipodi:role="line"
          id="tspan6445"
-         x="491.87256"
+         x="489.87256"
          y="384.14746"
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6px;font-family:Arial;-inkscape-font-specification:'Arial Heavy';text-align:center;text-anchor:middle">15</tspan></text>
     <path
@@ -5737,5 +5771,11 @@
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 496,371 h -4"
        id="path2642" />
+    <circle
+       style="mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient2854);stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000;filter:url(#filter2836)"
+       id="path2778"
+       cx="256"
+       cy="367"
+       r="3" />
   </g>
 </svg>
