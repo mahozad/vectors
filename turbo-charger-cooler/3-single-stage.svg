@@ -12,21 +12,20 @@
   </defs>
 
   <path fill="#e5eae9" d="m358 277v67h-66v-67"/>
-  <path fill="none" stroke="#000" d="m240 113h18"/>
 
   <g stroke="#000">
     <path fill="#e5eae9" d="m358 277v67l15 42v28l-14 36h-68l-14-36v-28l15-42-0.0061-43"/>
     <path fill="#ca8289" d="m258 104h3m-21 0h-3m20 75h9v-66h-8v-9h-18v9h-8v66h9"/>
     <path fill="#ca8289" d="m292 277v-59h25c0-9-3-13-7-13h-52c-6.74 0-17.5-8.79-17.5-23 0-4.97 3.81-9 8.5-9s8.5 4.03 8.5 9c0 3.62 2.9 6 5.5 6h47c15 0 24 12 24 30h24v59"/>
-    <path fill="#c2c8c8" d="m296 277v48h58v-48z"/>
     <path fill="#e1e3e0" d="m232 171h-12.3l-8.4-51h20.7z"/>
     <path fill="#aedbf8" d="m188 162h-4.7v-32h9.9z"/>
     <path fill="url(#gradient)" d="m241 328h4m47-27h-19l-19 20-3 7h-6v7h-4v-7h-6l-4-10h-34c-15 0-27-15-27-32v-65l18-16v-26h-3s8.66-56 10-61c1.07-4 2-8 8-8s6.93 4 8 8c1.34 5 10 61 10 61h-3v26l18 16v57h15v5h41l-0.0061-6"/>
   </g>
 
   <g fill="#c2c8c8" stroke="#000">
-    <path stroke-width="1px" d="m318 308 13-4.74 33.3 91.5-16.6 6.02z"/>
-    <path stroke-width="1px" d="m325 412 32-5v-18l-32-5z"/>
+    <path d="m318 308 13-4.74 33.3 91.5-16.6 6.02z"/>
+    <path d="m325 412 32-5v-18l-32-5z"/>
+    <path d="m296 277v48h58v-48z"/>
     <circle r="14" cx="325" cy="398"/>
     <circle r="9" cx="357" cy="398"/>
     <circle r="7" cx="325" cy="306"/>
@@ -49,8 +48,8 @@
     <path d="m237 311h5l4 4h4v2h-3"/>
     <path d="m237 317h5l4 4h4v2h-3"/>
     <path d="m188 179h15"/>
-    <path d="m183 130 6e-3 -3"/>
-    <path d="m183 162v3"/>
+    <path d="m183.3 130 6e-3 -3"/>
+    <path d="m183.3 162v3"/>
     <path d="m203 179h15"/>
   </g>
 
@@ -85,21 +84,19 @@
 
   <circle fill="#585755" r="2" cx="325" cy="306"/>
   <circle fill="#585755" r="2" cx="357" cy="398"/>
-
   <path fill="#585755" d="m326 184v39.1s6.03 5 7.77 5h2.23v2h-22v-2h2.23c1.73 0 7.77-5 7.77-5v-39.1s-1e-5 -0.939 1-0.939 1 0.939 1 0.939z"/>
+  <path fill="none" stroke="#000" d="m240 113h18"/>
 
   <g fill="#25a1ea" stroke="#000" stroke-width=".2">
     <path d="m170 257h66v2h-66z"/>
     <path d="m170 265h66v2h-66z"/>
     <path d="m170 249h66v2h-66z"/>
   </g>
-
   <g fill="#ee5c48" stroke="#000" stroke-width=".2">
     <path d="m170 238h66v2h-66z"/>
     <path d="m170 231h66v2h-66z"/>
     <path d="m170 224h66v2h-66z"/>
   </g>
-
   <g stroke="#000">
     <path fill="#8d95ba" d="m236 270h4l6-9v-31l-6-9h-4z"/>
     <path fill="#ee5c48" d="m170 221h-4l-6 9v14h10zm-14 17v3m0-11v-3m4 11h-4v-8h4"/>
