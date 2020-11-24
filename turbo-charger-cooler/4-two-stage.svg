@@ -1,14 +1,12 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs>
-    <linearGradient id="gradient1" x1="200" x2="200" y1="335" y2="110" gradientTransform="matrix(1.2359 0 0 1.2357 -59.262 -60.559)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#e96f5b" offset=".911"/>
-      <stop stop-color="#aedbf8" offset="1"/>
-    </linearGradient>
-    <linearGradient id="gradient2" x1="115.39" x2="221.66" y1="251.96" y2="251.96" gradientTransform="translate(-6e-6,-5.5e-4)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#e96f5b" offset="0"/>
-      <stop stop-color="#fcd65c" offset="1"/>
-    </linearGradient>
-  </defs>
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="gradient1" x1="200" x2="200" y1="335" y2="110" gradientTransform="matrix(1.2359 0 0 1.2357 -59.262 -60.559)" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#e96f5b" offset=".911"/>
+    <stop stop-color="#aedbf8" offset="1"/>
+  </linearGradient>
+  <linearGradient id="gradient2" x1="115.39" x2="221.66" y1="251.96" y2="251.96" gradientTransform="translate(-6e-6,-5.5e-4)" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#e96f5b" offset="0"/>
+    <stop stop-color="#fcd65c" offset="1"/>
+  </linearGradient>
   <path fill="#e5eae9" stroke="#000" d="m301.61 281.73 2e-3 82.791-18.538 51.899v34.599l17.302 44.485h84.04l17.302-44.485v-34.599l-18.538-51.899-3e-3 -82.791"/>
   <rect fill="#ca8289" width="81.567" height="32.133" x="301.61" y="249.6"/>
   <path fill="#aedbf8" stroke="#000" d="m173.08 139.62h-5.8086v-39.542h12.235zm-5.8086 0v3.7071m0-43.249 7e-3 -3.7071"/>
