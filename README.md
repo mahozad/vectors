@@ -29,6 +29,12 @@ Use {{Derived from|OldImage.jpg|display=50}} template to show that the vector is
 
 ---
 
+To prevent subtle discrepancies when resizing the whole vector,
+first ungroup all the objects (by pressing `CTRL+SHIFT+G` multiple times)
+and then do the resizing.
+
+---
+
 Instead of providing separate SVG files for a multi-part image, the `viewBox` attribute
 of the SVG can be used on the same SVG file to show only the needed part.
 
