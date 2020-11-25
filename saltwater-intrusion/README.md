@@ -3,7 +3,8 @@
 Used on [this page](https://en.wikipedia.org/wiki/Saltwater_intrusion)
 
 Do NOT extract `fill` and `stroke` to the parent `pattern` element as wikipedia won't show it.  
-Also, it seems that Wikipedia does not show texts along paths in the preview image, so they can be 
+
+FIXME: it seems that Wikipedia does not show texts along paths in the preview image, so they can be 
 converted either to regular `<text>` elements (which loses the curve) or `<path>` elements (which loses
 the text modifiability).
 
