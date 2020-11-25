@@ -99,14 +99,14 @@
   </g>
   <g font-family="Arial" font-size="10" text-anchor="end" xml:space="preserve">
     <text x="79.9692" y="152.08937">Blowhole</text>
-    <text x="79.9692" y="343.60699">Lower Mandible</text>
-    <text x="79.9692" y="318.74527">Auditory Bullae</text>
-    <text x="79.9692" y="293.99084">Upper Mandible</text>
-    <text x="79.942375" y="269.12912">Bony Nares</text>
-    <text x="80.219543" y="246.08684">Melon</text>
-    <text x="80.179306" y="223.04012">Cranium</text>
-    <text x="79.9692" y="199.88608"> Dorsal Bursae</text>
     <text x="79.942375" y="175.13164">Phonic Lips</text>
+    <text x="79.9692" y="199.88608"> Dorsal Bursae</text>
+    <text x="80.179306" y="223.04012">Cranium</text>
+    <text x="80.219543" y="246.08684">Melon</text>
+    <text x="79.942375" y="269.12912">Bony Nares</text>
+    <text x="79.9692" y="293.99084">Upper Mandible</text>
+    <text x="79.9692" y="318.74527">Auditory Bullae</text>
+    <text x="79.9692" y="343.60699">Lower Mandible</text>
   </g>
   <g font-family="Arial" font-size="16" xml:space="preserve">
     <text fill="#fe2121" x="332.66568" y="175.99849">Outgoing Sounds</text>
