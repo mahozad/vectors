@@ -1,12 +1,13 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <pattern id="pattern2251" patternTransform="matrix(1.0573 .84037 -5.9659 7.506 -43.107 -32.339)" xlink:href="#pattern4893-4-2"/>
+    <pattern id="Packedcircles" width="1" height="1.73205080756" patternTransform="translate(0) scale(10)" patternUnits="userSpaceOnUse">
+      <circle cy=".5" r=".5"/>
+      <circle cx="1" cy=".5" r=".5"/>
+      <circle cx=".5" cy="1.366" r=".5"/>
+      <circle cx=".5" cy="-.36603" r=".5"/>
+    </pattern>
     <pattern id="pattern4885" patternTransform="matrix(-.79064 1.1693 21.741 14.7 232.62 13.961)" xlink:href="#Strips1_1"/>
     <pattern id="Strips1_1" width="2" height="1" patternTransform="translate(0) scale(10)" patternUnits="userSpaceOnUse">
-      <rect y="-.5" width="1" height="2"/>
-    </pattern>
-    <pattern id="pattern4893-4-2" patternTransform="matrix(1.0573 .84037 -5.9659 7.506 5.1597e-6 -1.0502e-6)" xlink:href="#Strips1_1-8-2"/>
-    <pattern id="Strips1_1-8-2" width="2" height="1" patternTransform="translate(0) scale(10)" patternUnits="userSpaceOnUse">
       <rect y="-.5" width="1" height="2"/>
     </pattern>
     <linearGradient id="linearGradient102224" x1="700" x2="700" y1="268" y2="427.62" gradientTransform="matrix(1 0 0 1.04 -312 -77.646)" gradientUnits="userSpaceOnUse">
@@ -21,9 +22,9 @@
     <path d="m104 201.07h-2v6h2" fill="#fff"/>
     <path d="m144 201.07h2v6h-2" fill="#fff"/>
   </g>
-  <g stroke="#000">
-    <path d="m104 368.82-16.703 5.381c-2.7204 0.877-4.7665 3.138-5.3677 5.932-0.6011 2.795 0.3341 5.697 2.4534 7.615s5.1006 2.559 7.821 1.682l11.797-3.8z" fill="#fff"  style="font-variation-settings:normal"/>
-    <circle cx="89.75" cy="381.82" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
+  <g id="aaaaaaaaaaa" transform="translate(0 -4.8919e-5)" stroke="#000">
+    <path d="m104 368.82-16.703 5.381c-2.7204 0.877-4.7665 3.138-5.3677 5.932-0.6011 2.795 0.3341 5.697 2.4534 7.615s5.1006 2.559 7.821 1.682l11.797-3.8z" fill="#fff" style="font-variation-settings:normal"/>
+    <circle cx="89.75" cy="381.82" r="8" fill="url(#Packedcircles)" style="font-variation-settings:normal"/>
   </g>
   <ellipse cx="388" cy="256" rx="110.84" ry="192.1" fill="#aaffa8"/>
   <path d="m281.79 201.07a110.84 192.1 0 0 0-4.6289 54.926 110.84 192.1 0 0 0 110.84 192.1 110.84 192.1 0 0 0 110.84-192.1 110.84 192.1 0 0 0-4.6289-54.926h-96.213v208h-20v-208z" fill="#ffaeae"/>
@@ -34,66 +35,21 @@
     <path d="m408 201.07h2v6h-2" fill="#fff"/>
   </g>
   <path d="m378 201.07h20v208h-20z" fill="url(#linearGradient102224)"/>
-  <g stroke="#000">
-    <path d="m144 229.07 16.703-5.381c2.72-0.877 4.767-3.138 5.368-5.932s-0.334-5.697-2.454-7.615c-2.119-1.917-5.1-2.559-7.821-1.682l-11.796 3.8z" fill="#fff"  style="font-variation-settings:normal"/>
-    <circle cx="158.25" cy="216.07" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
-  </g>
-  <g stroke="#000">
-    <path d="m104 225.14-16.703 5.381c-2.7204 0.877-4.7665 3.138-5.3677 5.932-0.6011 2.794 0.3341 5.697 2.4534 7.615s5.1006 2.559 7.821 1.682l11.797-3.8z" fill="#fff"  style="font-variation-settings:normal"/>
-    <circle cx="89.75" cy="238.14" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
-  </g>
-  <g stroke="#000">
-    <path d="m104 273.04-16.703 5.382c-2.7204 0.876-4.7665 3.138-5.3677 5.932-0.6011 2.794 0.3341 5.697 2.4534 7.614 2.1193 1.918 5.1006 2.559 7.821 1.683l11.797-3.801z" fill="#fff"  style="font-variation-settings:normal"/>
-    <circle cx="89.75" cy="286.03" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
-  </g>
-  <g stroke="#000">
-    <path d="m104 320.93-16.703 5.382c-2.7204 0.877-4.7665 3.138-5.3677 5.932-0.6011 2.794 0.3341 5.697 2.4534 7.615 2.1193 1.917 5.1006 2.559 7.821 1.682l11.797-3.801z" fill="#fff"  style="font-variation-settings:normal"/>
-    <circle cx="89.75" cy="333.93" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
-  </g>
-  <g stroke="#000">
-    <path d="m144 372.75 16.703-5.381c2.72-0.877 4.767-3.138 5.368-5.932s-0.334-5.697-2.454-7.615c-2.119-1.918-5.1-2.559-7.821-1.682l-11.796 3.8z" fill="#fff"  style="font-variation-settings:normal"/>
-    <circle cx="158.25" cy="359.75" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
-  </g>
-  <g stroke="#000">
-    <path d="m144 324.85 16.703-5.381c2.72-0.877 4.767-3.138 5.368-5.932s-0.334-5.697-2.454-7.615c-2.119-1.918-5.1-2.559-7.821-1.682l-11.796 3.8z" fill="#fff"  style="font-variation-settings:normal"/>
-    <circle cx="158.25" cy="311.86" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
-  </g>
-  <g stroke="#000">
-    <path d="m144 276.96 16.703-5.381c2.72-0.877 4.767-3.138 5.368-5.932s-0.334-5.697-2.454-7.615c-2.119-1.918-5.1-2.559-7.821-1.682l-11.796 3.8z" fill="#fff"  style="font-variation-settings:normal"/>
-    <circle cx="158.25" cy="263.96" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
-  </g>
-  <g stroke="#000">
-    <path d="m368 305.07-16.703 5.381c-2.72 0.877-4.767 3.138-5.368 5.932-0.601 2.795 0.334 5.697 2.454 7.615 2.119 1.918 5.1 2.559 7.821 1.682l11.796-3.8z" fill="#fff"  style="font-variation-settings:normal"/>
-    <circle cx="353.75" cy="318.07" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
-  </g>
-  <g stroke="#000">
-    <path d="m408 229.07 16.703-5.381c2.72-0.877 4.767-3.138 5.368-5.932s-0.334-5.697-2.454-7.615c-2.119-1.917-5.1-2.559-7.821-1.682l-11.796 3.8z" fill="#fff"  style="font-variation-settings:normal"/>
-    <circle cx="422.25" cy="216.07" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
-  </g>
-  <g stroke="#000">
-    <path d="m368 225.14-16.703 5.381c-2.72 0.877-4.767 3.138-5.368 5.932s0.334 5.697 2.454 7.615c2.119 1.918 5.1 2.559 7.821 1.682l11.796-3.8z" fill="#fff"  style="font-variation-settings:normal"/>
-    <circle cx="353.75" cy="238.14" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
-  </g>
-  <g stroke="#000">
-    <path d="m368 251.79-16.703 5.382c-2.72 0.876-4.767 3.138-5.368 5.932s0.334 5.697 2.454 7.614c2.119 1.918 5.1 2.559 7.821 1.683l11.796-3.801z" fill="#fff"  style="font-variation-settings:normal"/>
-    <circle cx="353.75" cy="264.78" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
-  </g>
-  <g stroke="#000">
-    <path d="m368 278.43-16.703 5.382c-2.72 0.877-4.767 3.138-5.368 5.932s0.334 5.697 2.454 7.615c2.119 1.917 5.1 2.559 7.821 1.682l11.796-3.801z" fill="#fff"  style="font-variation-settings:normal"/>
-    <circle cx="353.75" cy="291.43" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
-  </g>
-  <g stroke="#000">
-    <path d="m408 255.71 16.703-5.381c2.72-0.877 4.767-3.138 5.368-5.932s-0.334-5.697-2.454-7.615c-2.119-1.918-5.1-2.559-7.821-1.682l-11.796 3.8z" fill="#fff"  style="font-variation-settings:normal"/>
-    <circle cx="422.25" cy="242.71" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
-  </g>
-  <g stroke="#000">
-    <path d="m408 282.35 16.703-5.381c2.72-0.877 4.767-3.138 5.368-5.932s-0.334-5.697-2.454-7.615c-2.119-1.918-5.1-2.559-7.821-1.682l-11.796 3.8z" fill="#fff"  style="font-variation-settings:normal"/>
-    <circle cx="422.25" cy="269.36" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
-  </g>
-  <g stroke="#000">
-    <path d="m408 309 16.703-5.381c2.72-0.877 4.767-3.138 5.368-5.932s-0.334-5.697-2.454-7.615c-2.119-1.918-5.1-2.559-7.821-1.682l-11.796 3.8z" fill="#fff"  style="font-variation-settings:normal"/>
-    <circle cx="422.25" cy="296" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
-  </g>
+  <use transform="rotate(180 126 38.908)" x="-260" y="-600" width="100%" height="100%" xlink:href="#aaaaaaaaaaa"/>
+  <use transform="rotate(180 126 25.587)" x="-260" y="-600" width="100%" height="100%" xlink:href="#aaaaaaaaaaa"/>
+  <use transform="rotate(180 126 12.266)" x="-260" y="-600" width="100%" height="100%" xlink:href="#aaaaaaaaaaa"/>
+  <use transform="rotate(180 -6.0001 70.784)" x="-260" y="-600" width="100%" height="100%" xlink:href="#aaaaaaaaaaa"/>
+  <use transform="rotate(180 -6 46.838)" x="-260" y="-600" width="100%" height="100%" xlink:href="#aaaaaaaaaaa"/>
+  <use transform="rotate(180 126 -1.055)" x="-260" y="-600" width="100%" height="100%" xlink:href="#aaaaaaaaaaa"/>
+  <use transform="rotate(180 -6 22.891)" x="-260" y="-600" width="100%" height="100%" xlink:href="#aaaaaaaaaaa"/>
+  <use transform="rotate(180 -6 -1.055)" x="-260" y="-600" width="100%" height="100%" xlink:href="#aaaaaaaaaaa"/>
+  <use transform="translate(64 -63.75)" x="200" width="100%" height="100%" xlink:href="#aaaaaaaaaaa"/>
+  <use transform="translate(64 -117.04)" x="200" width="100%" height="100%" xlink:href="#aaaaaaaaaaa"/>
+  <use transform="translate(-200 -47.893)" x="200" width="100%" height="100%" xlink:href="#aaaaaaaaaaa"/>
+  <use transform="translate(64 -90.393)" x="200" width="100%" height="100%" xlink:href="#aaaaaaaaaaa"/>
+  <use transform="translate(-200 -95.785)" x="200" width="100%" height="100%" xlink:href="#aaaaaaaaaaa"/>
+  <use transform="translate(-200 -143.68)" x="200" width="100%" height="100%" xlink:href="#aaaaaaaaaaa"/>
+  <use transform="translate(64 -143.68)" x="200" width="100%" height="100%" xlink:href="#aaaaaaaaaaa"/>
   <path d="m352 85.32-22 44v4h38v60h10v-56l4-4h12l4 4v230h24l8-12v-28h-18l-4-4v-190h38v-4l-22-44zm16 116v122l-4 4h-18v28l8 12h24v-166z" fill="#fff" stroke="#000" stroke-width="1.5"/>
   <path d="m352 85.32-22 44v4h38v60h10v-56l4-4h12l4 4v230h24l8-12v-28h-18l-4-4v-190h38v-4l-22-44zm16 116v122l-4 4h-18v28l8 12h24v-166z" fill="url(#pattern4885)" opacity=".5"/>
   <path d="m88 149.07-22 44v4h38v60h10v-56l4-4h12l4 4v230h24l8-12v-28h-18l-4-4v-190h38v-4l-22-44zm16 116v122l-4 4h-18v28l8 12h24v-166z" fill="#fff" stroke="#000" stroke-width="1.5"/>
