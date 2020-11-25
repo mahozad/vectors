@@ -1,76 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
+    <pattern id="pattern2251" patternTransform="matrix(1.0573 .84037 -5.9659 7.506 -43.107 -32.339)" xlink:href="#pattern4893-4-2"/>
     <pattern id="pattern4885" patternTransform="matrix(-.79064 1.1693 21.741 14.7 232.62 13.961)" xlink:href="#Strips1_1"/>
     <pattern id="Strips1_1" width="2" height="1" patternTransform="translate(0) scale(10)" patternUnits="userSpaceOnUse">
       <rect y="-.5" width="1" height="2"/>
     </pattern>
-    <pattern id="pattern4893-4" patternTransform="matrix(1.0573 .84037 -5.9659 7.506 5.1597e-6 -1.0502e-6)" xlink:href="#Strips1_1-8"/>
-    <pattern id="Strips1_1-8" width="2" height="1" patternTransform="translate(0) scale(10)" patternUnits="userSpaceOnUse">
-      <rect y="-.5" width="1" height="2"/>
-    </pattern>
-    <pattern id="pattern4893-4-4" patternTransform="matrix(1.0573 .84037 -5.9659 7.506 5.1597e-6 -1.0502e-6)" xlink:href="#Strips1_1-8-4"/>
-    <pattern id="Strips1_1-8-4" width="2" height="1" patternTransform="translate(0) scale(10)" patternUnits="userSpaceOnUse">
-      <rect y="-.5" width="1" height="2"/>
-    </pattern>
-    <pattern id="pattern4893-4-5" patternTransform="matrix(1.0573 .84037 -5.9659 7.506 5.1597e-6 -1.0502e-6)" xlink:href="#Strips1_1-8-7"/>
-    <pattern id="Strips1_1-8-7" width="2" height="1" patternTransform="translate(0) scale(10)" patternUnits="userSpaceOnUse">
-      <rect y="-.5" width="1" height="2"/>
-    </pattern>
-    <pattern id="pattern4893-4-47" patternTransform="matrix(1.0573 .84037 -5.9659 7.506 5.1597e-6 -1.0502e-6)" xlink:href="#Strips1_1-8-3"/>
-    <pattern id="Strips1_1-8-3" width="2" height="1" patternTransform="translate(0) scale(10)" patternUnits="userSpaceOnUse">
-      <rect y="-.5" width="1" height="2"/>
-    </pattern>
     <pattern id="pattern4893-4-2" patternTransform="matrix(1.0573 .84037 -5.9659 7.506 5.1597e-6 -1.0502e-6)" xlink:href="#Strips1_1-8-2"/>
     <pattern id="Strips1_1-8-2" width="2" height="1" patternTransform="translate(0) scale(10)" patternUnits="userSpaceOnUse">
-      <rect y="-.5" width="1" height="2"/>
-    </pattern>
-    <pattern id="pattern4893-4-5-6" patternTransform="matrix(1.0573 .84037 -5.9659 7.506 5.1597e-6 -1.0502e-6)" xlink:href="#Strips1_1-8-7-0"/>
-    <pattern id="Strips1_1-8-7-0" width="2" height="1" patternTransform="translate(0) scale(10)" patternUnits="userSpaceOnUse">
-      <rect y="-.5" width="1" height="2"/>
-    </pattern>
-    <pattern id="pattern4893-4-47-2" patternTransform="matrix(1.0573 .84037 -5.9659 7.506 5.1597e-6 -1.0502e-6)" xlink:href="#Strips1_1-8-3-6"/>
-    <pattern id="Strips1_1-8-3-6" width="2" height="1" patternTransform="translate(0) scale(10)" patternUnits="userSpaceOnUse">
-      <rect y="-.5" width="1" height="2"/>
-    </pattern>
-    <pattern id="pattern4893-4-4-5" patternTransform="matrix(1.0573 .84037 -5.9659 7.506 5.1597e-6 -1.0502e-6)" xlink:href="#Strips1_1-8-4-5"/>
-    <pattern id="Strips1_1-8-4-5" width="2" height="1" patternTransform="translate(0) scale(10)" patternUnits="userSpaceOnUse">
-      <rect y="-.5" width="1" height="2"/>
-    </pattern>
-    <pattern id="pattern4893-4-28" patternTransform="matrix(1.0573 .84037 -5.9659 7.506 5.1597e-6 -1.0502e-6)" xlink:href="#Strips1_1-8-35"/>
-    <pattern id="Strips1_1-8-35" width="2" height="1" patternTransform="translate(0) scale(10)" patternUnits="userSpaceOnUse">
-      <rect y="-.5" width="1" height="2"/>
-    </pattern>
-    <pattern id="pattern4885-3" patternTransform="matrix(-.79064 1.1693 21.741 14.7 490.62 -56.965)" xlink:href="#Strips1_1-4"/>
-    <pattern id="Strips1_1-4" width="2" height="1" patternTransform="translate(0) scale(10)" patternUnits="userSpaceOnUse">
-      <rect y="-.5" width="1" height="2"/>
-    </pattern>
-    <pattern id="pattern4893-4-28-6" patternTransform="matrix(1.0573 .84037 -5.9659 7.506 5.1597e-6 -1.0502e-6)" xlink:href="#Strips1_1-8-35-8"/>
-    <pattern id="Strips1_1-8-35-8" width="2" height="1" patternTransform="translate(0) scale(10)" patternUnits="userSpaceOnUse">
-      <rect y="-.5" width="1" height="2"/>
-    </pattern>
-    <pattern id="pattern4893-4-28-7" patternTransform="matrix(1.0573 .84037 -5.9659 7.506 5.1597e-6 -1.0502e-6)" xlink:href="#Strips1_1-8-35-0"/>
-    <pattern id="Strips1_1-8-35-0" width="2" height="1" patternTransform="translate(0) scale(10)" patternUnits="userSpaceOnUse">
-      <rect y="-.5" width="1" height="2"/>
-    </pattern>
-    <pattern id="pattern4893-4-28-8" patternTransform="matrix(1.0573 .84037 -5.9659 7.506 5.1597e-6 -1.0502e-6)" xlink:href="#Strips1_1-8-35-9"/>
-    <pattern id="Strips1_1-8-35-9" width="2" height="1" patternTransform="translate(0) scale(10)" patternUnits="userSpaceOnUse">
-      <rect y="-.5" width="1" height="2"/>
-    </pattern>
-    <pattern id="pattern4893-4-28-2" patternTransform="matrix(1.0573 .84037 -5.9659 7.506 5.1597e-6 -1.0502e-6)" xlink:href="#Strips1_1-8-35-2"/>
-    <pattern id="Strips1_1-8-35-2" width="2" height="1" patternTransform="translate(0) scale(10)" patternUnits="userSpaceOnUse">
-      <rect y="-.5" width="1" height="2"/>
-    </pattern>
-    <pattern id="pattern4893-4-28-7-8" patternTransform="matrix(1.0573 .84037 -5.9659 7.506 5.1597e-6 -1.0502e-6)" xlink:href="#Strips1_1-8-35-0-3"/>
-    <pattern id="Strips1_1-8-35-0-3" width="2" height="1" patternTransform="translate(0) scale(10)" patternUnits="userSpaceOnUse">
-      <rect y="-.5" width="1" height="2"/>
-    </pattern>
-    <pattern id="pattern4893-4-28-8-6" patternTransform="matrix(1.0573 .84037 -5.9659 7.506 5.1597e-6 -1.0502e-6)" xlink:href="#Strips1_1-8-35-9-2"/>
-    <pattern id="Strips1_1-8-35-9-2" width="2" height="1" patternTransform="translate(0) scale(10)" patternUnits="userSpaceOnUse">
-      <rect y="-.5" width="1" height="2"/>
-    </pattern>
-    <pattern id="pattern4893-4-28-6-4" patternTransform="matrix(1.0573 .84037 -5.9659 7.506 5.1597e-6 -1.0502e-6)" xlink:href="#Strips1_1-8-35-8-2"/>
-    <pattern id="Strips1_1-8-35-8-2" width="2" height="1" patternTransform="translate(0) scale(10)" patternUnits="userSpaceOnUse">
       <rect y="-.5" width="1" height="2"/>
     </pattern>
     <linearGradient id="linearGradient102224" x1="700" x2="700" y1="268" y2="427.62" gradientTransform="matrix(1 0 0 1.04 -312 -77.646)" gradientUnits="userSpaceOnUse">
@@ -79,40 +15,16 @@
     </linearGradient>
   </defs>
   <ellipse cx="124" cy="256" rx="110.84" ry="192.1" fill="#aaffa8"/>
-  <g stroke="#000">
-    <g stroke-width="1px">
-      <path d="m4 207.07h98v-6h-98" fill="#b2b2b2"/>
-      <path d="m244 207.07h-98v-6h98" fill="#b2b2b2"/>
-      <path d="m104 201.07h-2v6h2" fill="#fff"/>
-      <path d="m144 201.07h2v6h-2" fill="#fff"/>
-    </g>
-    <path d="m90.949 246.49 13.051-5.054v-16.364l-18.51 6.401" fill="#fff"/>
-    <circle cx="88" cy="239.07" r="8" fill="#fff"/>
+  <g stroke="#000" stroke-width="1px">
+    <path d="m4 207.07h98v-6h-98" fill="#b2b2b2"/>
+    <path d="m244 207.07h-98v-6h98" fill="#b2b2b2"/>
+    <path d="m104 201.07h-2v6h2" fill="#fff"/>
+    <path d="m144 201.07h2v6h-2" fill="#fff"/>
   </g>
-  <circle cx="88" cy="239.07" r="8" fill="url(#pattern4893-4)" opacity=".5"/>
-  <path d="m90.949 389.24 13.051-5.054v-16.364l-18.51 6.401" fill="#fff" stroke="#000"/>
-  <circle cx="88" cy="381.82" r="8" fill="#fff" stroke="#000"/>
-  <circle cx="88" cy="381.82" r="8" fill="url(#pattern4893-4-4)" opacity=".5"/>
-  <path d="m90.949 341.66 13.051-5.054v-16.364l-18.51 6.401" fill="#fff" stroke="#000"/>
-  <circle cx="88" cy="334.24" r="8" fill="#fff" stroke="#000"/>
-  <circle cx="88" cy="334.24" r="8" fill="url(#pattern4893-4-47)" opacity=".5"/>
-  <path d="m90.949 294.08 13.051-5.054v-16.364l-18.51 6.401" fill="#fff" stroke="#000"/>
-  <circle cx="88" cy="286.66" r="8" fill="#fff" stroke="#000"/>
-  <circle cx="88" cy="286.66" r="8" fill="url(#pattern4893-4-5)" opacity=".5"/>
-  <path d="m157.05 208.65-13.051 5.053v16.364l18.51-6.4" fill="#fff" stroke="#000"/>
-  <circle cx="160" cy="216.07" r="8" fill="#fff" stroke="#000"/>
-  <circle cx="160" cy="216.07" r="8" fill="url(#pattern4893-4-4-5)" opacity=".5"/>
-  <path d="m157.05 256.23-13.051 5.053v16.364l18.51-6.4" fill="#fff" stroke="#000"/>
-  <circle cx="160" cy="263.65" r="8" fill="#fff" stroke="#000"/>
-  <circle cx="160" cy="263.65" r="8" fill="url(#pattern4893-4-47-2)" opacity=".5"/>
-  <path d="m157.05 303.81-13.051 5.053v16.364l18.51-6.4" fill="#fff" stroke="#000"/>
-  <circle cx="160" cy="311.23" r="8" fill="#fff" stroke="#000"/>
-  <circle cx="160" cy="311.23" r="8" fill="url(#pattern4893-4-5-6)" opacity=".5"/>
-  <path d="m157.05 351.39-13.051 5.053v16.364l18.51-6.4" fill="#fff" stroke="#000"/>
-  <circle cx="160" cy="358.81" r="8" fill="#fff" stroke="#000"/>
-  <circle cx="160" cy="358.81" r="8" fill="url(#pattern4893-4-2)" opacity=".5"/>
-  <path d="m88 149.07-22 44v4h38v60h10v-56l4-4h12l4 4v230h24l8-12v-28h-18l-4-4v-190h38v-4l-22-44zm16 116v122l-4 4h-18v28l8 12h24v-166z" fill="#fff" stroke="#000" stroke-width="1.5"/>
-  <path d="m88 149.07-22 44v4h38v60h10v-56l4-4h12l4 4v230h24l8-12v-28h-18l-4-4v-190h38v-4l-22-44zm16 116v122l-4 4h-18v28l8 12h24v-166z" fill="url(#pattern4885)" opacity=".5"/>
+  <g stroke="#000">
+    <path d="m104 368.82-16.703 5.381c-2.7204 0.877-4.7665 3.138-5.3677 5.932-0.6011 2.795 0.3341 5.697 2.4534 7.615s5.1006 2.559 7.821 1.682l11.797-3.8z" fill="#fff"  style="font-variation-settings:normal"/>
+    <circle cx="89.75" cy="381.82" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
+  </g>
   <ellipse cx="388" cy="256" rx="110.84" ry="192.1" fill="#aaffa8"/>
   <path d="m281.79 201.07a110.84 192.1 0 0 0-4.6289 54.926 110.84 192.1 0 0 0 110.84 192.1 110.84 192.1 0 0 0 110.84-192.1 110.84 192.1 0 0 0-4.6289-54.926h-96.213v208h-20v-208z" fill="#ffaeae"/>
   <g stroke="#000" stroke-width="1px">
@@ -121,31 +33,69 @@
     <path d="m368 201.07h-2v6h2" fill="#fff"/>
     <path d="m408 201.07h2v6h-2" fill="#fff"/>
   </g>
-  <path d="m353.31 241.41 14.689-4.33-1e-3 -16-18.954 4.931" fill="#fff" stroke="#000"/>
-  <circle cx="350.95" cy="233.78" r="8" fill="#fff" stroke="#000"/>
-  <circle cx="350.95" cy="233.78" r="8" fill="url(#pattern4893-4-28)" opacity=".5"/>
   <path d="m378 201.07h20v208h-20z" fill="url(#linearGradient102224)"/>
-  <path d="m352 85.074-22 44v4h38v60h10v-56l4-4h12l4 4v230h24l8-12v-28h-18l-4-4v-190h38v-4l-22-44zm16 116v122l-4 4h-18v28l8 12h24v-166z" fill="#fff" stroke="#000" stroke-width="1.5"/>
-  <path d="m352 85.074-22 44v4h38v60h10v-56l4-4h12l4 4v230h24l8-12v-28h-18l-4-4v-190h38v-4l-22-44zm16 116v122l-4 4h-18v28l8 12h24v-166z" fill="url(#pattern4885-3)" opacity=".5"/>
-  <path d="m353.31 325.46 14.689-4.329-1e-3 -16-18.954 4.931" fill="#fff" stroke="#000"/>
-  <circle cx="350.95" cy="317.83" r="8" fill="#fff" stroke="#000"/>
-  <circle cx="350.95" cy="317.83" r="8" fill="url(#pattern4893-4-28-6)" opacity=".5"/>
-  <path d="m353.31 269.42 14.689-4.329-1e-3 -16-18.954 4.931" fill="#fff" stroke="#000"/>
-  <circle cx="350.95" cy="261.8" r="8" fill="#fff" stroke="#000"/>
-  <circle cx="350.95" cy="261.8" r="8" fill="url(#pattern4893-4-28-7)" opacity=".5"/>
-  <path d="m353.31 297.44 14.689-4.33-1e-3 -16-18.954 4.931" fill="#fff" stroke="#000"/>
-  <circle cx="350.95" cy="289.81" r="8" fill="#fff" stroke="#000"/>
-  <circle cx="350.95" cy="289.81" r="8" fill="url(#pattern4893-4-28-8)" opacity=".5"/>
-  <path d="m422.69 292.49-14.689 4.33 1e-3 16 18.954-4.932" fill="#fff" stroke="#000"/>
-  <circle cx="425.05" cy="300.12" r="8" fill="#fff" stroke="#000"/>
-  <circle cx="425.05" cy="300.12" r="8" fill="url(#pattern4893-4-28-2)" opacity=".5"/>
-  <path d="m422.68 208.43-14.689 4.33 1e-3 16 18.954-4.932" fill="#fff" stroke="#000"/>
-  <circle cx="425.04" cy="216.06" r="8" fill="#fff" stroke="#000"/>
-  <circle cx="425.04" cy="216.06" r="8" fill="url(#pattern4893-4-28-6-4)" opacity=".5"/>
-  <path d="m422.69 264.47-14.689 4.33 1e-3 16 18.954-4.932" fill="#fff" stroke="#000"/>
-  <circle cx="425.05" cy="272.1" r="8" fill="#fff" stroke="#000"/>
-  <circle cx="425.05" cy="272.1" r="8" fill="url(#pattern4893-4-28-7-8)" opacity=".5"/>
-  <path d="m422.68 236.45-14.689 4.33 1e-3 16 18.954-4.932" fill="#fff" stroke="#000"/>
-  <circle cx="425.04" cy="244.08" r="8" fill="#fff" stroke="#000"/>
-  <circle cx="425.04" cy="244.08" r="8" fill="url(#pattern4893-4-28-8-6)" opacity=".5"/>
+  <g stroke="#000">
+    <path d="m144 229.07 16.703-5.381c2.72-0.877 4.767-3.138 5.368-5.932s-0.334-5.697-2.454-7.615c-2.119-1.917-5.1-2.559-7.821-1.682l-11.796 3.8z" fill="#fff"  style="font-variation-settings:normal"/>
+    <circle cx="158.25" cy="216.07" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
+  </g>
+  <g stroke="#000">
+    <path d="m104 225.14-16.703 5.381c-2.7204 0.877-4.7665 3.138-5.3677 5.932-0.6011 2.794 0.3341 5.697 2.4534 7.615s5.1006 2.559 7.821 1.682l11.797-3.8z" fill="#fff"  style="font-variation-settings:normal"/>
+    <circle cx="89.75" cy="238.14" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
+  </g>
+  <g stroke="#000">
+    <path d="m104 273.04-16.703 5.382c-2.7204 0.876-4.7665 3.138-5.3677 5.932-0.6011 2.794 0.3341 5.697 2.4534 7.614 2.1193 1.918 5.1006 2.559 7.821 1.683l11.797-3.801z" fill="#fff"  style="font-variation-settings:normal"/>
+    <circle cx="89.75" cy="286.03" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
+  </g>
+  <g stroke="#000">
+    <path d="m104 320.93-16.703 5.382c-2.7204 0.877-4.7665 3.138-5.3677 5.932-0.6011 2.794 0.3341 5.697 2.4534 7.615 2.1193 1.917 5.1006 2.559 7.821 1.682l11.797-3.801z" fill="#fff"  style="font-variation-settings:normal"/>
+    <circle cx="89.75" cy="333.93" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
+  </g>
+  <g stroke="#000">
+    <path d="m144 372.75 16.703-5.381c2.72-0.877 4.767-3.138 5.368-5.932s-0.334-5.697-2.454-7.615c-2.119-1.918-5.1-2.559-7.821-1.682l-11.796 3.8z" fill="#fff"  style="font-variation-settings:normal"/>
+    <circle cx="158.25" cy="359.75" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
+  </g>
+  <g stroke="#000">
+    <path d="m144 324.85 16.703-5.381c2.72-0.877 4.767-3.138 5.368-5.932s-0.334-5.697-2.454-7.615c-2.119-1.918-5.1-2.559-7.821-1.682l-11.796 3.8z" fill="#fff"  style="font-variation-settings:normal"/>
+    <circle cx="158.25" cy="311.86" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
+  </g>
+  <g stroke="#000">
+    <path d="m144 276.96 16.703-5.381c2.72-0.877 4.767-3.138 5.368-5.932s-0.334-5.697-2.454-7.615c-2.119-1.918-5.1-2.559-7.821-1.682l-11.796 3.8z" fill="#fff"  style="font-variation-settings:normal"/>
+    <circle cx="158.25" cy="263.96" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
+  </g>
+  <g stroke="#000">
+    <path d="m368 305.07-16.703 5.381c-2.72 0.877-4.767 3.138-5.368 5.932-0.601 2.795 0.334 5.697 2.454 7.615 2.119 1.918 5.1 2.559 7.821 1.682l11.796-3.8z" fill="#fff"  style="font-variation-settings:normal"/>
+    <circle cx="353.75" cy="318.07" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
+  </g>
+  <g stroke="#000">
+    <path d="m408 229.07 16.703-5.381c2.72-0.877 4.767-3.138 5.368-5.932s-0.334-5.697-2.454-7.615c-2.119-1.917-5.1-2.559-7.821-1.682l-11.796 3.8z" fill="#fff"  style="font-variation-settings:normal"/>
+    <circle cx="422.25" cy="216.07" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
+  </g>
+  <g stroke="#000">
+    <path d="m368 225.14-16.703 5.381c-2.72 0.877-4.767 3.138-5.368 5.932s0.334 5.697 2.454 7.615c2.119 1.918 5.1 2.559 7.821 1.682l11.796-3.8z" fill="#fff"  style="font-variation-settings:normal"/>
+    <circle cx="353.75" cy="238.14" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
+  </g>
+  <g stroke="#000">
+    <path d="m368 251.79-16.703 5.382c-2.72 0.876-4.767 3.138-5.368 5.932s0.334 5.697 2.454 7.614c2.119 1.918 5.1 2.559 7.821 1.683l11.796-3.801z" fill="#fff"  style="font-variation-settings:normal"/>
+    <circle cx="353.75" cy="264.78" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
+  </g>
+  <g stroke="#000">
+    <path d="m368 278.43-16.703 5.382c-2.72 0.877-4.767 3.138-5.368 5.932s0.334 5.697 2.454 7.615c2.119 1.917 5.1 2.559 7.821 1.682l11.796-3.801z" fill="#fff"  style="font-variation-settings:normal"/>
+    <circle cx="353.75" cy="291.43" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
+  </g>
+  <g stroke="#000">
+    <path d="m408 255.71 16.703-5.381c2.72-0.877 4.767-3.138 5.368-5.932s-0.334-5.697-2.454-7.615c-2.119-1.918-5.1-2.559-7.821-1.682l-11.796 3.8z" fill="#fff"  style="font-variation-settings:normal"/>
+    <circle cx="422.25" cy="242.71" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
+  </g>
+  <g stroke="#000">
+    <path d="m408 282.35 16.703-5.381c2.72-0.877 4.767-3.138 5.368-5.932s-0.334-5.697-2.454-7.615c-2.119-1.918-5.1-2.559-7.821-1.682l-11.796 3.8z" fill="#fff"  style="font-variation-settings:normal"/>
+    <circle cx="422.25" cy="269.36" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
+  </g>
+  <g stroke="#000">
+    <path d="m408 309 16.703-5.381c2.72-0.877 4.767-3.138 5.368-5.932s-0.334-5.697-2.454-7.615c-2.119-1.918-5.1-2.559-7.821-1.682l-11.796 3.8z" fill="#fff"  style="font-variation-settings:normal"/>
+    <circle cx="422.25" cy="296" r="8" fill="url(#pattern2251)"  style="font-variation-settings:normal"/>
+  </g>
+  <path d="m352 85.32-22 44v4h38v60h10v-56l4-4h12l4 4v230h24l8-12v-28h-18l-4-4v-190h38v-4l-22-44zm16 116v122l-4 4h-18v28l8 12h24v-166z" fill="#fff" stroke="#000" stroke-width="1.5"/>
+  <path d="m352 85.32-22 44v4h38v60h10v-56l4-4h12l4 4v230h24l8-12v-28h-18l-4-4v-190h38v-4l-22-44zm16 116v122l-4 4h-18v28l8 12h24v-166z" fill="url(#pattern4885)" opacity=".5"/>
+  <path d="m88 149.07-22 44v4h38v60h10v-56l4-4h12l4 4v230h24l8-12v-28h-18l-4-4v-190h38v-4l-22-44zm16 116v122l-4 4h-18v28l8 12h24v-166z" fill="#fff" stroke="#000" stroke-width="1.5"/>
+  <path d="m88 149.07-22 44v4h38v60h10v-56l4-4h12l4 4v230h24l8-12v-28h-18l-4-4v-190h38v-4l-22-44zm16 116v122l-4 4h-18v28l8 12h24v-166z" fill="url(#pattern4885)" opacity=".5"/>
 </svg>
