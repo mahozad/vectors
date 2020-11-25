@@ -1,3 +1,4 @@
+![Perfect badge](../prefect-vector-badge.svg)
 ![The vector graphic](6-filled.svg)
 
 Used in [this wikipedia page](https://hu.wikipedia.org/wiki/Fonalgrafika)
