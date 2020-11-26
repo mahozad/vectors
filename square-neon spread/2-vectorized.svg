@@ -1,70 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="512"
-   height="512"
-   viewBox="0 0 511.99998 512"
-   version="1.1"
-   id="svg8"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="2-vectorized.svg">
-  <defs
-     id="defs2" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="804.28571"
-     inkscape:cy="560"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="true"
-     inkscape:snap-page="false"
-     inkscape:object-paths="false"
-     units="px"
-     inkscape:showpageshadow="false"
-     objecttolerance="20"
-     width="24mm"
-     inkscape:snap-tangential="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1">
-    <inkscape:grid
-       type="xygrid"
-       id="grid10"
-       empspacing="4"
-       originx="0"
-       originy="0"
-       dotted="false" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     style="display:inline" />
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="square" fill="none" stroke-width="4" stroke-linecap="square">
+    <path stroke="#000000" d="m132.76 139.89-7.1207-7.1207 7.1207-7.1207 7.1207 7.1207"/>
+    <path stroke="#000000" d="m132.76 246.7-113.93-113.93 113.93-113.93 113.93 113.93"/>
+    <path stroke="#000000" d="m132.76 175.49-42.725-42.725 42.725-42.725 42.725 42.725"/>
+    <path stroke="#000000" d="m132.76 211.1-78.328-78.328 78.328-78.328 78.328 78.328"/>
+    <path stroke="#06b1ef" d="m139.88 132.76-7.1207 7.1207"/>
+    <path stroke="#06b1ef" d="m246.69 132.76-113.93 113.93"/>
+    <path stroke="#06b1ef" d="m175.49 132.76-42.725 42.725"/>
+    <path stroke="#06b1ef" d="m211.09 132.76-78.328 78.328"/>
+  </g>
+  <use xlink:href="#square" transform="rotate(090, 256,256)"/>
+  <use xlink:href="#square" transform="rotate(180, 256,256)"/>
+  <use xlink:href="#square" transform="rotate(270, 256,256)"/>
 </svg>
