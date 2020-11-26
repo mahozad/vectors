@@ -14,8 +14,8 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.45.1"
-   sodipodi:docbase="C:\Documents and Settings\Erkan\Desktop"
-   sodipodi:docname="hand pump-tr.svg"
+   sodipodi:docbase="C:\Documents and Settings\eerbey.TECHNIC\My Documents\İnkalar"
+   sodipodi:docname="Hand_pump-en.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    inkscape:export-filename="C:\Documents and Settings\eerbey.TECHNIC\My Documents\İnkalar\hand pump.png"
@@ -1367,24 +1367,28 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="326.08163"
-     inkscape:cy="555.50648"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="217.87511"
+     inkscape:cy="357.62049"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showguides="true"
      inkscape:guide-bbox="true"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="968"
-     inkscape:window-x="-4"
-     inkscape:window-y="-4"
+     inkscape:window-width="1024"
+     inkscape:window-height="746"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      height="386.95px"
      width="328.95462px">
     <sodipodi:guide
        orientation="vertical"
        position="413.5"
        id="guide3858" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="112.42998"
+       id="guide2669" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -2405,7 +2409,7 @@
          sodipodi:role="line"
          id="tspan5693"
          x="518.26752"
-         y="659.40955">Tek yönlü kapak</tspan></text>
+         y="659.40955">Check valve</tspan></text>
     <path
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#3f2a80;stroke-width:0.96107763;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
        d="M 399.45508,591.56394 L 523.02155,591.78819"
@@ -2426,7 +2430,7 @@
          sodipodi:role="line"
          id="tspan5699"
          x="518.26752"
-         y="606.68567">Tek yönlü kapak</tspan></text>
+         y="606.68567">Check valve</tspan></text>
     <path
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#3f2a80;stroke-width:0.96107763;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
        d="M 377.02425,614.99423 L 523.02155,615.05745"
@@ -2456,7 +2460,7 @@
          sodipodi:role="line"
          id="tspan6680"
          x="517.27136"
-         y="631.04034">Sızdırmazlık contası</tspan></text>
+         y="631.04034">Sealing O-ring</tspan></text>
     <path
        style="opacity:1;color:#000000;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#3f2a80;stroke-width:0.96107763;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 415.48152,600.63633 L 425.21682,615.12346"
@@ -2486,7 +2490,7 @@
          sodipodi:role="line"
          id="tspan3545"
          x="518.26752"
-         y="541.60156">Silindir</tspan></text>
+         y="541.60156">Cylinder</tspan></text>
     <path
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#3f2a80;stroke-width:0.95158899;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
        d="M 407.40478,565.31184 L 523.02637,565.87572"
@@ -2508,7 +2512,7 @@
          sodipodi:role="line"
          id="tspan3551"
          x="518.26752"
-         y="580.62817">Piston (İtenek)</tspan></text>
+         y="580.62817">Piston</tspan></text>
     <path
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#3f2a80;stroke-width:0.95158899;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
        d="M 392.62411,472.80808 L 523.02637,473.37196"
@@ -2530,7 +2534,7 @@
          sodipodi:role="line"
          id="tspan3557"
          x="516.7807"
-         y="486.41006">Piston kolu</tspan></text>
+         y="486.41006">Piston rod</tspan></text>
     <path
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#3f2a80;stroke-width:0.95158899;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
        d="M 380.99342,720.39075 L 229.35138,720.02038"
@@ -2542,17 +2546,21 @@
     <text
        xml:space="preserve"
        style="font-size:15.22542191px;font-style:normal;font-weight:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Verdana"
-       x="120.0648"
-       y="737.39172"
+       x="117.90421"
+       y="725.86829"
        id="text3561"
        inkscape:export-filename="C:\Documents and Settings\eerbey.TECHNIC\My Documents\İnkalar\tulumba.png"
        inkscape:export-xdpi="209.06519"
        inkscape:export-ydpi="209.06519"
        transform="scale(1.0185328,0.9818044)"><tspan
          sodipodi:role="line"
-         id="tspan3563"
-         x="120.0648"
-         y="737.39172">Su emiş hattı</tspan></text>
+         x="117.90421"
+         y="725.86829"
+         id="tspan2663">Water suction</tspan><tspan
+         sodipodi:role="line"
+         x="117.90421"
+         y="744.90006"
+         id="tspan2667">line</tspan></text>
     <path
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#3f2a80;stroke-width:0.95158899;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
        d="M 229.35138,508.48646 L 282.09514,508.38969"
@@ -2574,7 +2582,7 @@
          sodipodi:role="line"
          id="tspan3571"
          x="126.96384"
-         y="521.85675">Su çıkış ağzı</tspan></text>
+         y="521.85675">Water outlet</tspan></text>
     <path
        style="opacity:1;color:#000000;fill:#2ad4ff;fill-opacity:0.45454544;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 317.39786,744.70583 C 332.75277,740.51102 359.56465,757.04362 387.32755,754.99964 C 420.49792,752.55756 451.78177,742.99313 462.69105,744.70583 L 462.44873,949.52124 L 317.15556,949.52124 L 317.39786,744.70583 z "
@@ -2590,8 +2598,8 @@
        inkscape:export-ydpi="209.06519" />
     <text
        xml:space="preserve"
-       style="font-size:15.22542191px;font-style:normal;font-weight:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Verdana"
-       x="201.75275"
+       style="font-size:15.22542191px;font-style:normal;font-weight:normal;text-align:end;text-anchor:end;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Verdana"
+       x="222.28905"
        y="821.95593"
        id="text8475"
        inkscape:export-filename="C:\Documents and Settings\eerbey.TECHNIC\My Documents\İnkalar\tulumba.png"
@@ -2600,8 +2608,8 @@
        transform="scale(1.0185328,0.9818044)"><tspan
          sodipodi:role="line"
          id="tspan8477"
-         x="201.75275"
-         y="821.95593">Su</tspan></text>
+         x="222.28905"
+         y="821.95593">Water</tspan></text>
     <path
        style="color:#000000;fill:#00ccff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.055;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 355.87916,415.20181 L 430.02481,415.20181 L 429.7825,450.70422 C 417.34413,455.58047 404.66344,457.00098 392.22506,450.70422 C 380.10975,444.16749 367.99445,443.54415 355.87916,450.70422 L 355.87916,415.20181 z "
@@ -3274,7 +3282,7 @@
          sodipodi:role="line"
          id="tspan3862"
          x="516.43866"
-         y="455.6752">Basma kolu</tspan></text>
+         y="455.6752">Force rod</tspan></text>
     <path
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#3f2a80;stroke-width:0.95158899;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
        d="M 568.32301,379.03648 L 568.47527,429.35036"
