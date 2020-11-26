@@ -2,6 +2,7 @@
   <defs>
     <pattern id="pattern1" width="2" height="1" patternTransform="rotate(-60)" patternUnits="userSpaceOnUse">
       <rect fill="#888" width="1" height="2"/>
+      <rect fill="#fff" width="1" height="2" x="1"/>
     </pattern>
     <pattern id="pattern2" width="2" height="1" patternTransform="rotate(60)" patternUnits="userSpaceOnUse">
       <rect fill="#888" width="1" height="2"/>
