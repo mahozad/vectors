@@ -1,10 +1,10 @@
 <svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <pattern id="pattern1" width="2" height="1" patternTransform="rotate(-60)" patternUnits="userSpaceOnUse">
-      <rect width="1" height="2"/>
+      <rect fill="#888" width="1" height="2"/>
     </pattern>
     <pattern id="pattern2" width="2" height="1" patternTransform="rotate(60)" patternUnits="userSpaceOnUse">
-      <rect fill="#000" width="1" height="2"/>
+      <rect fill="#888" width="1" height="2"/>
       <rect fill="#fff" width="1" height="2" x="1"/>
     </pattern>
     <linearGradient id="gradient" x1="385" x2="385" y1="200" y2="370" gradientUnits="userSpaceOnUse">
