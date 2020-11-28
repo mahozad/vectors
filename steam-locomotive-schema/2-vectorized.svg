@@ -38,13 +38,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.93498299"
-     inkscape:cx="1387.2959"
-     inkscape:cy="792.47985"
+     inkscape:zoom="1.3222656"
+     inkscape:cx="1236.0727"
+     inkscape:cy="854.87439"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
-     showgrid="true"
+     showgrid="false"
      inkscape:snap-page="false"
      inkscape:object-paths="false"
      units="px"
@@ -74,14 +74,6 @@
        originx="0"
        originy="0"
        dotted="false" />
-    <sodipodi:guide
-       position="1302.5,1159.7773"
-       orientation="0,-1"
-       id="guide1287" />
-    <sodipodi:guide
-       position="1422.9996,1159.7773"
-       orientation="1,0"
-       id="guide1293" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
