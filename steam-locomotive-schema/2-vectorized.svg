@@ -38,13 +38,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.66113281"
-     inkscape:cx="981.45455"
-     inkscape:cy="1115.028"
+     inkscape:zoom="1.869966"
+     inkscape:cx="774.11168"
+     inkscape:cy="850.1908"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
-     showgrid="true"
+     showgrid="false"
      inkscape:snap-page="false"
      inkscape:object-paths="true"
      units="px"
@@ -91,7 +91,7 @@
      inkscape:label="bg"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <image
        width="1479"
@@ -107,8 +107,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="implemented"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <circle
        style="fill:none;fill-opacity:1;stroke:#fd0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="circle1637"
@@ -1556,8 +1555,9 @@
        y="899" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 840,809 h 11 l 35,48 h -46 z"
-       id="path1496" />
+       d="m 841,809 h 10 l 35,48 h -45 z"
+       id="path1496"
+       sodipodi:nodetypes="ccccc" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 895,862 v 36 1 H 855 L 837,877 H 433 l -7,7 h -56 v -22 z"
@@ -1569,8 +1569,9 @@
        id="path1500" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 797,699 h 43 V 857 H 370 V 726 h 130 l 24,-22 h 273 z"
-       id="path1527" />
+       d="m 797,699 h 44 V 857 H 370 V 726 h 130 l 24,-22 h 273 z"
+       id="path1527"
+       sodipodi:nodetypes="ccccccccc" />
     <rect
        style="display:inline;fill:none;stroke:#00fd9b;stroke-linecap:square;stop-color:#000000"
        id="rect1529"
@@ -1580,6 +1581,70 @@
        y="749"
        rx="2"
        ry="2" />
+    <g
+       id="g1680">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 841,672 c 0,-3 5,-3 5,0 v 137 h -5 z"
+         id="path1674"
+         sodipodi:nodetypes="ssccs" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 843.5,675 V 809"
+         id="path1676" />
+    </g>
+    <g
+       id="g1686"
+       transform="translate(5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 841,672 c 0,-3 5,-3 5,0 v 137 h -5 z"
+         id="path1682"
+         sodipodi:nodetypes="ssccs" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 843.5,675 V 809"
+         id="path1684" />
+    </g>
+    <g
+       id="g1692"
+       transform="translate(10)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 841,672 c 0,-3 5,-3 5,0 v 137 h -5 z"
+         id="path1688"
+         sodipodi:nodetypes="ssccs" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 843.5,675 V 809"
+         id="path1690" />
+    </g>
+    <g
+       id="g1698"
+       transform="translate(15)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 841,672 c 0,-3 5,-3 5,0 v 137 h -5 z"
+         id="path1694"
+         sodipodi:nodetypes="ssccs" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 843.5,675 V 809"
+         id="path1696" />
+    </g>
+    <g
+       id="g1704"
+       transform="translate(15)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 841,672 c 0,-3 5,-3 5,0 v 137 h -5 z"
+         id="path1700"
+         sodipodi:nodetypes="ssccs" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 843.5,675 V 809"
+         id="path1702" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1714,4 +1779,25 @@
        width="100%"
        height="100%" />
   </g>
+  <text
+     xml:space="preserve"
+     style="font-weight:300;font-size:14px;line-height:1.25;font-family:'Vazir FD';-inkscape-font-specification:'Vazir FD Light';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline"
+     x="961.43652"
+     y="786.79364"
+     id="text1708"><tspan
+       sodipodi:role="line"
+       id="tspan1706"
+       x="961.43652"
+       y="786.79364"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">C<tspan
+   style="font-size:10px;text-align:center;baseline-shift:super;text-anchor:middle"
+   id="tspan1720">P</tspan>201-1</tspan></text>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#text1708"
+     id="use1723"
+     transform="translate(-351.5,11.500012)"
+     width="100%"
+     height="100%" />
 </svg>
