@@ -348,9 +348,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="10.578125"
-     inkscape:cx="1028.1207"
-     inkscape:cy="667.89629"
+     inkscape:zoom="3.739932"
+     inkscape:cx="929.57748"
+     inkscape:cy="719.29222"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
@@ -1445,7 +1445,7 @@
        r="6"
        d="" />
     <rect
-       style="fill:#ccd4e0;fill-opacity:1;stroke:#000000;stroke-linecap:square;stroke-opacity:1;stop-color:#000000"
+       style="fill:#b3d0ff;fill-opacity:0.5;stroke:#000000;stroke-linecap:square;stroke-opacity:1;stop-color:#000000"
        id="rect1372"
        width="19"
        height="42"
@@ -1472,7 +1472,7 @@
        d="m 889.93778,757.00097 c 0.77718,-0.0246 1.49903,0.40469 1.84893,1.10033 0.3499,0.69564 0.26423,1.53113 -0.21956,2.14129 -0.48379,0.61016 -1.27774,0.88405 -2.03932,0.70087 -3.92988,-0.96435 -6.88588,-0.26171 -11.06705,1.94403 -0.46069,0.23542 -1.01759,0.0876 -1.2974,-0.33971 -0.27981,-0.42735 -0.19257,-0.99688 0.19844,-1.31766 4.31798,-3.61624 8.90774,-4.11704 12.57596,-4.22915 z"
        sodipodi:nodetypes="cssccscc" />
     <rect
-       style="display:inline;fill:#ccd4e0;fill-opacity:1;stroke:#000000;stroke-linecap:square;stroke-opacity:1;stop-color:#000000"
+       style="display:inline;fill:#b3d0ff;fill-opacity:0.50196081;stroke:#000000;stroke-linecap:square;stroke-opacity:1;stop-color:#000000"
        id="rect1400"
        width="43.164612"
        height="42"
@@ -1493,7 +1493,7 @@
        cy="725"
        r="4" />
     <rect
-       style="display:inline;fill:#b8d5ff;fill-opacity:0.5;stroke:#000000;stroke-linecap:square;stroke-opacity:1;stop-color:#000000"
+       style="display:inline;fill:#b3d0ff;fill-opacity:0.50196081;stroke:#000000;stroke-linecap:square;stroke-opacity:1;stop-color:#000000"
        id="rect1408"
        width="43.164612"
        height="42"
