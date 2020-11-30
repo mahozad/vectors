@@ -40,8 +40,9 @@ of the SVG can be used on the same SVG file to show only the needed part.
 
 ---
 
-The `{{language|cs}}` template can be used to show the name of a language in user's language.
-Could be user e.g. in captions of other versions of the SVG.
+The `{{#language:es}}` and `({{language|es}})` templates can be used to show the name of a language
+in user's language or the actual native name.
+Could be used e.g. in captions of other versions of the SVG.
 
 ---
 
