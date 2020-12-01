@@ -409,7 +409,7 @@
       <path fill="none" stroke="#000" stroke-width=".70872px" d="m462.93 881.47h24.145c1.7246 0 2.4637 1.7246 0 5.1738l-8.623 12.072c-1.7246 2.4145-5.1435 2.4569-6.8984 0l-8.623-12.072c-2.4637-3.4492-1.7246-5.1738 0-5.1738z"/>
     </g>
     <use stroke-width=".70872" width="100%" height="100%" transform="translate(330.39)" xlink:href="#g1668"/>
-    <text id="text1708" font-family="Arial" font-size="28.22px" x="953.19836" y="628.28021" transform="scale(1 .99998)" font-weight="300" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan fill="#ffffff" font-family="Arial" font-size="28.22px" x="953.19836" y="628.28021"   text-anchor="middle">C<tspan fill="#ffffff" font-size="14.11px" baseline-shift="super" text-anchor="middle">P</tspan>201-1</tspan></text>
+    <text id="text1708" font-family="Arial" font-size="28.22px" x="953.19836" y="628.28021" transform="scale(1 .99998)" style="line-height:1.25" xml:space="preserve"><tspan fill="#ffffff" font-family="Arial" font-size="28.22px" x="953.19836" y="628.28021"   text-anchor="middle">C<tspan fill="#ffffff" font-size="14.11px" baseline-shift="super" text-anchor="middle">P</tspan>201-1</tspan></text>
     <use stroke-width=".70872" width="100%" height="100%" transform="translate(-495.98 16.226)" xlink:href="#text1708"/>
     <path fill="url(#linearGradient2503)" stroke="#000" d="m858.91 732.74v52.206h-56.441l-25.399-31.041h-570.06l-9.8772 9.8768h-79.018v-31.041z"/>
     <path fill="#cfcfcf" stroke="#000" d="m868.79 734.15v16.932l-7.0552 8.4658v-25.397z"/>
@@ -557,7 +557,7 @@
       <path d="m841 672c0-3 5-3 5 0v137h-5z" style="font-variation-settings:normal"/>
       <path d="m843.5 675v134" style="font-variation-settings:normal"/>
     </g>
-    <text fill="none" font-family="Arial" font-size="28.22px" x="953.19836" y="1410.6787" transform="scale(1 .99998)" font-weight="300" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan fill="none" font-family="Arial" font-size="28.22px" x="953.19836" y="1410.6787"   text-anchor="middle">C<tspan fill="none" font-size="14.11px" baseline-shift="super" text-anchor="middle">P</tspan>201-1</tspan></text>
+    <text fill="none" font-family="Arial" font-size="28.22px" x="953.19836" y="1410.6787" transform="scale(1 .99998)" style="line-height:1.25" xml:space="preserve"><tspan fill="none" font-family="Arial" font-size="28.22px" x="953.19836" y="1410.6787"   text-anchor="middle">C<tspan fill="none" font-size="14.11px" baseline-shift="super" text-anchor="middle">P</tspan>201-1</tspan></text>
     <ellipse fill="#d9d9d9" stroke="#000" stroke-linecap="square" cx="1873.4" cy="1577.2" rx="7.0551" ry="7.0548"/>
     <path fill="#e9e9e9" stroke="#000" d="m1931.3 1453v4.2329h-86.073c-7.7412 0-15.029-6.1054-19.754-11.288l-2.573-2.8219h5.6147l1.1914 1.2935c8.5543 9.2883 15.281 8.5313 18.343 8.5832z" style="font-variation-settings:normal"/>
     <path fill="#e9e9e9" stroke="#000" d="m1931.3 1509.5h-90.306l-35.276-39.283v-6.2531l35.276 38.481h90.306z" style="font-variation-settings:normal"/>
@@ -690,101 +690,58 @@
     <path fill="#a6a6a6" stroke="#000" stroke-linecap="square" d="m1618 1552.1a14.11 14.11 0 0 1-14.11 14.11 14.11 14.11 0 0 1-14.11-14.11 14.11 14.11 0 0 1 14.11-14.11 14.11 14.11 0 0 1 14.11 14.11z"/>
     <path fill="#d9d9d9" stroke="#000" stroke-linecap="square" d="m1609.6 1552.1a5.6441 5.6439 0 0 1-5.6441 5.6438 5.6441 5.6439 0 0 1-5.6441-5.6438 5.6441 5.6439 0 0 1 5.6441-5.6439 5.6441 5.6439 0 0 1 5.6441 5.6439z"/>
     <path fill="#9c9c9c" d="m553 1269.5 176 94h70l50.692-20.086c-87.653-8.8446-94.21-92.423-134.67-95.237-41.917-2.9154-98.413 23.346-116.86 22.904-8.9654-0.2148-17.704-5.2774-25.287-7.0129-9.324-1.9791-19.88 5.4313-19.88 5.4313z" transform="matrix(1.411 0 0 1.411 -403.96 -483.51)" filter="url(#filter15471)" style="mix-blend-mode:normal"/>
-    <path fill="none" stroke="#000" marker-end="url(#dot)" d="m1071.1 1151.3h26.625l55.155 205.83"/>
-    <path fill="none" stroke="#000" marker-end="url(#dot)" d="m956.47 1689.7h26.626l45.599-170.17"/>
-    <path fill="none" stroke="#000" marker-end="url(#dot)" d="m1236.3 1151.3h26.626l42.831 159.83"/>
-    <path fill="none" stroke="#000" marker-end="url(#dot)" d="m1868.4 364.32h-26.625l-45.329 169.15"/>
-    <path fill="none" stroke="#000" marker-end="url(#dot)" d="m837.99 364.32h26.625l47.624 177.72"/>
-    <path fill="none" stroke="#000" marker-end="url(#dot)" d="m244.55 364.32h26.625l69.012 257.54"/>
-    <path fill="none" stroke="#000" marker-end="url(#dot)" d="m1492.9 364.32h26.626l26.08 97.323"/>
-    <path fill="none" stroke="#000" marker-end="url(#dot)" d="m1421.1 364.32h26.626l23.602 88.077"/>
-    <path fill="none" stroke="#000" marker-end="url(#dot)" d="m1465.7 1151.3h26.625l28.5 106.35"/>
-    <path fill="none" stroke="#000" marker-end="url(#dot)" d="m1609.1 1151.3h26.625l34.07 127.15"/>
-    <path fill="none" stroke="#000" marker-end="url(#dot)" d="m1697.5 902.66h26.625l32.769-122.28"/>
-    <path fill="none" stroke="#000" marker-end="url(#dot)" d="m1665.5 1689.7h26.625l69.558-259.57"/>
-    <path fill="none" stroke="#000" marker-end="url(#dot)" d="m1488.5 902.66h26.625l43.779-163.37"/>
-    <path fill="none" stroke="#000" marker-end="url(#dot)" d="m1153.1 364.32h26.626l43.009 160.5"/>
-    <path fill="none" stroke="#000" marker-end="url(#dot)" d="m1056.4 902.66h26.625l43.652-162.89"/>
-    <path fill="none" stroke="#000" marker-end="url(#dot)" d="m908.47 902.66h26.625l28.308-105.64"/>
-    <path fill="none" stroke="#000" marker-end="url(#dot)" d="m1784.7 1689.7h26.625l34.844-130.03"/>
-    <path fill="none" stroke="#000" marker-end="url(#dot)" d="m1182.2 1689.7h26.625l37.54-140.09"/>
-    <path fill="none" stroke="#000" marker-end="url(#dot)" d="m1326.9 1689.7h26.626l57.229-213.56"/>
-    <path fill="none" stroke="#000" marker-end="url(#dot)" d="m1150.7 902.66h26.625l21.661-79.783"/>
-    <path fill="none" stroke="#000" marker-end="url(#dot)" d="m1665.1 364.32h-26.626l-55.566 208.1"/>
-    <path fill="none" stroke="#000" marker-end="url(#dot)" d="m1897.7 902.66h26.625l35.51-132.51"/>
-    <path fill="none" stroke="#000" marker-end="url(#dot)" d="m985.68 364.32h26.625l24.531 91.545"/>
-    <path fill="none" stroke="#000" marker-end="url(#dot)" d="m1293.5 364.32h26.626l21.99 82.062"/>
-    <text stroke="#000" font-family="Arial" font-size="21" x="1085.1696" y="1148.3741" font-weight="300">
-      <tspan x="1085.1696" y="1148.3741" text-anchor="middle">1</tspan>
-    </text>
-    <text stroke="#000" font-family="Arial" font-size="21" x="1250.381" y="1148.3741" font-weight="300">
-      <tspan x="1250.381" y="1148.3741" text-anchor="middle">3</tspan>
-    </text>
-    <text stroke="#000" font-family="Arial" font-size="21" x="1479.7379" y="1148.374" font-weight="300">
-      <tspan x="1479.7379" y="1148.374" text-anchor="middle">9</tspan>
-    </text>
-    <text stroke="#000" font-family="Arial" font-size="21" x="1623.1487" y="1148.374" font-weight="300">
-      <tspan x="1623.1487" y="1148.374" text-anchor="middle">10</tspan>
-    </text>
-    <text stroke="#000" font-family="Arial" font-size="21" x="970.53076" y="1686.7294" font-weight="300">
-      <tspan x="970.53076" y="1686.7294" text-anchor="middle">2</tspan>
-    </text>
-    <text stroke="#000" font-family="Arial" font-size="21" x="1196.2323" y="1686.7294" font-weight="300">
-      <tspan x="1196.2323" y="1686.7294" text-anchor="middle">18</tspan>
-    </text>
-    <text stroke="#000" font-family="Arial" font-size="21" x="1341.0164" y="1686.7294" font-weight="300">
-      <tspan x="1341.0164" y="1686.7294" text-anchor="middle">19</tspan>
-    </text>
-    <text stroke="#000" font-family="Arial" font-size="21" x="1679.5745" y="1686.7294" font-weight="300">
-      <tspan x="1679.5745" y="1686.7294" text-anchor="middle">12</tspan>
-    </text>
-    <text stroke="#000" font-family="Arial" font-size="21" x="1798.7434" y="1686.7294" font-weight="300">
-      <tspan x="1798.7434" y="1686.7294" text-anchor="middle">17</tspan>
-    </text>
-    <text stroke="#000" font-family="Arial" font-size="21" x="922.54163" y="899.66296" font-weight="300">
-      <tspan x="922.54163" y="899.66296" text-anchor="middle">16</tspan>
-    </text>
-    <text stroke="#000" font-family="Arial" font-size="21" x="1070.4238" y="899.66296" font-weight="300">
-      <tspan x="1070.4238" y="899.66296" text-anchor="middle">15</tspan>
-    </text>
-    <text stroke="#000" font-family="Arial" font-size="21" x="1164.6941" y="899.66296" font-weight="300">
-      <tspan x="1164.6941" y="899.66296" text-anchor="middle">20</tspan>
-    </text>
-    <text stroke="#000" font-family="Arial" font-size="21" x="1502.54" y="899.66296" font-weight="300">
-      <tspan x="1502.54" y="899.66296" text-anchor="middle">13</tspan>
-    </text>
-    <text stroke="#000" font-family="Arial" font-size="21" x="1711.5913" y="899.66296" font-weight="300">
-      <tspan x="1711.5913" y="899.66296" text-anchor="middle">11</tspan>
-    </text>
-    <text stroke="#000" font-family="Arial" font-size="21" x="1911.744" y="899.66296" font-weight="300">
-      <tspan x="1911.744" y="899.66296" text-anchor="middle">22</tspan>
-    </text>
-    <text stroke="#000" font-family="Arial" font-size="21" x="1855.8433" y="361.30685" font-weight="300">
-      <tspan x="1855.8433" y="361.30685" text-anchor="middle">4</tspan>
-    </text>
-    <text stroke="#000" font-family="Arial" font-size="21" x="1652.5021" y="361.30685" font-weight="300">
-      <tspan x="1652.5021" y="361.30685" text-anchor="middle">21</tspan>
-    </text>
-    <text stroke="#000" font-family="Arial" font-size="21" x="1506.8927" y="361.30685" font-weight="300">
-      <tspan x="1506.8927" y="361.30685" text-anchor="middle">7</tspan>
-    </text>
-    <text stroke="#000" font-family="Arial" font-size="21" x="1435.1411" y="361.30685" font-weight="300">
-      <tspan x="1435.1411" y="361.30685" text-anchor="middle">8</tspan>
-    </text>
-    <text stroke="#000" font-family="Arial" font-size="21" x="1307.6204" y="361.30685" font-weight="300">
-      <tspan x="1307.6204" y="361.30685" text-anchor="middle">24</tspan>
-    </text>
-    <text stroke="#000" font-family="Arial" font-size="21" x="1167.2074" y="361.30685" font-weight="300">
-      <tspan x="1167.2074" y="361.30685" text-anchor="middle">14</tspan>
-    </text>
-    <text stroke="#000" font-family="Arial" font-size="21" x="999.74042" y="361.30685" font-weight="300">
-      <tspan x="999.74042" y="361.30685" text-anchor="middle">23</tspan>
-    </text>
-    <text stroke="#000" font-family="Arial" font-size="21" x="852.06573" y="361.30685" font-weight="300">
-      <tspan x="852.06573" y="361.30685" text-anchor="middle">5</tspan>
-    </text>
-    <text stroke="#000" font-family="Arial" font-size="21" x="258.64587" y="361.30685" font-weight="300">
-      <tspan x="258.64587" y="361.30685" text-anchor="middle">6</tspan>
-    </text>
+    <g fill="none" stroke="#000" marker-end="url(#dot)">
+      <path d="m1071.1 1151.3h26.625l55.155 205.83"/>
+      <path d="m956.47 1689.7h26.626l45.599-170.17"/>
+      <path d="m1236.3 1151.3h26.626l42.831 159.83"/>
+      <path d="m1868.4 364.32h-26.625l-45.329 169.15"/>
+      <path d="m837.99 364.32h26.625l47.624 177.72"/>
+      <path d="m244.55 364.32h26.625l69.012 257.54"/>
+      <path d="m1492.9 364.32h26.626l26.08 97.323"/>
+      <path d="m1421.1 364.32h26.626l23.602 88.077"/>
+      <path d="m1465.7 1151.3h26.625l28.5 106.35"/>
+      <path d="m1609.1 1151.3h26.625l34.07 127.15"/>
+      <path d="m1697.5 902.66h26.625l32.769-122.28"/>
+      <path d="m1665.5 1689.7h26.625l69.558-259.57"/>
+      <path d="m1488.5 902.66h26.625l43.779-163.37"/>
+      <path d="m1153.1 364.32h26.626l43.009 160.5"/>
+      <path d="m1056.4 902.66h26.625l43.652-162.89"/>
+      <path d="m908.47 902.66h26.625l28.308-105.64"/>
+      <path d="m1784.7 1689.7h26.625l34.844-130.03"/>
+      <path d="m1182.2 1689.7h26.625l37.54-140.09"/>
+      <path d="m1326.9 1689.7h26.626l57.229-213.56"/>
+      <path d="m1150.7 902.66h26.625l21.661-79.783"/>
+      <path d="m1665.1 364.32h-26.626l-55.566 208.1"/>
+      <path d="m1897.7 902.66h26.625l35.51-132.51"/>
+      <path d="m985.68 364.32h26.625l24.531 91.545"/>
+      <path d="m1293.5 364.32h26.626l21.99 82.062"/>
+    </g>
+    <g font-family="Arial" font-size="21" text-anchor="middle">
+      <text x="1085.1696" y="1148.3741">1</text>
+      <text x="1250.381" y="1148.3741">3</text>
+      <text x="1479.7379" y="1148.374">9</text>
+      <text x="1623.1487" y="1148.374">10</text>
+      <text x="970.53076" y="1686.7294">2</text>
+      <text x="1196.2323" y="1686.7294">18</text>
+      <text x="1341.0164" y="1686.7294">19</text>
+      <text x="1679.5745" y="1686.7294">12</text>
+      <text x="1798.7434" y="1686.7294">17</text>
+      <text x="922.54163" y="899.66296">16</text>
+      <text x="1070.4238" y="899.66296">15</text>
+      <text x="1164.6941" y="899.66296">20</text>
+      <text x="1502.54" y="899.66296">13</text>
+      <text x="1711.5913" y="899.66296">11</text>
+      <text x="1911.744" y="899.66296">22</text>
+      <text x="1855.8433" y="361.30685">4</text>
+      <text x="1652.5021" y="361.30685">21</text>
+      <text x="1506.8927" y="361.30685">7</text>
+      <text x="1435.1411" y="361.30685">8</text>
+      <text x="1307.6204" y="361.30685">24</text>
+      <text x="1167.2074" y="361.30685">14</text>
+      <text x="999.74042" y="361.30685">23</text>
+      <text x="852.06573" y="361.30685">5</text>
+      <text x="258.64587" y="361.30685">6</text>
+    </g>
   </g>
 </svg>
+
