@@ -1,5 +1,7 @@
 ![logo](./symbol/2-optimized.svg)
 
+Arrow character: 🡲
+
 Scheme vs Schema:  
 The word **Schema** is used for diagrams and models.
 
