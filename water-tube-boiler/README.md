@@ -1,4 +1,4 @@
-![The vector graphic](2-vectorized.svg)
+![The vector graphic](3-optimized.svg)
 
 Used on [this page](https://en.wikipedia.org/wiki/Water-tube_boiler)
 
