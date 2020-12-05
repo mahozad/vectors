@@ -356,9 +356,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254834"
-     inkscape:cx="110.04658"
-     inkscape:cy="360.62339"
+     inkscape:zoom="2"
+     inkscape:cx="243.86033"
+     inkscape:cy="281.98817"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
@@ -477,7 +477,7 @@
      inkscape:label="vector"
      style="display:inline">
     <path
-       style="fill:#dea100;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1"
+       style="fill:#dea100;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
        d="m 181.6824,326.54816 c 2.94458,-5.89499 3.61607,-6.17509 4.12191,-12.76218 0.5921,2.23677 1.04273,4.68075 0.50695,8.56962 1.1364,-5.52991 1.96306,-6.94699 6.30468,-9.89106 -3.43455,4.39515 -2.80223,6.60463 -3.54388,11.51457 1.08884,-3.66774 4.67369,-11.79305 9.14138,-11.49193 -1.59641,3.02049 -7.93963,10.68697 -4.89941,11.32926 2.8978,-3.52667 2.96151,-6.55919 4.9286,-8.33171 0.36765,2.23847 -2.54875,7.18686 -1.17804,7.2884 0.51311,0.038 5.78761,-2.50166 5.9354,0.23535 -5.67831,0.43964 -9.64231,3.80935 -10.5058,8.74626 z"
        id="path2496"
        sodipodi:nodetypes="ccccccccsccc" />
@@ -955,8 +955,18 @@
        inkscape:transform-center-y="-10.749655" />
     <path
        id="path2504"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 114,356 v 8 l 9,-4 z m 0,2.5 H 99 v 3 h 15"
+       style="fill:#ff5a5a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 115.5,358 v 8 l 9,-4 z m 0,2.5 h -15 v 3 h 15"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       id="path2504-0"
+       style="display:inline;fill:#5aacff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 391,338 v 8 l -9,-4 z m 0,2.5 h 15 v 3 h -15"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       id="path2504-9"
+       style="display:inline;fill:#adff5c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 397.5,175 v 8 l 9,-4 z m 0,2.5 h -15 v 3 h 15"
        sodipodi:nodetypes="cccccccc" />
   </g>
 </svg>
