@@ -2,7 +2,16 @@
 
 Arrow character: 🡲
 
-To create cruved pipes or lines, draw it using a thick stroke and then convert the stroke to path
+### Tips and Tricks
+
+ - To create curved pipes or lines there are two ways:
+     1. Draw a thick stroke and then convert it to path
+     2. Draw two circles for the joint and then converting them to objects
+
+ - To create an angled object especially if it is composed of multiple sub-objects, it is
+   easier to create it in straight horizontal or vertical mode and then rotate it (or the group)
+
+#
 
 Scheme vs Schema:  
 The word **Schema** is used for diagrams and models.
