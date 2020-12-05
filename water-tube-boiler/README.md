@@ -9,7 +9,8 @@ To create the parallel curved tubes do this:
  4. Copy or mirror the generated half and past it on the other side of the middle tube
 Done
 
-To join a tube with circle, duplicate the tube in-place, select the circle and the tube,
+To join a tube with circle, simply union the two objects.
+If it didn't work, duplicate the tube in-place, select the circle and the tube,
 run Path 🡲 Cut path and then remove the unwanted parts of the circle.
 Then select the circle and the tube and union them.
 (fot the cut operation the tube should be the top object)
