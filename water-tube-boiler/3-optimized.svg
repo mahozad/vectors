@@ -1,7 +1,7 @@
 <svg width="512" height="512" version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <marker id="marker" overflow="visible" orient="auto">
-      <circle r="1.5" cx="0" cy="0"/>
+      <circle r="1.3" cx="0" cy="0"/>
     </marker>
     <linearGradient id="gradient1" x1="166" x2="376" y1="352" y2="198" gradientUnits="userSpaceOnUse">
       <stop stop-color="#ff784c" offset="0"/>
@@ -18,7 +18,6 @@
     </linearGradient>
   </defs>
 
-  <circle stroke="#000" fill-opacity="0.4" cx="212" cy="127" r="4"/>
   <path fill="#ccc" stroke="#000" d="m163 352-21-72v-58l41.154-57.516c9.4189-13.302 25.563-20.304 41.819-18.077 16.255 2.2271 29.921 13.314 35.452 28.761 4.3031 12.018 13.958 21.346 26.118 25.233 12.159 3.8864 25.435 1.8876 35.907-5.4037l56.551 3e-3v92c0 12.571-10 14-19.432 21.316s-11.568 23.684-11.568 39.684v41h-185v-37"/>
   <path fill="url(#gradient1)" stroke="#000" d="m285.19 203.12c12.852 4.256 26.947 2.3589 38.196-5.1299l52.612 0.0137v88c0 10-7.6996 13.148-17 18l-92 48h-101l-21-72v-57l40.631-56.823c8.8509-12.411 23.883-18.886 39.002-16.788 15.119 2.0973 27.821 12.42 32.967 26.79 4.5636 12.746 14.741 22.681 27.592 26.937z"/>
   <path fill="#8ccb7b" stroke="#000" d="m209 152.3v-13.301l-4-7v-5h14v5l-4 7v12.203"/>
@@ -36,45 +35,69 @@
   <path fill="#ff5a5a" d="m114 359.75v8l9-4zm0 2.5h-15v3h15"/>
   <path fill="#5aacff" d="m398 335.25v8l-9-4zm0 2.5h15v3h-15"/>
   <path fill="#adff5d" d="m406.38 173.08v8l9-4zm0 2.5h-15v3h15"/>
-  <path fill="none" stroke="#000" d="m98 134h114" marker-end="url(#marker)"/>
-  <path fill="none" stroke="#000" d="m98 192.6h80" marker-end="url(#marker)"/>
-  <path fill="none" stroke="#000" d="m98 163.29h102.44" marker-end="url(#marker)"/>
-  <path fill="none" stroke="#000" d="m98 217.41h102" marker-end="url(#marker)"/>
-  <path fill="none" stroke="#000" d="m98 272h102" marker-end="url(#marker)"/>
-  <path fill="none" stroke="#000" d="m98 332h93" marker-end="url(#marker)"/>
-  <path fill="none" stroke="#000" d="m414 370h-72" marker-end="url(#marker)"/>
-  <path fill="none" stroke="#000" d="m414 314h-88" marker-end="url(#marker)"/>
-  <path fill="none" stroke="#000" d="m414 261h-54" marker-end="url(#marker)"/>
-  <path fill="none" stroke="#000" d="m414 217h-47" marker-end="url(#marker)"/>
-  <path fill="none" stroke="#000" d="m414 150h-163.45" marker-end="url(#marker)"/>
-  <path stroke="#000" stroke-linejoin="round" stroke-linecap="square" fill-opacity="0" d="m209.04 223c0 1.6568-1.3432 3-3 3s-3-1.3432-3-3 1.3432-3 3-3 3 1.3432 3 3zm90.3 142c0 1.6568-1.3432 3-3 3s-3-1.3432-3-3 1.3432-3 3-3 3 1.3432 3 3z"/>
-  <path fill="#331300" fill-opacity=".5" d="m363.96 220.07c-13.23 49.374-38.549 73.854-65.873 86.277-27.324 12.424-56.789 12.648-78.09 12.648h-4v4h4c21.324 0 51.454-0.14444 79.744-13.008s54.606-38.588 68.082-88.883zm5.2394-11.829-9.4811 10.692 12.346 3.3081z" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
-  <path fill="#331300" fill-opacity=".5" d="m354.71 204.36-9.4811 10.692 12.346 3.3081zm-5.2407 11.829c-10.984 40.992-34.587 54.871-60.637 62.881-26.049 8.0096-54.595 9.5192-73.982 25.787l-3.0645 2.5703 2.5703 3.0644 3.0644-2.5723c17.971-15.079 45.915-16.824 72.588-25.025s52.024-23.489 63.326-65.67z"/>
-  <path fill="#331300" fill-opacity=".5" d="m334.98 212.31c-3.9392 14.701-13.245 23.99-25.482 30.695-12.237 6.7051-27.38 10.664-42.42 14.297s-29.965 6.931-41.902 12.631c-11.937 5.6999-21.011 14.085-23.359 27.402l-0.69531 3.9395 3.9394 0.69531 0.69532-3.9394c2.0975-11.896 9.8419-19.09 21.143-24.486 11.301-5.3959 26.034-8.7095 41.119-12.354 15.085-3.644 30.533-7.6264 43.402-14.678s23.181-17.335 27.424-33.168zm5.2401-11.828-9.4811 10.692 12.346 3.3081z"/>
-  <path fill="url(#gradient3)" stroke="#000" stroke-linejoin="round" stroke-linecap="square" d="m215 150.73v0.46845c0.84429-0.086 1.6991-0.13461 2.5586-0.16601 0 0-0.0552-0.0998-0.0443-0.43531" style="font-variation-settings:normal"/>
-  <rect fill="#73a5fa" x="375.03" y="336.75" width="2.4688" height="5" style="font-variation-settings:normal"/>
-  <rect fill="#adff5d" x="377.41" y="174.58" width="2.4688" height="5" style="font-variation-settings:normal"/>
-  <text x="91.105469" y="132.58083" font-family="Arial" font-size="12px" letter-spacing="0px" text-anchor="end" word-spacing="0px" style="line-height:1" xml:space="preserve">       <tspan x="91.105469" y="132.58083">Safety</tspan>
-    <tspan x="91.105469" y="146.01488">valve</tspan>    </text>
-  <text x="91.773438" y="165.13107" font-family="Arial" font-size="12px" letter-spacing="0px" text-anchor="end" word-spacing="0px" style="line-height:1" xml:space="preserve">       <tspan x="91.773438" y="165.13107">Saturated</tspan>
-    <tspan x="91.773438" y="178.56512">steam</tspan>    </text>
-  <text x="91.773438" y="190.82956" font-family="Arial" font-size="12px" letter-spacing="0px" text-anchor="end" word-spacing="0px" style="line-height:1" xml:space="preserve">       <tspan x="91.773438" y="190.82956">Steam</tspan>
-    <tspan x="91.773438" y="204.26361">drum</tspan>    </text>
-  <text x="91.805664" y="214.99408" font-family="Arial" font-size="12px" letter-spacing="0px" text-anchor="end" word-spacing="0px" style="line-height:1" xml:space="preserve">       <tspan x="91.805664" y="214.99408">Boiling</tspan>
-    <tspan x="91.805664" y="228.42813">water</tspan>    </text>
-  <text x="91.805664" y="268.99408" font-family="Arial" font-size="12px" letter-spacing="0px" text-anchor="end" word-spacing="0px" style="line-height:1" xml:space="preserve">       <tspan x="91.805664" y="268.99408">Downcomer</tspan>
-    <tspan x="91.805664" y="282.42813">tube</tspan>    </text>
-  <text x="91.805664" y="327.49408" font-family="Arial" font-size="12px" letter-spacing="0px" text-anchor="end" word-spacing="0px" style="line-height:1" xml:space="preserve">       <tspan x="91.805664" y="327.49408">Fuel</tspan>
-    <tspan x="91.805664" y="340.92813">burner</tspan>    </text>
-  <text x="91.805664" y="364.99408" font-family="'Vazir FD'" font-size="12px" font-weight="300" letter-spacing="0px" word-spacing="0px" style="line-height:1" xml:space="preserve">       <tspan x="91.805664" y="364.99408" font-family="Arial" font-size="12px" font-weight="normal" text-anchor="end">Fuel</tspan>    </text>
-  <text x="422" y="147.58083" font-family="Arial" font-size="12px" letter-spacing="0px" word-spacing="0px" style="line-height:1" xml:space="preserve">       <tspan x="422" y="147.58083">Saturated</tspan>
-    <tspan x="422" y="161.01488">steam outlet</tspan>    </text>
-  <text x="422" y="174.66083" font-family="Arial" font-size="12px" letter-spacing="0px" word-spacing="0px" style="line-height:1" xml:space="preserve">       <tspan x="422" y="174.66083">Superheated</tspan>
-    <tspan x="422" y="188.09488">steam</tspan>    </text>
-  <text x="422" y="213.3152" font-family="Arial" font-size="12px" letter-spacing="0px" word-spacing="0px" style="line-height:1" xml:space="preserve">       <tspan x="422" y="213.3152">Exhaust</tspan>
-    <tspan x="422" y="226.74925">gasses</tspan>    </text>
-  <text x="422" y="264.17578" font-family="'Vazir FD'" font-size="12px" font-weight="300" letter-spacing="0px" word-spacing="0px" style="line-height:1" xml:space="preserve">       <tspan x="422" y="264.17578" font-family="Arial" font-size="12px" font-weight="normal">Superheater</tspan>    </text>
-  <text x="422" y="318.22461" font-family="'Vazir FD'" font-size="12px" font-weight="300" letter-spacing="0px" word-spacing="0px" style="line-height:1" xml:space="preserve">       <tspan x="422" y="318.22461" font-family="Arial" font-size="12px" font-weight="normal">Water tubes</tspan>    </text>
-  <text x="422" y="341.36792" font-family="'Vazir FD'" font-size="12px" font-weight="300" letter-spacing="0px" word-spacing="0px" style="line-height:1" xml:space="preserve">       <tspan x="422" y="341.36792" font-family="Arial" font-size="12px" font-weight="normal">Water</tspan>    </text>
-  <text x="422" y="374.22461" font-family="'Vazir FD'" font-size="12px" font-weight="300" letter-spacing="0px" word-spacing="0px" style="line-height:1" xml:space="preserve">       <tspan x="422" y="374.22461" font-family="Arial" font-size="12px" font-weight="normal">Feedwaterdrum</tspan>    </text>
+  <path fill="none" stroke="#000" marker-end="url(#marker)" d="m98 134h114"/>
+  <path fill="none" stroke="#000" marker-end="url(#marker)" d="m98 192.6h80"/>
+  <path fill="none" stroke="#000" marker-end="url(#marker)" d="m98 163.29h102.44"/>
+  <path fill="none" stroke="#000" marker-end="url(#marker)" d="m98 217.41h102"/>
+  <path fill="none" stroke="#000" marker-end="url(#marker)" d="m98 272h102"/>
+  <path fill="none" stroke="#000" marker-end="url(#marker)" d="m98 332h93"/>
+  <path fill="none" stroke="#000" marker-end="url(#marker)" d="m414 370h-72"/>
+  <path fill="none" stroke="#000" marker-end="url(#marker)" d="m414 314h-88"/>
+  <path fill="none" stroke="#000" marker-end="url(#marker)" d="m414 261h-54"/>
+  <path fill="none" stroke="#000" marker-end="url(#marker)" d="m414 217h-47"/>
+  <path fill="none" stroke="#000" marker-end="url(#marker)" d="m414 150h-163.45"/>
+  <path fill="none" stroke="#000" d="m209.04 223c0 1.6568-1.3432 3-3 3s-3-1.3432-3-3 1.3432-3 3-3 3 1.3432 3 3zm90.3 142c0 1.6568-1.3432 3-3 3s-3-1.3432-3-3 1.3432-3 3-3 3 1.3432 3 3z"/>
+  <path fill="none" stroke="#000" stroke-linejoin="round" d="m215 150.73v0.46845c0.84429-0.086 1.6991-0.13461 2.5586-0.16601 0 0-0.0552-0.0998-0.0443-0.43531" style="font-variation-settings:normal"/>
+  <path fill="#331300" opacity="0.5" d="m363.96 220.07c-13.23 49.374-38.549 73.854-65.873 86.277-27.324 12.424-56.789 12.648-78.09 12.648h-4v4h4c21.324 0 51.454-0.14444 79.744-13.008s54.606-38.588 68.082-88.883zm5.2394-11.829-9.4811 10.692 12.346 3.3081z" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path fill="#331300" opacity="0.5" d="m354.71 204.36-9.4811 10.692 12.346 3.3081zm-5.2407 11.829c-10.984 40.992-34.587 54.871-60.637 62.881-26.049 8.0096-54.595 9.5192-73.982 25.787l-3.0645 2.5703 2.5703 3.0644 3.0644-2.5723c17.971-15.079 45.915-16.824 72.588-25.025s52.024-23.489 63.326-65.67z"/>
+  <path fill="#331300" opacity="0.5" d="m334.98 212.31c-3.9392 14.701-13.245 23.99-25.482 30.695-12.237 6.7051-27.38 10.664-42.42 14.297s-29.965 6.931-41.902 12.631c-11.937 5.6999-21.011 14.085-23.359 27.402l-0.69531 3.9395 3.9394 0.69531 0.69532-3.9394c2.0975-11.896 9.8419-19.09 21.143-24.486 11.301-5.3959 26.034-8.7095 41.119-12.354 15.085-3.644 30.533-7.6264 43.402-14.678s23.181-17.335 27.424-33.168zm5.2401-11.828-9.4811 10.692 12.346 3.3081z"/>
+  <circle stroke="#000" fill-opacity="0.3" cx="212" cy="127" r="5"/>
+
+  <rect fill="#73a5fa" x="375.03" y="336.75" width="2.4688" height="5"/>
+  <rect fill="#adff5d" x="377.41" y="174.58" width="2.4688" height="5"/>
+
+  <g font-family="Arial" font-size="12">
+    <text text-anchor="end">
+      <tspan x="91.105469" y="132.58083">Safety</tspan>
+      <tspan x="91.105469" y="146.01488">valve</tspan>
+    </text>
+    <text text-anchor="end">
+      <tspan x="91.773438" y="165.13107">Saturated</tspan>
+      <tspan x="91.773438" y="178.56512">steam</tspan>
+    </text>
+    <text text-anchor="end">
+      <tspan x="91.773438" y="190.82956">Steam</tspan>
+      <tspan x="91.773438" y="204.26361">drum</tspan>
+    </text>
+    <text text-anchor="end">
+      <tspan x="91.805664" y="214.99408">Boiling</tspan>
+      <tspan x="91.805664" y="228.42813">water</tspan>
+    </text>
+    <text text-anchor="end">
+      <tspan x="91.805664" y="268.99408">Downcomer</tspan>
+      <tspan x="91.805664" y="282.42813">tube</tspan>
+    </text>
+    <text text-anchor="end">
+      <tspan x="91.805664" y="327.49408">Fuel</tspan>
+      <tspan x="91.805664" y="340.92813">burner</tspan>
+    </text>
+    <text x="91.805664" y="364.99408" text-anchor="end">Fuel</text>
+
+    <text>
+      <tspan x="422" y="147.58083">Saturated</tspan>
+      <tspan x="422" y="161.01488">steam outlet</tspan>
+    </text>
+    <text>
+      <tspan x="422" y="174.66083">Superheated</tspan>
+      <tspan x="422" y="188.09488">steam</tspan>
+    </text>
+    <text>
+      <tspan x="422" y="213.3152">Exhaust</tspan>
+      <tspan x="422" y="226.74925">gasses</tspan>
+    </text>
+    <text x="422" y="264.17578">Superheater</text>
+    <text x="422" y="318.22461">Water tubes</text>
+    <text x="422" y="341.36792">Water</text>
+    <text x="422" y="374.22461">Feedwaterdrum</text>
+  </g>
 </svg>
