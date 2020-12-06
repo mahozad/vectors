@@ -1,3 +1,4 @@
+![Perfect badge](../prefect-vector-badge.svg)
 ![The vector graphic](3-optimized.svg)
 
 Used on [this page](https://en.wikipedia.org/wiki/Water-tube_boiler)
