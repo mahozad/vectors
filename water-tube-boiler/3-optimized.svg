@@ -39,61 +39,40 @@
   <circle stroke="#000" fill-opacity=".3" cx="212" cy="127" r="5"/>
   <path fill="none" stroke="#000" marker-end="url(#marker)" d="m98 135h114"/>
   <path fill="none" stroke="#000" marker-end="url(#marker)" d="m98 192.6h79.674"/>
-  <path fill="none" stroke="#000" marker-end="url(#marker)" d="m98 163.29h102.44"/>
+  <path fill="none" stroke="#000" marker-end="url(#marker)" d="m98 164.04h102.44"/>
   <path fill="none" stroke="#000" marker-end="url(#marker)" d="m98 217.41h102"/>
   <path fill="none" stroke="#000" marker-end="url(#marker)" d="m98 272h101.81"/>
   <path fill="none" stroke="#000" marker-end="url(#marker)" d="m98 332h93"/>
   <path fill="none" stroke="#000" marker-end="url(#marker)" d="m414 370h-72"/>
-  <path fill="none" stroke="#000" marker-end="url(#marker)" d="m414 314h-87.716"/>
+  <path fill="none" stroke="#000" marker-end="url(#marker)" d="m414 312.75h-87.908"/>
   <path fill="none" stroke="#000" marker-end="url(#marker)" d="m414 261h-54"/>
   <path fill="none" stroke="#000" marker-end="url(#marker)" d="m414 217h-47"/>
-  <path fill="none" stroke="#000" marker-end="url(#marker)" d="m414 150h-163.45"/>
+  <path fill="none" stroke="#000" marker-end="url(#marker)" d="m414 144.29h-167.1"/>
   <path fill="#ff5a5a" d="m114 359.75v8l9-4zm0 2.5h-15v3h15"/>
   <path fill="#5aacff" d="m398 335.25v8l-9-4zm0 2.5h15v3h-15"/>
   <path fill="#93ff5d" d="m406.38 173.08v8l9-4zm0 2.5h-15v3h15"/>
   <rect fill="#73a5fa" x="375.03" y="336.75" width="2.4688" height="5"/>
   <rect fill="#93ff5d" x="377.41" y="174.58" width="2.4688" height="5"/>
-  <g font-family="Arial" font-size="12">
-    <text text-anchor="end">
-      <tspan x="91.105469" y="133.58083">Safety</tspan>
-      <tspan x="91.105469" y="147.01488">valve</tspan>
-    </text>
-    <text text-anchor="end">
-      <tspan x="91.773438" y="165.13107">Saturated</tspan>
-      <tspan x="91.773438" y="178.56512">steam</tspan>
-    </text>
-    <text text-anchor="end">
-      <tspan x="91.773438" y="190.82956">Steam</tspan>
-      <tspan x="91.773438" y="204.26361">drum</tspan>
-    </text>
-    <text text-anchor="end">
-      <tspan x="91.805664" y="214.99408">Boiling</tspan>
-      <tspan x="91.805664" y="228.42813">water</tspan>
-    </text>
-    <text text-anchor="end">
-      <tspan x="91.805664" y="268.99408">Downcomer</tspan>
-      <tspan x="91.805664" y="282.42813">tube</tspan>
-    </text>
-    <text text-anchor="end">
-      <tspan x="91.805664" y="327.49408">Fuel</tspan>
-      <tspan x="91.805664" y="340.92813">burner</tspan>
-    </text>
-    <text x="91.805664" y="364.99408" text-anchor="end">Fuel</text>
-    <text>
-      <tspan x="422" y="147.58083">Saturated</tspan>
-      <tspan x="422" y="161.01488">steam outlet</tspan>
-    </text>
-    <text>
-      <tspan x="422" y="174.66083">Superheated</tspan>
-      <tspan x="422" y="188.09488">steam</tspan>
-    </text>
-    <text>
-      <tspan x="422" y="213.3152">Exhaust</tspan>
-      <tspan x="422" y="226.74925">gasses</tspan>
-    </text>
-    <text x="422" y="264.17578">Superheater</text>
-    <text x="422" y="318.22461">Water tubes</text>
-    <text x="422" y="341.36792">Water</text>
-    <text x="422" y="374.22461">Feedwaterdrum</text>
+  <g font-family="Arial" font-size="10">
+    <text text-anchor="end" x="91" y="137.58789">Safety valve</text>
+    <text text-anchor="end" x="91" y="160.90451">Saturated</text>
+    <text text-anchor="end" x="91" y="174.33856">steam</text>
+    <text text-anchor="end" x="91" y="196.17911">Steam drum</text>
+    <text text-anchor="end" x="91" y="219.93686">Boiling water</text>
+    <text text-anchor="end" x="91" y="268.80347">Downcomer</text>
+    <text text-anchor="end" x="91" y="282.23755">tube</text>
+    <text text-anchor="end" x="91" y="335.52051">Fuel burner</text>
+    <text text-anchor="end" x="91" y="367.27051">Fuel</text>
+    <text x="422" y="141.15245">Saturated</text>
+    <text x="422" y="154.5865">steam outlet</text>
+    <text x="422" y="173.94452">Superheated</text>
+    <text x="422" y="187.37857">steam</text>
+    <text x="422" y="212.80983">Exhaust</text>
+    <text x="422" y="226.24388">gasses</text>
+    <text x="422" y="263.64648">Superheater</text>
+    <text x="422" y="316.27051">Water tubes</text>
+    <text x="422" y="342.77051">Water</text>
+    <text x="422" y="367.27051">Feedwater</text>
+    <text x="422" y="379.77051">drum</text>
   </g>
 </svg>
