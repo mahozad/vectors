@@ -1,0 +1,33 @@
+<svg viewBox="0 0 18.5 18.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="set" stroke="#000" stroke-width="0.1">
+    <path fill="#f00" d="m0 0v1.5h1v-1.5z"/>
+    <path fill="#f00" d="m0 1.5v1.5h1v-1.5z"/>
+    <path fill="#f00" d="m2 3.1v1.5h1v-1.5z"/>
+    <path fill="#f00" d="m2 4.6v1.5h1v-1.5z"/>
+    <path fill="#0f0" d="m2 0v1.5h1v-1.5z"/>
+    <path fill="#0f0" d="m2 1.5v1.5h1v-1.5z"/>
+    <path fill="#0f0" d="m0 3.1v1.5h1v-1.5z"/>
+    <path fill="#0f0" d="m0 4.6v1.5h1v-1.5z"/>
+    <path fill="#00f" d="m1 0v1.5h1v-1.5z"/>
+    <path fill="#00f" d="m1 1.5v1.5h1v-1.5z"/>
+    <path fill="#00f" d="m1 3.1v1.5h1v-1.5z"/>
+    <path fill="#00f" d="m1 4.6v1.5h1v-1.5z"/>
+  </g>
+  <use xlink:href="#set" transform="translate(0,6.2)"/>
+  <use xlink:href="#set" transform="translate(0,12.4)"/>
+  <use xlink:href="#set" transform="translate(3.1)"/>
+  <use xlink:href="#set" transform="translate(3.1,6.2)"/>
+  <use xlink:href="#set" transform="translate(3.1,12.4)"/>
+  <use xlink:href="#set" transform="translate(6.2)"/>
+  <use xlink:href="#set" transform="translate(6.2,6.2)"/>
+  <use xlink:href="#set" transform="translate(6.2,12.4)"/>
+  <use xlink:href="#set" transform="translate(9.3)"/>
+  <use xlink:href="#set" transform="translate(9.3,6.2)"/>
+  <use xlink:href="#set" transform="translate(9.3,12.4)"/>
+  <use xlink:href="#set" transform="translate(12.4)"/>
+  <use xlink:href="#set" transform="translate(12.4,6.2)"/>
+  <use xlink:href="#set" transform="translate(12.4,12.4)"/>
+  <use xlink:href="#set" transform="translate(15.5)"/>
+  <use xlink:href="#set" transform="translate(15.5,6.2)"/>
+  <use xlink:href="#set" transform="translate(15.5,12.4)"/>
+</svg>
