@@ -51,19 +51,39 @@
   <path fill="#73a5fa" stroke-width=".925" d="m409.63 363.78h3.2719v6.6321h-3.2719z"/>
   <path fill="#93ff5d" stroke-width=".925" d="m412.78 148.67h3.2719v6.6321h-3.2719z"/>
   <g font-family="Arial" font-size="10" transform="matrix(1.3253 0 0 1.3264 -87.396 -82.902)">
-    <text text-anchor="end" x="91" y="138.59468">1</text>
-    <text text-anchor="end" x="91" y="167.63647">2</text>
-    <text text-anchor="end" x="91" y="196.13387">3</text>
-    <text text-anchor="end" x="91" y="220.99771">4</text>
-    <text text-anchor="end" x="91" y="275.47534">5</text>
-    <text text-anchor="end" x="91" y="335.53696">6</text>
-    <text text-anchor="end" x="91" y="367.29327">7</text>
-    <text x="422" y="147.82887">8</text>
-    <text x="422" y="180.62105">9</text>
-    <text x="422" y="220.53513">10</text>
-    <text x="422" y="264.60281">11</text>
-    <text x="422" y="316.35086">12</text>
-    <text x="422" y="342.79025">13</text>
-    <text x="422" y="373.60208">14</text>
+    <switch>
+      <g systemLanguage="fa">
+        <text text-anchor="end" x="91" y="138.59468">۱</text>
+        <text text-anchor="end" x="91" y="167.63647">۲</text>
+        <text text-anchor="end" x="91" y="196.13387">۳</text>
+        <text text-anchor="end" x="91" y="220.99771">۴</text>
+        <text text-anchor="end" x="91" y="275.47534">۵</text>
+        <text text-anchor="end" x="91" y="335.53696">۶</text>
+        <text text-anchor="end" x="91" y="367.29327">۷</text>
+        <text x="422" y="147.82887">۸</text>
+        <text x="422" y="180.62105">۹</text>
+        <text x="422" y="220.53513">۱۰</text>
+        <text x="422" y="264.60281">۱۱</text>
+        <text x="422" y="316.35086">۱۲</text>
+        <text x="422" y="342.79025">۱۳</text>
+        <text x="422" y="373.60208">۱۴</text>
+      </g>
+      <g>
+        <text text-anchor="end" x="91" y="138.59468">1</text>
+        <text text-anchor="end" x="91" y="167.63647">2</text>
+        <text text-anchor="end" x="91" y="196.13387">3</text>
+        <text text-anchor="end" x="91" y="220.99771">4</text>
+        <text text-anchor="end" x="91" y="275.47534">5</text>
+        <text text-anchor="end" x="91" y="335.53696">6</text>
+        <text text-anchor="end" x="91" y="367.29327">7</text>
+        <text x="422" y="147.82887">8</text>
+        <text x="422" y="180.62105">9</text>
+        <text x="422" y="220.53513">10</text>
+        <text x="422" y="264.60281">11</text>
+        <text x="422" y="316.35086">12</text>
+        <text x="422" y="342.79025">13</text>
+        <text x="422" y="373.60208">14</text>
+      </g>
+    </switch>
   </g>
 </svg>
