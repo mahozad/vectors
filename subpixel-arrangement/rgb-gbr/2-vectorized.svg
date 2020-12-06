@@ -1,33 +1,33 @@
-<svg viewBox="0 0 18.5 18.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g id="set" stroke="#000" stroke-width="0.1">
-    <path fill="#f00" d="m0 0v1.5h1v-1.5z"/>
-    <path fill="#f00" d="m0 1.5v1.5h1v-1.5z"/>
-    <path fill="#f00" d="m2 3.1v1.5h1v-1.5z"/>
-    <path fill="#f00" d="m2 4.6v1.5h1v-1.5z"/>
-    <path fill="#0f0" d="m2 0v1.5h1v-1.5z"/>
-    <path fill="#0f0" d="m2 1.5v1.5h1v-1.5z"/>
-    <path fill="#0f0" d="m0 3.1v1.5h1v-1.5z"/>
-    <path fill="#0f0" d="m0 4.6v1.5h1v-1.5z"/>
-    <path fill="#00f" d="m1 0v1.5h1v-1.5z"/>
-    <path fill="#00f" d="m1 1.5v1.5h1v-1.5z"/>
-    <path fill="#00f" d="m1 3.1v1.5h1v-1.5z"/>
-    <path fill="#00f" d="m1 4.6v1.5h1v-1.5z"/>
+<svg viewBox="0 0 36.5 36.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="set" stroke="#000" stroke-width=".1">
+    <path fill="#f00" d="m0 0v3h2v-3z"/>
+    <path fill="#f00" d="m0 3v3h2v-3z"/>
+    <path fill="#00f" d="m2 0v3h2v-3z"/>
+    <path fill="#00f" d="m2 3v3h2v-3z"/>
+    <path fill="#0f0" d="m4 0v3h2v-3z"/>
+    <path fill="#0f0" d="m4 3v3h2v-3z"/>
+    <path fill="#0f0" d="m0 6.1v3h2v-3z"/>
+    <path fill="#0f0" d="m0 9.1v3h2v-3z"/>
+    <path fill="#00f" d="m2 6.1v3h2v-3z"/>
+    <path fill="#00f" d="m2 9.1v3h2v-3z"/>
+    <path fill="#f00" d="m4 6.1v3h2v-3z"/>
+    <path fill="#f00" d="m4 9.1v3h2v-3z"/>
   </g>
-  <use xlink:href="#set" transform="translate(0,6.2)"/>
-  <use xlink:href="#set" transform="translate(0,12.4)"/>
-  <use xlink:href="#set" transform="translate(3.1)"/>
-  <use xlink:href="#set" transform="translate(3.1,6.2)"/>
-  <use xlink:href="#set" transform="translate(3.1,12.4)"/>
-  <use xlink:href="#set" transform="translate(6.2)"/>
-  <use xlink:href="#set" transform="translate(6.2,6.2)"/>
-  <use xlink:href="#set" transform="translate(6.2,12.4)"/>
-  <use xlink:href="#set" transform="translate(9.3)"/>
-  <use xlink:href="#set" transform="translate(9.3,6.2)"/>
-  <use xlink:href="#set" transform="translate(9.3,12.4)"/>
-  <use xlink:href="#set" transform="translate(12.4)"/>
-  <use xlink:href="#set" transform="translate(12.4,6.2)"/>
-  <use xlink:href="#set" transform="translate(12.4,12.4)"/>
-  <use xlink:href="#set" transform="translate(15.5)"/>
-  <use xlink:href="#set" transform="translate(15.5,6.2)"/>
-  <use xlink:href="#set" transform="translate(15.5,12.4)"/>
+  <use xlink:href="#set" transform="translate(0,12.2)"/>
+  <use xlink:href="#set" transform="translate(0,24.4)"/>
+  <use xlink:href="#set" transform="translate(6.1)"/>
+  <use xlink:href="#set" transform="translate(6.1 12.2)"/>
+  <use xlink:href="#set" transform="translate(6.1 24.4)"/>
+  <use xlink:href="#set" transform="translate(12.2)"/>
+  <use xlink:href="#set" transform="translate(12.2,12.2)"/>
+  <use xlink:href="#set" transform="translate(12.2,24.4)"/>
+  <use xlink:href="#set" transform="translate(18.3)"/>
+  <use xlink:href="#set" transform="translate(18.3,12.2)"/>
+  <use xlink:href="#set" transform="translate(18.3,24.4)"/>
+  <use xlink:href="#set" transform="translate(24.4)"/>
+  <use xlink:href="#set" transform="translate(24.4,12.2)"/>
+  <use xlink:href="#set" transform="translate(24.4,24.4)"/>
+  <use xlink:href="#set" transform="translate(30.5)"/>
+  <use xlink:href="#set" transform="translate(30.5 12.2)"/>
+  <use xlink:href="#set" transform="translate(30.5 24.4)"/>
 </svg>
