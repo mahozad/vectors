@@ -1,17 +1,14 @@
-<svg viewBox="0 0 36.6 36.6" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 36.6 36.6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <pattern id="pattern" stroke="#000" stroke-width="0.1" width="6.1" height="12.2" patternUnits="userSpaceOnUse">
-    <path fill="#f00" d="m0.05 0.05v3h2v-3z"/>
-    <path fill="#f00" d="m0.05 3.05v3h2v-3z"/>
-    <path fill="#00f" d="m2.05 0.05v3h2v-3z"/>
-    <path fill="#00f" d="m2.05 3.05v3h2v-3z"/>
-    <path fill="#0f0" d="m4.05 0.05v3h2v-3z"/>
-    <path fill="#0f0" d="m4.05 3.05v3h2v-3z"/>
-    <path fill="#0f0" d="m0.05 6.15v3h2v-3z"/>
-    <path fill="#0f0" d="m0.05 9.15v3h2v-3z"/>
-    <path fill="#00f" d="m2.05 6.15v3h2v-3z"/>
-    <path fill="#00f" d="m2.05 9.15v3h2v-3z"/>
-    <path fill="#f00" d="m4.05 6.15v3h2v-3z"/>
-    <path fill="#f00" d="m4.05 9.15v3h2v-3z"/>
+    <g id="main">
+      <path fill="#f00" d="m0.05 0.05v3h2v-3z"/>
+      <path fill="#f00" d="m0.05 3.05v3h2v-3z"/>
+      <path fill="#00f" d="m2.05 0.05v3h2v-3z"/>
+      <path fill="#00f" d="m2.05 3.05v3h2v-3z"/>
+      <path fill="#0f0" d="m4.05 0.05v3h2v-3z"/>
+      <path fill="#0f0" d="m4.05 3.05v3h2v-3z"/>
+    </g>
+    <use xlink:href="#main" x="-6.1" y="6.1" transform="scale(-1 1)"/>
   </pattern>
   <rect fill="url(#pattern)" width="100%" height="100%"/>
 </svg>
