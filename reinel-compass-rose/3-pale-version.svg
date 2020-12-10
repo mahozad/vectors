@@ -1,0 +1,30 @@
+<svg viewBox="-220 -220 440 440" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g opacity=".25">
+    <circle fill="#1b1b1b" r="7"/>
+    <g fill="none" stroke="#494949" stroke-width="8">
+      <circle r="75"/>
+      <circle r="211"/>
+    </g>
+    <g fill="none" stroke="#1b1b1b">
+      <circle r="71"/>
+      <circle r="79"/>
+      <circle r="94"/>
+      <circle r="152"/>
+      <circle r="164"/>
+      <circle r="207"/>
+    </g>
+    <g id="s3">
+      <g id="s2">
+        <g id="s1">
+          <defs><path id="s0" stroke="#1b1b1b" d="m39.416 95.16c-5.766 8.79-8.656 15.34-10.486 22.02-13.69-3.75-15.39 9.97-5.89 13.82-9.33 14.8-15.2 42.93-23.04 81v-109a103 103 0 0 0 39.416-7.84z"/></defs>
+          <use xlink:href="#s0" fill="#1b1b1b"/>
+          <use xlink:href="#s0" fill="#616161" transform="scale(-1 1)"/>
+          <path fill="#7b7b7b" stroke="#1b1b1b" d="m-91.114 136.36c17.907 11.965 37.996 20.286 59.119 24.488-15.638 3.536-27.329 4.322-46.838 29.47 3.9878-31.577-3.723-40.4-12.281-53.958z"/>
+        </g>
+        <use xlink:href="#s1" transform="rotate(45)"/>
+      </g>
+      <use xlink:href="#s2" transform="rotate(90)"/>
+    </g>
+    <use xlink:href="#s3" transform="scale(-1)"/>
+  </g>
+</svg>
