@@ -19,7 +19,7 @@
         <use xlink:href="#s0" fill="#007cc3" transform="scale(-1 1)"/>
         <path fill="#da251d" stroke="#1b1b1b" d="m-31.995 160.849a164 164 0 0 0 63.99 0c-13.095 9.251-23.595 14.451-31.995 45.151-8.4-30.7-18.9-35.9-31.995-45.151z" transform="matrix(.92387953 .38268343 -.38268343 .92387953 0 0)"/>
       </g>
-      <use xlink:href="#s1" transform="matrix(.70710678 .70710678 -.70710678 .70710678 0 0)"/>
+      <use xlink:href="#s1" transform="rotate(45)"/>
     </g>
     <use xlink:href="#s2" transform="rotate(90)"/>
   </g>
