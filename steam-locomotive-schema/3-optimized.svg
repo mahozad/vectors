@@ -79,16 +79,12 @@
       <feComposite in2="SourceGraphic" operator="in" result="composite5"/>
     </filter>
     <linearGradient id="linearGradient16473" x1="948" x2="955.51" y1="1280.5" y2="1280.5" gradientTransform="matrix(1.411 0 0 1.411 -403.96 -353)" gradientUnits="userSpaceOnUse" spreadMethod="repeat">
-      <stop stop-color="#e5e5e5" offset="0"/>
-      <stop stop-color="#e5e5e5" offset=".48305"/>
-      <stop stop-color="#595959" offset=".48305"/>
-      <stop stop-color="#595959" offset="1"/>
+      <stop stop-color="#e5e5e5" offset=".5"/>
+      <stop stop-color="#666" offset=".5"/>
     </linearGradient>
     <linearGradient id="linearGradient16676" x1="1585" x2="1582.7" y1="1368" y2="1371.6" gradientTransform="matrix(1.411 0 0 1.411 -403.96 -353)" gradientUnits="userSpaceOnUse" spreadMethod="repeat">
-      <stop stop-color="#d9d9d9" offset="0"/>
-      <stop stop-color="#d9d9d9" offset=".56969"/>
-      <stop stop-color="#808080" offset=".56969"/>
-      <stop stop-color="#808080" offset="1"/>
+      <stop stop-color="#d9d9d9" offset=".5"/>
+      <stop stop-color="#a0a0a0" offset=".5"/>
     </linearGradient>
     <linearGradient id="linearGradient16682" xlink:href="#linearGradient2517" x1="441" x2="441" y1="940" y2="924" gradientTransform="matrix(1.411 0 0 1.411 -403.96 -353)" gradientUnits="userSpaceOnUse" spreadMethod="reflect"/>
     <linearGradient id="linearGradient16702" xlink:href="#linearGradient2517" x1="441" x2="441" y1="940" y2="924" gradientTransform="matrix(1.411 0 0 1.411 -233.93 -353)" gradientUnits="userSpaceOnUse" spreadMethod="reflect"/>
@@ -96,7 +92,7 @@
     <linearGradient id="linearGradient1587" xlink:href="#linearGradient2501" x1="380" x2="444" y1="880" y2="864" gradientTransform="matrix(1.411 0 0 1.411 -403.96 -353)" gradientUnits="userSpaceOnUse" spreadMethod="reflect"/>
     <linearGradient id="linearGradient1609" xlink:href="#linearGradient2517" x1="441" x2="441" y1="940" y2="924" gradientTransform="matrix(1.411 0 0 1.411 -403.96 -483.51)" gradientUnits="userSpaceOnUse" spreadMethod="reflect"/>
     <marker id="dot" overflow="visible" orient="auto">
-      <circle r="4"/>
+      <circle r="4" fill="#000"/>
     </marker>
     <linearGradient id="linearGradient1587-4" xlink:href="#linearGradient2501" x1="380" x2="444" y1="880" y2="864" gradientTransform="matrix(1.411 0 0 1.411 -403.99 -1135.4)" gradientUnits="userSpaceOnUse" spreadMethod="reflect"/>
   </defs>
@@ -444,7 +440,7 @@
   <path fill="#e9e9e9" stroke="#000" d="m1931.3 670.66v4.2329h-86.073c-7.7412 0-15.029-6.1054-19.754-11.288l-43.742-47.973c-4.3561-4.7775-6.3842-7.0548-16.932-7.0548h-730.91v-4.2329h728.09c6.9806 0 13.879-0.73522 19.754 5.6439l47.975 52.088c8.5546 9.2881 15.281 8.5312 18.343 8.5831z"/>
   <path fill="#e5e6e5" stroke="#000" d="m1931.3 727.09h-90.306l-62.085-69.137h-745.02v-5.6439h745.02l62.085 67.726h90.306z"/>
   <path fill="#e9e9e9" stroke="#000" d="m1931.3 621.27v4.2329h-86.073c-7.7412 0-15.029-6.1054-19.754-11.288l-43.742-47.973c-4.3561-4.7775-6.3842-7.0548-16.932-7.0548h-730.91v-4.2329h728.09c6.9806 0 13.886-0.74182 19.754 5.6439l47.975 52.206c8.5442 9.2977 15.281 8.4139 18.343 8.4658z"/>
-  <path fill="#808080" stroke="#000" d="m1358.4 1443.2h9.8772v2.8219h-7.0552v7.0548h-2.822z"/>
+  <path fill="#a0a0a0" stroke="#000" d="m1358.4 1443.2h9.8772v2.8219h-7.0552v7.0548h-2.822z"/>
   <rect width="68.667" height="67.726" fill="#b6b594" stroke="#000" stroke-linecap="square" x="877.37" y="1293.6" rx="4.2331" ry="4.2329"/>
   <rect width="33.865" height="67.726" fill="#b6b594" stroke="#000" stroke-linecap="square" x="820.11" y="1293.6" rx="4.2331" ry="4.2329"/>
   <path fill="#8d8d8d" stroke="#000" d="m1843.8 1354.3v66.315c4.2331 0 9.8772-4.2329 9.8772-8.4658v-57.85m-9.8772 0v-66.315c4.2331 0 9.8772 4.2329 9.8772 8.4658v57.85" fill-opacity=".29804"/>
@@ -492,10 +488,10 @@
     <path fill="none" d="m1324.5 1549h-2.83"/>
   </g>
   <path fill="#d8d9d8" stroke="#000" d="m1519.3 1443.2v57.85h4.2331v-57.85z"/>
-  <path fill="#808080" stroke="#000" d="m1358.4 1489.7v9.8768h2.822v-9.8768z"/>
+  <path fill="#a0a0a0" stroke="#000" d="m1358.4 1489.7v9.8768h2.822v-9.8768z"/>
   <path fill="#d8d9d8" stroke="#000" d="m1358.4 1499.6v-56.439h-4.2331v56.439z"/>
   <path fill="#d9d9d9" stroke="#000" d="m902.65 1515.1h-109.83l-0.2271 52.206h53.619v-18.343l8.4662-8.4658h39.509l8.4662 8.4658v18.343h39.509v-52.206z"/>
-  <path fill="#808080" stroke="#000" d="m1160.9 1492.5v9.8767h-2.822v9.8768h-4.2331v4.2329h19.754v38.096h-16.932v4.2329h22.576v-46.562h-1.411v-9.8768h-7.0551v-9.1949z"/>
+  <path fill="#a0a0a0" stroke="#000" d="m1160.9 1492.5v9.8767h-2.822v9.8768h-4.2331v4.2329h19.754v38.096h-16.932v4.2329h22.576v-46.562h-1.411v-9.8768h-7.0551v-9.1949z"/>
   <path fill="#d9d9d9" stroke="#000" d="m1070.6 1594.2h115.71v-31.041h-115.71c6.2351 10.178 3.4964 20.6 0 31.041z"/>
   <path fill="#bfbfbf" stroke="#000" d="m933.69 1453.8v23.239l108.65 94.417v22.122l52.208-24.917v-22.37l62.085-49.498v-14.773z"/>
   <path fill="none" stroke="#000" d="m1139.9 1510.2-196.89-24.922"/>
@@ -581,7 +577,7 @@
   <path fill="#bfbfbf" stroke="#000" d="m1508 1263.3v-7.7603h19.754v7.7603"/>
   <use width="100%" height="100%" xlink:href="#g1454" transform="matrix(-1 0 0 1 2697.8 0)"/>
   <use width="100%" height="100%" xlink:href="#g1454" transform="translate(340.06)"/>
-  <path fill="#808080" stroke="#000" d="m946.78 1376.6-3.843-0.9755-10.705 42.169 3.8431 0.9755z"/>
+  <path fill="#a0a0a0" stroke="#000" d="m946.78 1376.6-3.843-0.9755-10.705 42.169 3.8431 0.9755z"/>
   <path fill="#cfcfcf" stroke="#000" d="m1361.6 1519.4-3.8486 8.4658v15.521h-17.666v-15.521l-3.884-8.4658z"/>
   <path fill="#cfcfcf" stroke="#000" d="m1381.3 1561.7c2.9399-0.639 5.6441-3.4478 5.6441-7.0548s-2.7042-6.4158-5.6441-7.0548l-32.454-7.0549-32.454 7.0549c-2.9399 0.639-5.6442 3.4478-5.6442 7.0548s2.7043 6.4158 5.6442 7.0548l32.454 7.0548z"/>
   <ellipse fill="none" stroke="#000" stroke-linejoin="round" cx="1348.9" cy="1554.6" rx="5.6441" ry="5.6439"/>
@@ -591,7 +587,7 @@
   <ellipse fill="none" stroke="#000" stroke-linejoin="round" cx="1348.9" cy="1515.1" rx="2.8221" ry="2.8219"/>
   <ellipse fill="none" stroke="#000" stroke-linejoin="round" cx="1333.4" cy="1519.4" rx="2.8221" ry="2.8219"/>
   <ellipse fill="none" stroke="#000" stroke-linejoin="round" cx="1364.4" cy="1519.4" rx="2.8221" ry="2.8219"/>
-  <path fill="#808080" stroke="#000" d="m1523.5 1443.2h9.8772v2.8219h-7.0551v7.0548h-2.8221z"/>
+  <path fill="#a0a0a0" stroke="#000" d="m1523.5 1443.2h9.8772v2.8219h-7.0551v7.0548h-2.8221z"/>
   <ellipse id="path2594" fill="#bfbfbf" stroke="#000" stroke-linejoin="round" cx="1518.9" cy="1567.3" rx="3.5276" ry="3.5274"/>
   <use width="100%" height="100%" id="use2596" xlink:href="#path2594" transform="translate(0 -53.617)"/>
   <use width="100%" height="100%" id="use2598" xlink:href="#use2596" transform="translate(-20.813)"/>
@@ -599,10 +595,10 @@
   <use width="100%" height="100%" id="use2602" xlink:href="#use2600" transform="translate(0 -13.404)"/>
   <use width="100%" height="100%" id="use2604" xlink:href="#use2602" transform="translate(0 -13.404)"/>
   <use width="100%" height="100%" xlink:href="#use2604" transform="translate(-10.406 -13.404)"/>
-  <path fill="#808080" stroke="#000" d="m1524.9 1523.6h4.2331v-22.575h-9.8772v-15.521h-16.932v22.576h4.233v-18.343h7.0552v18.343h4.2331v-2.8219h7.0551z"/>
-  <path fill="#808080" stroke="#000" d="m1663.2 1529.2 4.2331 4.2329v32.452l-4.2331 4.2329h-8.4662l-4.2331-4.2329v-32.452l4.2331-4.2329z"/>
+  <path fill="#a0a0a0" stroke="#000" d="m1524.9 1523.6h4.2331v-22.575h-9.8772v-15.521h-16.932v22.576h4.233v-18.343h7.0552v18.343h4.2331v-2.8219h7.0551z"/>
+  <path fill="#a0a0a0" stroke="#000" d="m1663.2 1529.2 4.2331 4.2329v32.452l-4.2331 4.2329h-8.4662l-4.2331-4.2329v-32.452l4.2331-4.2329z"/>
   <path fill="#d7d7d7" stroke="#000" stroke-linejoin="round" d="m1653.3 1533.5v31.041h11.288v-31.041zm5.5753 2.8219a2.8221 2.8219 0 0 1 0.069 0 2.8221 2.8219 0 0 1 2.8221 2.822 2.8221 2.8219 0 0 1-2.8221 2.8219 2.8221 2.8219 0 0 1-2.8221-2.8219 2.8221 2.8219 0 0 1 2.7532-2.822zm0 19.754a2.8221 2.8219 0 0 1 0.069 0 2.8221 2.8219 0 0 1 2.8221 2.822 2.8221 2.8219 0 0 1-2.8221 2.8219 2.8221 2.8219 0 0 1-2.8221-2.8219 2.8221 2.8219 0 0 1 2.7504-2.822z"/>
-  <path fill="#808080" stroke="#000" d="m1644.9 1547.6h-4.2331v38.096h25.399v-5.6438h-21.166z"/>
+  <path fill="#a0a0a0" stroke="#000" d="m1644.9 1547.6h-4.2331v38.096h25.399v-5.6438h-21.166z"/>
   <path fill="none" stroke="#000" d="m1724.6 1447.4v-4.2329"/>
   <path fill="none" stroke="#000" d="m1790.2 1447.4v-4.2329"/>
   <path fill="#c4c4c4" stroke="#000" d="m1646.3 1591.3v-5.6439h172.15v5.6439z"/>
@@ -614,20 +610,20 @@
   <ellipse fill="none" stroke="#000" stroke-linejoin="round" cx="1769" cy="1549" rx="2.8221" ry="2.8219"/>
   <ellipse fill="none" stroke="#000" stroke-linejoin="round" cx="1791.6" cy="1549" rx="2.8221" ry="2.8219"/>
   <ellipse fill="none" stroke="#000" stroke-linejoin="round" cx="1780.3" cy="1549" rx="2.8221" ry="2.8219"/>
-  <path fill="#808080" stroke="#000" d="m1931.3 1509.5h-5.6441v43.74h5.6442z"/>
+  <path fill="#a0a0a0" stroke="#000" d="m1931.3 1509.5h-5.6441v43.74h5.6442z"/>
   <path fill="#e5e5e5" stroke="#000" d="m1736.6 1461.3v36.888c0 3.0113 2.2783 4.2329 4.2331 4.2329h33.159c1.9549 0 4.2331-1.2216 4.2331-4.2329v-36.888m11.994-18.14v95.936h-65.613v-95.936z"/>
   <path id="path2752" fill="#ccc" stroke="#000" stroke-linejoin="round" d="m1724.6 1490.6c22.66-4.7512 38.81-24.278 38.81-47.431h-19.754c0 11.905-7.9062 22.107-19.052 26.292"/>
   <use width="100%" height="100%" xlink:href="#path2752" transform="matrix(-1 0 0 1 3514.8 0)"/>
   <path fill="#d6d6d6" stroke="#000" stroke-linejoin="round" d="m1771.1 1413.5v39.86c0 7.6213-6.1359 13.757-13.758 13.757s-13.758-6.1356-13.758-13.757v-39.86z"/>
   <path fill="#d6d6d6" stroke="#000" stroke-linejoin="round" d="m1766.9 1391 4.2331 22.576h-27.515l4.2331-22.576z"/>
-  <path fill="#808080" stroke="#000" d="m1839.6 1553.2v-4.2329h11.288v-5.6438h5.6441v-9.8768h32.454v9.8768h5.6441v5.6438h12.699v4.2329h-14.11v-5.6438h-16.932v-7.0549h4.233v-5.0587h-14.11v5.0587h4.2331v7.0549h-18.343v5.6438z"/>
+  <path fill="#a0a0a0" stroke="#000" d="m1839.6 1553.2v-4.2329h11.288v-5.6438h5.6441v-9.8768h32.454v9.8768h5.6441v5.6438h12.699v4.2329h-14.11v-5.6438h-16.932v-7.0549h4.233v-5.0587h-14.11v5.0587h4.2331v7.0549h-18.343v5.6438z"/>
   <path fill="#a6a6a6" stroke="#000" d="m1925.6 1549v4.2329h-66.318l-2.8221-5.6438h36.687v1.4109z"/>
   <path fill="#b2b2b2" stroke="#000" d="m1929.9 1598.4v2.822h-112.88v-2.822z"/>
   <rect width="14.11" height="21.164" id="rect2801" fill="url(#linearGradient16676)" stroke="#000" stroke-linejoin="round" x="1818.4" y="1577.2"/>
   <use width="100%" height="100%" xlink:href="#rect2801" transform="translate(95.95)"/>
   <path fill="#b2b2b2" stroke="#000" d="m1548.9 1292.9h170.38v-19.754h-170.38z"/>
-  <path fill="none" stroke="#000" stroke-linejoin="round" stroke-dasharray="2, 1" d="m1719.3 1292.9c15.586 0 28.221 12.634 28.221 28.219h19.754c0-26.495-21.479-47.973-47.975-47.973"/>
-  <path fill="none" stroke="#000" stroke-linejoin="round" stroke-dasharray="2, 1" d="m1767.2 1321.1v37.404c0 5.4641-4.3992 9.8631-9.8636 9.8631-5.4643 0-9.8635-4.399-9.8635-9.8631v-37.404z" stroke-dashoffset="1.5"/>
+  <path fill="none" stroke="#000" stroke-width=".7" stroke-linejoin="round" stroke-dasharray="2, 1" d="m1719.3 1292.9c15.586 0 28.221 12.634 28.221 28.219h19.754c0-26.495-21.479-47.973-47.975-47.973"/>
+  <path fill="none" stroke="#000" stroke-width=".7" stroke-linejoin="round" stroke-dasharray="2, 1" stroke-dashoffset="1.3" d="m1767.2 1321.1v37.404c0 5.4641-4.3992 9.8631-9.8636 9.8631-5.4643 0-9.8635-4.399-9.8635-9.8631v-37.404z"/>
   <rect width="8.4662" height="26.808" fill="#ccc" stroke="#000" stroke-linejoin="round" x="1623.7" y="1269.6" rx="0" ry="0"/>
   <rect width="57.852" height="26.808" fill="#ccc" stroke="#000" stroke-linejoin="round" x="1639.2" y="1269.6" rx="0" ry="0"/>
   <rect width="8.4662" height="26.808" fill="#ccc" stroke="#000" stroke-linejoin="round" x="1704.1" y="1269.6" rx="0" ry="0"/>
