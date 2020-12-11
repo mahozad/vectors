@@ -13,6 +13,8 @@ Arrow character: 🡲
 
 #
 
+[Wikimedia SVG checker](https://commons.wikimedia.org/wiki/Commons:Commons_SVG_Checker)
+
 Scheme vs Schema:  
 The word **Schema** is used for diagrams and models.
 
