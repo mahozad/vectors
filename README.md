@@ -14,6 +14,8 @@ Arrow character: 🡲
 #
 
 [Wikimedia SVG checker](https://commons.wikimedia.org/wiki/Commons:Commons_SVG_Checker)
+[SVG Support table](https://razrfalcon.github.io/resvg-test-suite/svg-support-table.html)
+Wikimedia uses *librsvg* for creating SVG previews
 
 Scheme vs Schema:  
 The word **Schema** is used for diagrams and models.
