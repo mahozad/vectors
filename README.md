@@ -32,6 +32,10 @@ For help on how to use SVG images on GitHub see [this post](https://stackoverflo
 
 ---
 
+For how to show RTL language along paths see [this post](https://stackoverflow.com/q/24849981/)
+
+---
+
 To reference files from other wikipedia languages prefix its name with the language code.
 For example [[fa:logo.svg]]. See [this help page](https://en.wikipedia.org/wiki/Help:Interlanguage_links) for more info
 
