@@ -1,0 +1,69 @@
+<svg viewBox="0 0 512 512" version="1.1" width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @font-face {
+    font-family: Vazir;
+    src: url('Vazir-Regular.eot');
+    src: url('Vazir-Regular.eot?#iefix') format('embedded-opentype'),
+    url('Vazir-Regular.woff2') format('woff2'),
+    url('Vazir-Regular.woff') format('woff'),
+    url('Vazir-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    }
+    @font-face {
+    font-family: Vazir;
+    src: url('Vazir-Bold.eot');
+    src: url('Vazir-Bold.eot?#iefix') format('embedded-opentype'),
+    url('Vazir-Bold.woff2') format('woff2'),
+    url('Vazir-Bold.woff') format('woff'),
+    url('Vazir-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    }
+    @font-face {
+    font-family: Vazir;
+    src: url('Vazir-Black.eot');
+    src: url('Vazir-Black.eot?#iefix') format('embedded-opentype'),
+    url('Vazir-Black.woff2') format('woff2'),
+    url('Vazir-Black.woff') format('woff'),
+    url('Vazir-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    }
+    @font-face {
+    font-family: Vazir;
+    src: url('Vazir-Medium.eot');
+    src: url('Vazir-Medium.eot?#iefix') format('embedded-opentype'),
+    url('Vazir-Medium.woff2') format('woff2'),
+    url('Vazir-Medium.woff') format('woff'),
+    url('Vazir-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    }
+    @font-face {
+    font-family: Vazir;
+    src: url('Vazir-Light.eot');
+    src: url('Vazir-Light.eot?#iefix') format('embedded-opentype'),
+    url('Vazir-Light.woff2') format('woff2'),
+    url('Vazir-Light.woff') format('woff'),
+    url('Vazir-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    }
+    @font-face {
+    font-family: Vazir;
+    src: url('Vazir-Thin.eot');
+    src: url('Vazir-Thin.eot?#iefix') format('embedded-opentype'),
+    url('Vazir-Thin.woff2') format('woff2'),
+    url('Vazir-Thin.woff') format('woff'),
+    url('Vazir-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    }
+  </style>
+
+  <text fill="#000" font-family="Vazir" x="148.56" y="266.43" font-size="40px">
+    <tspan>ادبیات فارسی تاریخی هزار و صد ساله دارد. شعر فارسی و نثر  فارسی دو گونه اصلی در ادب فارسی هستند. برخی کتاب‌های ادبی در موضوعات غیر ادبی مانند تاریخ، مناجات و علوم گوناگون نیز دارای ارزش ادبی هستند و با گذشت زمان در زمره آثار کلاسیک ادبیات فارسی قرار گرفته‌اند. آوازه برخی شاعران و نویسندگان ایرای از مرزهای ایران فراتر رفته است. شاعران و نویسندگانی نظیر فردوسی، سعدی، حافظ شیرازی، مولوی، عمر خیام و نظامی شهرتی جهانی دارند</tspan>
+    <tspan fill="#ffbf00">«نمونه متن با فونت وزیر»</tspan>
+  </text>
+</svg>
