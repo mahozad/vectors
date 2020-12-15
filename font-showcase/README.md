@@ -1,9 +1,9 @@
-It seems that GitHub sanitazation doesn't removes certain features of SVGs like
-scripts or external references in styles (even embedded base64 data).
+It seems that browser [content security policy](https://content-security-policy.com/) and GitHub [sanitization](https://blobfolio.com/2017/when-a-stranger-calls-sanitizing-svgs/) doesn't allow certain features of SVGs like
+scripts or external references in styles (even embedded base64 data) (See [this](https://stackoverflow.com/q/50560054)).
 
 GitHub changelog is available [here](https://github.blog/changelog/).
 
-I made a ticket at [GitHub feedback page](https://support.github.com/contact/feedback). Its content was as follows:
+I made a ticket at [GitHub feedback page](https://support.github.com/contact/feedback). It went as follows:
 
 Hello,
 
