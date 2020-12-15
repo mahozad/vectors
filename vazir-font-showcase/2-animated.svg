@@ -1,4 +1,4 @@
-<svg viewBox="0 0 512 512" version="1.1" width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 512 184" xmlns="http://www.w3.org/2000/svg">
   <style>
     @font-face {
       font-family: Sahel;
@@ -50,19 +50,17 @@
       font-weight: 900;
     }
   </style>
-
-  <text fill="#000" font-family="Sahel" x="148.56" y="266.43" font-size="40px">
-    <tspan direction="rtl">فونت ساحل</tspan>
-
-    <animate id="anim1" attributeName="font-weight" from="300" to="400" dur="0.3s" begin="0s; anim10.end"/>
-    <animate id="anim2" attributeName="font-weight" from="400" to="600" dur="0.3s" begin="anim1.end"/>
-    <animate id="anim3" attributeName="font-weight" from="600" to="700" dur="0.3s" begin="anim2.end"/>
-    <animate id="anim4" attributeName="font-weight" from="700" to="900" dur="0.3s" begin="anim3.end"/>
-    <animate id="anim5" attributeName="font-weight" from="900" to="900" dur="2s" begin="anim4.end"/>
-    <animate id="anim6" attributeName="font-weight" from="900" to="700" dur="0.3s" begin="anim5.end"/>
-    <animate id="anim7" attributeName="font-weight" from="700" to="600" dur="0.3s" begin="anim6.end"/>
-    <animate id="anim8" attributeName="font-weight" from="600" to="400" dur="0.3s" begin="anim7.end"/>
-    <animate id="anim9" attributeName="font-weight" from="400" to="300" dur="0.3s" begin="anim8.end"/>
-    <animate id="anim10" attributeName="font-weight" from="300" to="300" dur="1s" begin="anim9.end"/>
+  <text fill="#000" x="348.79" y="101.02" font-family="Sahel" font-size="40" direction="rtl">
+    <tspan>فونت ساحل</tspan>
+    <animate id="anim1" attributeName="font-weight" begin="0s; anim10.end" dur="100ms" from="300" to="400"/>
+    <animate id="anim2" attributeName="font-weight" begin="anim1.end" dur="100ms" from="400" to="600"/>
+    <animate id="anim3" attributeName="font-weight" begin="anim2.end" dur="100ms" from="600" to="700"/>
+    <animate id="anim4" attributeName="font-weight" begin="anim3.end" dur="100ms" from="700" to="900"/>
+    <animate id="anim5" attributeName="font-weight" begin="anim4.end" dur="3s" from="900" to="900"/>
+    <animate id="anim6" attributeName="font-weight" begin="anim5.end" dur="100ms" from="900" to="700"/>
+    <animate id="anim7" attributeName="font-weight" begin="anim6.end" dur="100ms" from="700" to="600"/>
+    <animate id="anim8" attributeName="font-weight" begin="anim7.end" dur="100ms" from="600" to="400"/>
+    <animate id="anim9" attributeName="font-weight" begin="anim8.end" dur="100ms" from="400" to="300"/>
+    <animate id="anim10" attributeName="font-weight" begin="anim9.end" dur="3s" from="300" to="300"/>
   </text>
 </svg>
