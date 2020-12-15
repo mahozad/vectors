@@ -26,6 +26,12 @@ To reference a file or article from wikipedia in Commons, do like this:
 
 It seems that browsers do NOT (yet) support mesh gradients
 
+---
+
+For help on how to use SVG images on GitHub see [this post](https://stackoverflow.com/q/13808020)
+
+---
+
 To reference files from other wikipedia languages prefix its name with the language code.
 For example [[fa:logo.svg]]. See [this help page](https://en.wikipedia.org/wiki/Help:Interlanguage_links) for more info
 
