@@ -1,0 +1,78 @@
+<svg viewBox="0 0 512 512" version="1.1" width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @font-face {
+    font-family: Vazir;
+    src: url('Vazir-Regular.eot');
+    src: url('Vazir-Regular.eot?#iefix') format('embedded-opentype'),
+    url('Vazir-Regular.woff2') format('woff2'),
+    url('Vazir-Regular.woff') format('woff'),
+    url('Vazir-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    }
+    @font-face {
+    font-family: Vazir;
+    src: url('Vazir-Bold.eot');
+    src: url('Vazir-Bold.eot?#iefix') format('embedded-opentype'),
+    url('Vazir-Bold.woff2') format('woff2'),
+    url('Vazir-Bold.woff') format('woff'),
+    url('Vazir-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    }
+    @font-face {
+    font-family: Vazir;
+    src: url('Vazir-Black.eot');
+    src: url('Vazir-Black.eot?#iefix') format('embedded-opentype'),
+    url('Vazir-Black.woff2') format('woff2'),
+    url('Vazir-Black.woff') format('woff'),
+    url('Vazir-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    }
+    @font-face {
+    font-family: Vazir;
+    src: url('Vazir-Medium.eot');
+    src: url('Vazir-Medium.eot?#iefix') format('embedded-opentype'),
+    url('Vazir-Medium.woff2') format('woff2'),
+    url('Vazir-Medium.woff') format('woff'),
+    url('Vazir-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    }
+    @font-face {
+    font-family: Vazir;
+    src: url('Vazir-Light.eot');
+    src: url('Vazir-Light.eot?#iefix') format('embedded-opentype'),
+    url('Vazir-Light.woff2') format('woff2'),
+    url('Vazir-Light.woff') format('woff'),
+    url('Vazir-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    }
+    @font-face {
+    font-family: Vazir;
+    src: url('Vazir-Thin.eot');
+    src: url('Vazir-Thin.eot?#iefix') format('embedded-opentype'),
+    url('Vazir-Thin.woff2') format('woff2'),
+    url('Vazir-Thin.woff') format('woff'),
+    url('Vazir-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    }
+  </style>
+
+  <text fill="#000" font-family="Vazir" x="148.56" y="266.43" font-size="40px">
+    <tspan>فونت وزیر</tspan>
+
+    <animate id="anim" attributeName="font-weight" from="100" to="300" dur="1s" begin="0s; anim8.end"/>
+    <animate id="anim2" attributeName="font-weight" from="300" to="400" dur="1s" begin="anim.end"/>
+    <animate id="anim3" attributeName="font-weight" from="400" to="500" dur="1s" begin="anim2.end"/>
+    <animate id="anim4" attributeName="font-weight" from="500" to="700" dur="1s" begin="anim3.end"/>
+    <animate id="anim5" attributeName="font-weight" from="700" to="900" dur="1s" begin="anim4.end"/>
+    <animate id="anim6" attributeName="font-weight" from="900" to="700" dur="1s" begin="anim5.end"/>
+    <animate id="anim7" attributeName="font-weight" from="700" to="500" dur="1s" begin="anim6.end"/>
+    <animate id="anim8" attributeName="font-weight" from="500" to="400" dur="1s" begin="anim7.end"/>
+    <animate id="anim9" attributeName="font-weight" from="400" to="300" dur="1s" begin="anim8.end"/>
+  </text>
+</svg>
