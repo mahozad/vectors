@@ -1,25 +1,25 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 469.92 224.58" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <path id="marker" transform="scale(.5)" d="m5.77 0-8.65 5v-10l8.65 5z"/>
+    <path id="marker" transform="scale(.5)" d="m5.77 0-8.65 5v-10z"/>
     <marker id="marker1" overflow="visible" orient="auto">
-      <use xlink:href="#marker" fill="#f00"/>
+      <use width="100%" height="100%" xlink:href="#marker" fill="#ff0000"/>
     </marker>
     <marker id="marker2" overflow="visible" orient="auto">
-      <use xlink:href="#marker" fill="#0f0"/>
+      <use width="100%" height="100%" xlink:href="#marker" fill="#00ff00"/>
     </marker>
     <marker id="marker3" overflow="visible" orient="auto">
-      <use xlink:href="#marker" fill="#00f"/>
+      <use width="100%" height="100%" xlink:href="#marker" fill="#0000ff"/>
     </marker>
     <marker id="marker4" overflow="visible" orient="auto">
-      <use xlink:href="#marker" fill="#ff0"/>
+      <use width="100%" height="100%" xlink:href="#marker" fill="#ffff00"/>
     </marker>
     <marker id="marker5" overflow="visible" orient="auto">
-      <use xlink:href="#marker" fill="#8d5fd3"/>
+      <use width="100%" height="100%" xlink:href="#marker" fill="#8d5fd3"/>
     </marker>
   </defs>
-  <g stroke-width="2" transform="translate(4.1655,7.1903)">
+  <g stroke-width="2" transform="translate(-16.873,-136.52)">
     <ellipse fill="#ffd74c" cx="54" cy="196" rx="7" ry="17"/>
-    <rect width="13.309" height="33.231" fill="#9aadb1" x="47.346" y="212"/>
+    <rect width="13.309" height="33.231" fill="#9aadb1" x="47.346" y="211"/>
     <path stroke="#8d5fd3" d="M 393.98,282.22 219,288" marker-end="url(#marker5)"/>
     <path stroke="#8d5fd3" d="M 277.79,238.48 389,277" marker-end="url(#marker5)"/>
     <path stroke="#8d5fd3" d="m384 196-100 40" marker-end="url(#marker5)"/>
