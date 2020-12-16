@@ -12,7 +12,11 @@ xlink namespace: xmlns:xlink="http://www.w3.org/1999/xlink"
  - To create an angled object especially if it is composed of multiple sub-objects, it is
    easier to create it in straight horizontal or vertical mode and then rotate it (or the group)
 
-#
+---
+
+[This page](https://commons.wikimedia.org/wiki/Template:Convert_to_SVG) is for *Convert to SVG* template that has links (labeled category) to images that should be converted to SVG
+
+---
 
 [Wikimedia SVG checker](https://commons.wikimedia.org/wiki/Commons:Commons_SVG_Checker)
 [SVG Support table](https://razrfalcon.github.io/resvg-test-suite/svg-support-table.html)
