@@ -1,6 +1,7 @@
 ![logo](./symbol/2-optimized.svg)
 
-Arrow character: 🡲
+Arrow character: 🡲  
+xlink namespace: xmlns:xlink="http://www.w3.org/1999/xlink"
 
 ### Tips and Tricks
 
