@@ -18,6 +18,18 @@ xlink namespace: xmlns:xlink="http://www.w3.org/1999/xlink"
 
 ---
 
+See [the sample marker file](marker.svg) for how to create a simplified marker.
+The marker orientation is aligned with its x axis and its intended beginning
+(that is where it should connect to the path) is placed on (0,0) coordinate.
+
+Use it like this:
+
+    <marker id="arrow" overflow="visible" orient="auto">
+      <path d="..." fill="#000"/>
+    </marker>
+
+---
+
 [Wikimedia SVG checker](https://commons.wikimedia.org/wiki/Commons:Commons_SVG_Checker)
 [SVG Support table](https://razrfalcon.github.io/resvg-test-suite/svg-support-table.html)
 Wikimedia uses *librsvg* for creating SVG previews
@@ -57,7 +69,7 @@ The default sans-serif font of the Inkscape is `Verdana`
 
 Use {{Vector version available|NewImage.svg}} template in old raster pages to show that the vector version is available
 Use {{superseded|File:NewImage.svg}} template to indicate the new version of the image should be used
-Use {{Derived from|OldImage.jpg|display=50}} template to show that the vector is derived from another image.
+Use {{Derived from|OldImage.jpg|display=50}} or {{ef|OldImage.jpg}} templates to show that the vector is derived from another image.
 
 ---
 
