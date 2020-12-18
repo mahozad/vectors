@@ -13,7 +13,7 @@
     <rect width="100%" height="216" fill="#0095ff" y="216" fill-opacity=".35"/>
     <path fill="none" stroke="#0095ff" stroke-width="2.5" d="m256 236v-100" marker-end="url(#arrow1)"/>
     <path fill="none" stroke="#ffe047" stroke-width="2.5" d="m256 236v100" marker-end="url(#arrow2)"/>
-    <g fill="#000" font-family="Times New Roman" font-size="32" letter-spacing="-4">
+    <g fill="#000" font-family="Times New Roman" font-size="32" letter-spacing="-3">
       <text x="249" y="112">
         <tspan>F</tspan><tspan baseline-shift="sub" font-size="65%">a</tspan>
       </text>
