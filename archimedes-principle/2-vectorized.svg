@@ -13,18 +13,15 @@
     <rect width="100%" height="216" fill="#0095ff" y="216" fill-opacity=".35"/>
     <path fill="none" stroke="#0095ff" stroke-width="2.5" d="m256 236v-100" marker-end="url(#arrow1)"/>
     <path fill="none" stroke="#ffe047" stroke-width="2.5" d="m256 236v100" marker-end="url(#arrow2)"/>
-    <g fill="#000" font-family="Times New Roman" font-size="32" letter-spacing="-5">
+    <g fill="#000" font-family="Times New Roman" font-size="32" letter-spacing="-4">
       <text x="249" y="112">
-        <tspan>F</tspan>
-        <tspan baseline-shift="sub" font-size="65%">a</tspan>
+        <tspan>F</tspan><tspan baseline-shift="sub" font-size="65%">a</tspan>
       </text>
       <text x="283.58" y="251.75">
-        <tspan>V</tspan>
-        <tspan baseline-shift="sub" font-size="65%">i</tspan>
+        <tspan>V</tspan><tspan baseline-shift="sub" font-size="65%">i</tspan>
       </text>
       <text x="243" y="378">
-        <tspan>F</tspan>
-        <tspan baseline-shift="sub" font-size="65%">p</tspan>
+        <tspan>F</tspan><tspan baseline-shift="sub" font-size="65%">p</tspan>
       </text>
     </g>
     <circle r="3" cx="256" cy="236"/>
