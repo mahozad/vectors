@@ -1,16 +1,16 @@
 <svg version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <marker id="dot1" overflow="visible" orient="auto">
-      <path d="m1.96 0c0 1.104-0.896 2-2 2s-2-0.896-2-2 0.896-2 2-2 2 0.896 2 2z"/>
+      <circle r="2" fill="#000" stroke="none"/>
     </marker>
     <marker id="dot2" overflow="visible" orient="auto">
-      <path d="m1.96 0c0 1.104-0.896 2-2 2s-2-0.896-2-2 0.896-2 2-2 2 0.896 2 2z" transform="scale(0.6)"/>
+      <circle r="1" fill="#000" stroke="none"/>
     </marker>
     <marker id="arrow1" overflow="visible" orient="auto">
-      <path fill="#18B7CF" d="m-10.69-4.4371 12.019 4.4195-12.019 4.4195c1.9201-2.6093 1.909-6.1792 0-8.8389z"/>
+      <path fill="#18B7CF" stroke="none" d="m-5-4 10 4-10 4z"/>
     </marker>
     <marker id="arrow2" overflow="visible" orient="auto">
-      <path fill="#8db241" d="m-10.69-4.4371 12.019 4.4195-12.019 4.4195c1.9201-2.6093 1.909-6.1792 0-8.8389z"/>
+      <path fill="#8db241" stroke="none" d="m-5-4 10 4-10 4z"/>
     </marker>
   </defs>
 
