@@ -1,5 +1,5 @@
 ![The vector graphic](3-optimized.svg)
 
-Used on [this page](https://en.wikipedia.org/wiki/Renormalization)
+[Wikimedia page](https://commons.wikimedia.org/wiki/File:SelfE.svg)
 
 Created by using `Pattern alogn path` effect along a semi-circle

@@ -1,3 +1,3 @@
 ![The vector graphic](2-vectorized.svg)
 
-Used on [this page](https://en.wikipedia.org/wiki/Optical_spectrometer)
+[Wikimedia page](https://commons.wikimedia.org/wiki/File:Spectrometer.svg)

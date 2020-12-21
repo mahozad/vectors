@@ -1,3 +1,3 @@
 ![The vector graphic](2-vectorized.svg)
 
-Used on [this page](https://en.wikipedia.org/wiki/Archimedes%27_principle)
+[Wikimedia page](https://commons.wikimedia.org/wiki/File:Archimedes_principle.svg)

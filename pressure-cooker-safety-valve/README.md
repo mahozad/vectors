@@ -1,7 +1,7 @@
 ![Perfect badge](../prefect-vector-badge.svg)
 ![The vector graphic](4-optimized.svg)
 
-Used on [this page](https://fa.wikipedia.org/wiki/%D8%B2%D9%88%D8%AF%D9%BE%D8%B2)
+[Wikimedia page](https://commons.wikimedia.org/wiki/File:Pressure_cooker_safety_valve.svg)
 
 The [source file](https://commons.wikimedia.org/wiki/File:Olla_a_presi%C3%B3n_v%C3%A1lvula.png)
 

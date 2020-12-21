@@ -1,5 +1,5 @@
 ![The vector graphic](4-vectorized.svg)
 
-Used heavily on [Wikipedia pages](https://commons.wikimedia.org/wiki/File:Blue_morpho_butterfly.jpg)
+[Wikimedia page](https://commons.wikimedia.org/wiki/File:Exceptional_newcomer.svg)
 
 The generated versions are produced by Vector Magic

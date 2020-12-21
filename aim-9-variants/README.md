@@ -1,3 +1,3 @@
 ![The vector graphic](3-optimized.svg)
 
-Used in [this wikipedia page](https://en.wikipedia.org/wiki/AIM-9_Sidewinder)
+[Wikimedia page](https://commons.wikimedia.org/wiki/File:AIM-9_Variants.svg)

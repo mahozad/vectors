@@ -1,6 +1,6 @@
 ![The vector graphic](3-optimized.svg)
 
-Used on [this page](https://en.wiktionary.org/wiki/protractor)
+[Wikimedia page](https://commons.wikimedia.org/wiki/File:Goniometer-fa.svg)
 
 To create the degree markers, create the first left marker (at 0 degree)
 and then from `Path effects` choose `Rotate copies`. In the properties of

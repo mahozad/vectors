@@ -1,7 +1,7 @@
 ![Perfect badge](../prefect-vector-badge.svg)
 ![The vector graphic](3-optimized.svg)
 
-Used on [this page](https://en.wikipedia.org/wiki/Water-tube_boiler)
+[Wikimedia page](https://commons.wikimedia.org/wiki/File:Water_tube_boiler-numbered.svg)
 
 To create the parallel curved tubes do this:
  1. Create the first (outer) curved tube and the middle straight tube

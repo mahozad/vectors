@@ -1,3 +1,3 @@
 ![The vector graphic](3-optimized.svg)
 
-Used in [this wikipedia page](https://en.wikipedia.org/wiki/JUMP_GIS)
+[Wikimedia page](https://commons.wikimedia.org/wiki/File:Openjump_logo.svg)

@@ -1,7 +1,7 @@
 ![Perfect badge](../prefect-vector-badge.svg)
 ![The vector graphic](6-filled.svg)
 
-Used in [this wikipedia page](https://hu.wikipedia.org/wiki/Fonalgrafika)
+[Wikimedia page](https://commons.wikimedia.org/wiki/File:Filled_flower_sewing_pattern.svg)
 
 Every line in a circle is different from the next line by 15 degrees
 

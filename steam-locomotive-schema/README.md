@@ -1,6 +1,6 @@
 ![The vector graphic](3-optimized.svg)
 
-Used on [this page](https://en.wikipedia.org/wiki/Steam_locomotive)
+[Wikimedia page](https://commons.wikimedia.org/wiki/File:Steam_locomotive-plain.svg)
 
 FIXME: Update stoke width from 1px to some lower value
 (also note that the default value is 1px for those that do not declare it explicitly)

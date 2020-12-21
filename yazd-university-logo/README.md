@@ -1,3 +1,3 @@
 ![The vector graphic](2-vectorized.svg)
 
-Used on [this page](https://en.wikipedia.org/wiki/Yazd_University)
+[Wikimedia page](https://commons.wikimedia.org/wiki/File:Yazd_University_Logo.svg)

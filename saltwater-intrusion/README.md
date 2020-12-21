@@ -1,6 +1,6 @@
 ![The vector graphic](3-optimized.svg)
 
-Used on [this page](https://en.wikipedia.org/wiki/Saltwater_intrusion)
+[Wikimedia page](https://commons.wikimedia.org/wiki/File:Saltwater_intrusion_fa.svg)
 
 Do NOT extract `fill` and `stroke` to the parent `pattern` element as wikipedia won't show it.  
 

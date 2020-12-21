@@ -1,5 +1,5 @@
 ![The vector graphic](3-optimized.svg)
 
-Used in [this wikipedia page](https://en.wikipedia.org/wiki/Lunar_orbit_rendezvous)
+[Wikimedia page](https://commons.wikimedia.org/wiki/File:Lunar_orbit_rendezvous.svg)
 
 FIXME: Fix the tangential snapping of lines to circles
