@@ -21,12 +21,12 @@ val readmes = Files.find(Path.of("."), 5, { path: Path, _ ->
 }.collect(Collectors.toList())
 
 for (readme in readmes) {
-    val last = sequenceOf(*Files.list(readme.parent).collect(Collectors.toList()).toTypedArray())
-            .findLast { it.toFile().name.matches(Regex("\\d-.*\\.svg")) }
+    val vector = sequenceOf(*Files.list(readme.parent).collect(Collectors.toList()).toTypedArray())
+            .findLast { it.toFile().name.matches(Regex("\\d+-.*\\.svg")) }
 
     val content = Files.readString(readme)
-    var i = content.indexOf("Wikimedia page", 0, true)
-    val startParIndex = content.indexOf("(", i)
+    var index = content.indexOf("Wikimedia page", 0, true)
+    val startParIndex = content.indexOf("(", index)
     val endParIndex = content.indexOf(")", startParIndex)
     val link = content.substring((startParIndex + 1)..(endParIndex - 1))
 
@@ -36,8 +36,8 @@ for (readme in readmes) {
 
     // val length = URL(url).openConnection().getHeaderField("content-Length").toLong()
     val length = URL(url).openStream().readAllBytes().size.toLong()
-    print("File://$last ")
-    if (length == last!!.toFile().length()) {
+    print("File://$vector ")
+    if (length == vector!!.toFile().length()) {
         println("The same")
     } else {
         println("Not the same")
