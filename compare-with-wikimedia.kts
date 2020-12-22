@@ -7,51 +7,48 @@ import java.nio.file.Files
 import java.nio.file.Path
 import java.util.stream.Collectors
 
-val WIKIMEDIA_BASE_URL = "https://upload.wikimedia.org/wikipedia/commons/"
-val ignored = listOf(Path.of("./subpixel-arrangement/"))
+val ROOT = Path.of(".")
+val IGNORED = listOf(Path.of("./subpixel-arrangement/"))
+val LINK_LABEL = "Wikimedia page"
+val WIKI_BASE_URL = "https://upload.wikimedia.org/wikipedia/commons/"
 
-val readmes = getAllReadmeFiles()
+val readmes = getReadmeFiles()
 for (readme in readmes) {
     val vector = findVectorFile(readme)
     val imagePage = extractWikimediaLink(readme)
     val imageUrl = extractRawUrl(imagePage)
     val areSynced = compare(vector, imageUrl)
-    println("File://$vector: $areSynced ")
+    println("$vector: $areSynced")
 }
 
-fun getAllReadmeFiles() = Files.find(Path.of("."), 5,
-        { path, _ -> path.toFile().name == "README.md" }
-).filter {
-    val content = Files.readString(it)
-    var index = content.indexOf("Wikimedia page", 0, true)
-    return@filter index >= 0
-}.filter {
-    !ignored.contains(it.parent)
-}.collect(Collectors.toList())
+fun getReadmeFiles() = Files
+        .find(ROOT, 2, { path, _ -> path.endsWith("README.md") })
+        .filter { it.parent !in IGNORED }
+        .filter { Files.readString(it).indexOf(LINK_LABEL) >= 0 }
+        .collect(Collectors.toList())
 
-fun findVectorFile(readme: Path) = readme.parent.toFile().listFiles().findLast { it.name.matches(Regex("\\d+-.*\\.svg")) }
+fun findVectorFile(readme: Path): File? {
+    return readme.parent.toFile()
+            .listFiles().findLast { it.name.matches(Regex("\\d+-.*\\.svg")) }
+}
 
 fun extractWikimediaLink(readme: Path?): URL {
     val content = Files.readString(readme)
-    var index = content.indexOf("Wikimedia page", 0, true)
-    val startParIndex = content.indexOf("(", index)
-    val endParIndex = content.indexOf(")", startParIndex)
-    val link = content.substring((startParIndex + 1)..(endParIndex - 1))
-    return URL(link)
+    var hint = content.indexOf(LINK_LABEL, 0)
+    val startIndex = content.indexOf("(", hint) + 1
+    val endIndex = content.indexOf(")", startIndex) - 1
+    val url = content.substring(startIndex..endIndex)
+    return URL(url)
 }
 
 fun extractRawUrl(link: URL): URL {
     val input = link.openStream()
     val page = InputStreamReader(input).readText()
-    val url = WIKIMEDIA_BASE_URL + page.substringAfter("<a href=\"$WIKIMEDIA_BASE_URL").substringBefore("\"")
+    val url = WIKI_BASE_URL + page.substringAfter("<a href=\"$WIKI_BASE_URL").substringBefore("\"")
     return URL(url)
 }
 
 fun compare(offline: File?, online: URL): Boolean {
     // if (offline!!.length() != online.openConnection().getHeaderField("content-Length").toLong()) return false
-    if (offline!!.readBytes().contentEquals(online.openStream().readAllBytes())) {
-        return true
-    } else {
-        return false
-    }
+    return offline!!.readBytes().contentEquals(online.openStream().readAllBytes())
 }
