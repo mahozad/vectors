@@ -6,12 +6,19 @@ import java.nio.file.Files
 import java.nio.file.Path
 import java.util.stream.Collectors
 
+val ignored = listOf(
+        Path.of("./subpixel-arrangement/"),
+)
+
 val readmes = Files.find(Path.of("."), 5, { path: Path, _ ->
     path.toFile().name == "README.md"
 }).filter {
     val content = Files.readString(it)
     var index = content.indexOf("Wikimedia page", 0, true)
     return@filter index >= 0
+}.filter {
+    println(!ignored.contains(it.parent))
+    !ignored.contains(it.parent)
 }.collect(Collectors.toList())
 
 for (readme in readmes) {
