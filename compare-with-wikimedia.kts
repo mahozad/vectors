@@ -17,7 +17,6 @@ val readmes = Files.find(Path.of("."), 5, { path: Path, _ ->
     var index = content.indexOf("Wikimedia page", 0, true)
     return@filter index >= 0
 }.filter {
-    println(!ignored.contains(it.parent))
     !ignored.contains(it.parent)
 }.collect(Collectors.toList())
 
