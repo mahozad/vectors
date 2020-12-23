@@ -14,9 +14,9 @@ val WIKI_BASE_URL = "https://upload.wikimedia.org/wikipedia/commons/"
 
 for (readme in findReadmeFiles()) {
     val vector = findVectorFile(readme)
-    val pageLink = extractWikiLink(readme)
-    val imageUrl = extractImageRawUrl(pageLink)
-    val areSynced = compare(vector, imageUrl)
+    val wikiLink = extractWikiLink(readme)
+    val wikiVector = getWikiVector(wikiLink)
+    val areSynced = compare(vector, wikiVector)
     println("$vector \t $areSynced")
 }
 
@@ -26,10 +26,11 @@ fun findReadmeFiles() = Files
         .filter { it.toFile().readText().contains(LINK_LABEL) }
         .collect(Collectors.toList())
 
-fun findVectorFile(readme: Path) = readme.parent.toFile()
-        .listFiles().findLast { it.name.matches(Regex("\\d+-.*\\.svg")) }
+fun findVectorFile(readme: Path) = readme.parent.toFile().listFiles().findLast {
+    it.name.matches(Regex("\\d+-.*\\.svg"))
+}!!
 
-fun extractWikiLink(readme: Path?): URL {
+fun extractWikiLink(readme: Path): URL {
     val content = Files.readString(readme)
     var hint = content.indexOf(LINK_LABEL, 0)
     val startIndex = content.indexOf("(", hint) + 1
@@ -37,14 +38,14 @@ fun extractWikiLink(readme: Path?): URL {
     return URL(content.substring(startIndex..endIndex))
 }
 
-fun extractImageRawUrl(link: URL): URL {
+fun getWikiVector(link: URL): File {
     val input = link.openStream()
     val page = InputStreamReader(input).readText()
     val path = page.substringAfter("<a href=\"$WIKI_BASE_URL").substringBefore("\"")
-    return URL("$WIKI_BASE_URL$path")
+    val url = URL("$WIKI_BASE_URL$path")
+    return Files.createTempFile(null, null).toFile().apply {
+        writeBytes(url.readBytes())
+    }
 }
 
-fun compare(offline: File?, online: URL): Boolean {
-    // if (offline!!.length() != online.openConnection().getHeaderField("content-Length").toLong()) return false
-    return offline!!.readBytes() contentEquals online.openStream().readAllBytes()
-}
+fun compare(f1: File, f2: File) = f1.readBytes() contentEquals f2.readBytes()
