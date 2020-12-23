@@ -12,19 +12,18 @@ val IGNORED = listOf(Path.of("./subpixel-arrangement/"))
 val LINK_LABEL = "Wikimedia page"
 val WIKI_BASE_URL = "https://upload.wikimedia.org/wikipedia/commons/"
 
-val readmes = getReadmeFiles()
-for (readme in readmes) {
+for (readme in findReadmeFiles()) {
     val vector = findVectorFile(readme)
     val pageLink = extractWikiLink(readme)
     val imageUrl = extractImageRawUrl(pageLink)
     val areSynced = compare(vector, imageUrl)
-    println("$vector: $areSynced")
+    println("$vector \t $areSynced")
 }
 
-fun getReadmeFiles() = Files
+fun findReadmeFiles() = Files
         .find(ROOT, 2, { path, _ -> path.endsWith("README.md") })
         .filter { it.parent !in IGNORED }
-        .filter { Files.readString(it).indexOf(LINK_LABEL) >= 0 }
+        .filter { it.toFile().readText().contains(LINK_LABEL) }
         .collect(Collectors.toList())
 
 fun findVectorFile(readme: Path) = readme.parent.toFile()
@@ -47,5 +46,5 @@ fun extractImageRawUrl(link: URL): URL {
 
 fun compare(offline: File?, online: URL): Boolean {
     // if (offline!!.length() != online.openConnection().getHeaderField("content-Length").toLong()) return false
-    return offline!!.readBytes().contentEquals(online.openStream().readAllBytes())
+    return offline!!.readBytes() contentEquals online.openStream().readAllBytes()
 }
