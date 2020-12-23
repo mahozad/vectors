@@ -20,6 +20,8 @@ for (readme in findReadmeFiles()) {
     println("$vector \t $areSynced")
 }
 
+waitForUserInputToExit()
+
 fun findReadmeFiles() = Files
         .find(ROOT, 2, { path, _ -> path.endsWith("README.md") })
         .filter { it.parent !in IGNORED }
@@ -49,3 +51,5 @@ fun getWikiVector(link: URL): File {
 }
 
 fun compare(f1: File, f2: File) = f1.readBytes() contentEquals f2.readBytes()
+
+fun waitForUserInputToExit() = System.console()?.readLine()
