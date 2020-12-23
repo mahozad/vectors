@@ -12,7 +12,7 @@ val IGNORED = listOf(Path.of("./subpixel-arrangement/"))
 val LINK_LABEL = "Wikimedia page"
 val WIKI_BASE_URL = "https://upload.wikimedia.org/wikipedia/commons/"
 
-for (readme in findReadmeFiles()) {
+for (readme in readmeFiles()) {
     val vector = findVectorFile(readme)
     val wikiLink = extractWikiLink(readme)
     val wikiVector = getWikiVector(wikiLink)
@@ -22,14 +22,14 @@ for (readme in findReadmeFiles()) {
 
 waitForUserInputToExit()
 
-fun findReadmeFiles() = Files
-        .find(ROOT, 2, { path, _ -> path.endsWith("README.md") })
+fun readmeFiles() = Files
+        .find(ROOT, 2, { it, _ -> it.endsWith("README.md") })
         .filter { it.parent !in IGNORED }
         .filter { it.toFile().readText().contains(LINK_LABEL) }
         .collect(Collectors.toList())
 
 fun findVectorFile(readme: Path) = readme.parent.toFile().listFiles().findLast {
-    it.name.matches(Regex("\\d+-.*\\.svg"))
+    it.name.matches(Regex("""\d+-.*\.svg"""))
 }!!
 
 fun extractWikiLink(readme: Path): URL {
