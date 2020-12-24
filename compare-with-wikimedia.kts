@@ -11,13 +11,16 @@ val ROOT = Path.of(".")
 val IGNORED = listOf(File("./subpixel-arrangement/"))
 val LINK_LABEL = "[Wikimedia page]"
 val WIKI_BASE_URL = "https://upload.wikimedia.org/wikipedia/commons/"
+val ANSI_RESET = "\u001B[00m"
+val ANSI_GREEN = "\u001B[32m"
+val ANSI_RED = "\u001B[31m"
 
 for (readme in readmeFiles()) {
     val vector = findVectorFile(readme)
     val wikiLink = extractWikiLink(readme)
     val wikiVector = loadWikiVector(wikiLink)
     val areSynced = compare(vector, wikiVector)
-    println("$vector \t $areSynced")
+    prettyPrint(vector, areSynced)
 }
 
 waitForUserInputToExit()
@@ -50,3 +53,10 @@ fun waitForUserInputToExit() = System.console()?.readLine()
 fun createTempFile() = Files.createTempFile(null, null).toFile()
 
 fun String.substringBetween(s1: String, s2: String) = substringAfter(s1).substringBefore(s2)
+
+fun prettyPrint(vector: File, areSynced: Boolean) {
+    println("├────────────────────────────────┼─────────┤")
+    val name = vector.parent.removePrefix(".\\").removePrefix("./")
+    val label = if (areSynced) "${ANSI_GREEN}identical" else "${ANSI_RED}different"
+    println(String.format("│%-32s│$label$ANSI_RESET│", name))
+}
