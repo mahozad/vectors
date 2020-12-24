@@ -8,14 +8,14 @@ import java.nio.file.Path
 import java.util.stream.Collectors
 
 val ROOT = Path.of(".")
-val IGNORED = listOf(Path.of("./subpixel-arrangement/"))
-val LINK_LABEL = "Wikimedia page"
+val IGNORED = listOf(File("./subpixel-arrangement/"))
+val LINK_LABEL = "[Wikimedia page]"
 val WIKI_BASE_URL = "https://upload.wikimedia.org/wikipedia/commons/"
 
 for (readme in readmeFiles()) {
     val vector = findVectorFile(readme)
     val wikiLink = extractWikiLink(readme)
-    val wikiVector = getWikiVector(wikiLink)
+    val wikiVector = loadWikiVector(wikiLink)
     val areSynced = compare(vector, wikiVector)
     println("$vector \t $areSynced")
 }
@@ -24,32 +24,29 @@ waitForUserInputToExit()
 
 fun readmeFiles() = Files
         .find(ROOT, 2, { it, _ -> it.endsWith("README.md") })
-        .filter { it.parent !in IGNORED }
-        .filter { it.toFile().readText().contains(LINK_LABEL) }
+        .map { it.toFile() }
+        .filter { it.parentFile !in IGNORED }
+        .filter { it.readText().contains(LINK_LABEL) }
         .collect(Collectors.toList())
 
-fun findVectorFile(readme: Path) = readme.parent.toFile().listFiles().findLast {
+fun findVectorFile(readme: File) = readme.parentFile.listFiles().findLast {
     it.name.matches(Regex("""\d+-.*\.svg"""))
 }!!
 
-fun extractWikiLink(readme: Path): URL {
-    val content = Files.readString(readme)
-    var hint = content.indexOf(LINK_LABEL, 0)
-    val startIndex = content.indexOf("(", hint) + 1
-    val endIndex = content.indexOf(")", startIndex) - 1
-    return URL(content.substring(startIndex..endIndex))
-}
+fun extractWikiLink(readme: File) = URL(readme.readText().substringBetween("$LINK_LABEL(", ")"))
 
-fun getWikiVector(link: URL): File {
+fun loadWikiVector(link: URL): File {
     val input = link.openStream()
     val page = InputStreamReader(input).readText()
-    val path = page.substringAfter("<a href=\"$WIKI_BASE_URL").substringBefore("\"")
+    val path = page.substringBetween("<a href=\"$WIKI_BASE_URL", "\"")
     val url = URL("$WIKI_BASE_URL$path")
-    return Files.createTempFile(null, null).toFile().apply {
-        writeBytes(url.readBytes())
-    }
+    return createTempFile().apply { writeBytes(url.readBytes()) }
 }
 
 fun compare(f1: File, f2: File) = f1.readBytes() contentEquals f2.readBytes()
 
 fun waitForUserInputToExit() = System.console()?.readLine()
+
+fun createTempFile() = Files.createTempFile(null, null).toFile()
+
+fun String.substringBetween(s1: String, s2: String) = substringAfter(s1).substringBefore(s2)
