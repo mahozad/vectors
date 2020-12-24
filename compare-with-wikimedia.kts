@@ -21,7 +21,7 @@ for (readme in readmeFiles()) {
     prettyPrint(vector, areIdentical)
 }
 
-waitForUserInputToExit()
+waitUntilUserHitsEnter()
 
 fun readmeFiles() = Files
         .find(ROOT, 2, { it, _ -> it.endsWith("README.md") })
@@ -44,9 +44,9 @@ fun loadWikiVector(link: URL): File {
 
 fun compare(f1: File, f2: File) = f1.readBytes() contentEquals f2.readBytes()
 
-fun waitForUserInputToExit() = System.console()?.readLine()
-
 fun createTempFile() = Files.createTempFile(null, null).toFile()
+
+fun waitUntilUserHitsEnter() = System.console()?.readLine()
 
 fun String.substringBetween(s1: String, s2: String) = substringAfter(s1).substringBefore(s2)
 
