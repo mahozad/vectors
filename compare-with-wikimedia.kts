@@ -55,8 +55,8 @@ fun createTempFile() = Files.createTempFile(null, null).toFile()
 fun String.substringBetween(s1: String, s2: String) = substringAfter(s1).substringBefore(s2)
 
 fun prettyPrint(vector: File, areSynced: Boolean) {
-    println("├────────────────────────────────┼─────────┤")
     val name = vector.parent.removePrefix(".\\").removePrefix("./")
     val label = if (areSynced) "${ANSI_GREEN}identical" else "${ANSI_RED}different"
+    println(String.format("├%-32s┼%9s┤", "─", "─").replace(' ', '─'))
     println(String.format("│%-32s│$label$ANSI_RESET│", name))
 }
