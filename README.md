@@ -24,6 +24,9 @@ and add `-script` (to *execute* the script instead of *compiling* it) and
 
 See [this](https://superuser.com/q/361816) for more info
 
+To enable ASCII colors in CMD go to `HKEY_CURRENT_USER\Console\` 🡲 `VirtualTerminalLevel`
+and set its value to `1` (create this key with type *DWORD* if it does not exist)
+
 ---
 
 [This page](https://commons.wikimedia.org/wiki/Template:Convert_to_SVG) is for *Convert to SVG* template that has links (labeled category) to images that should be converted to SVG
