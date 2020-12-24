@@ -5,22 +5,21 @@ import java.io.InputStreamReader
 import java.net.URL
 import java.nio.file.Files
 import java.nio.file.Path
-import java.util.stream.Collectors
 
 val ROOT = Path.of(".")
 val IGNORED = listOf(File("./subpixel-arrangement/"))
 val LINK_LABEL = "[Wikimedia page]"
 val WIKI_BASE_URL = "https://upload.wikimedia.org/wikipedia/commons/"
 val ANSI_RESET = "\u001B[00m"
-val ANSI_GREEN = "\u001B[32m"
+val ANSI_CYAN = "\u001B[36m"
 val ANSI_RED = "\u001B[31m"
 
 for (readme in readmeFiles()) {
     val vector = findVectorFile(readme)
     val wikiLink = extractWikiLink(readme)
     val wikiVector = loadWikiVector(wikiLink)
-    val areSynced = compare(vector, wikiVector)
-    prettyPrint(vector, areSynced)
+    val areIdentical = compare(vector, wikiVector)
+    prettyPrint(vector, areIdentical)
 }
 
 waitForUserInputToExit()
@@ -30,7 +29,6 @@ fun readmeFiles() = Files
         .map { it.toFile() }
         .filter { it.parentFile !in IGNORED }
         .filter { it.readText().contains(LINK_LABEL) }
-        .collect(Collectors.toList())
 
 fun findVectorFile(readme: File) = readme.parentFile.listFiles().findLast {
     it.name.matches(Regex("""\d+-.*\.svg"""))
@@ -54,9 +52,9 @@ fun createTempFile() = Files.createTempFile(null, null).toFile()
 
 fun String.substringBetween(s1: String, s2: String) = substringAfter(s1).substringBefore(s2)
 
-fun prettyPrint(vector: File, areSynced: Boolean) {
+fun prettyPrint(vector: File, areIdentical: Boolean) {
     val name = vector.parent.removePrefix(".\\").removePrefix("./")
-    val label = if (areSynced) "${ANSI_GREEN}identical" else "${ANSI_RED}different"
+    val label = if (areIdentical) "${ANSI_CYAN}identical" else "${ANSI_RED}different"
     println(String.format("├%-32s┼%9s┤", "─", "─").replace(' ', '─'))
     println(String.format("│%-32s│$label$ANSI_RESET│", name))
 }
