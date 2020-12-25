@@ -21,7 +21,7 @@ for (readme in readmeFiles()) {
     prettyPrint(vector, areIdentical)
 }
 
-waitUntilUserHitsEnter()
+waitForUserInputToExit()
 
 fun readmeFiles() = Files
         .find(ROOT, 2, { it, _ -> it.endsWith("README.md") })
@@ -30,7 +30,7 @@ fun readmeFiles() = Files
         .filter { it.readText().contains(LINK_LABEL) }
 
 fun findVectorFile(readme: File) = readme.parentFile.listFiles().findLast {
-    it.name.matches(Regex("""\d+-.*\.svg"""))
+    it.name.matches(Regex("[1-9]-.+svg"))
 }!!
 
 fun extractWikiLink(readme: File) = URL(readme.readText().substringBetween("$LINK_LABEL(", ")"))
@@ -46,7 +46,7 @@ fun compare(f1: File, f2: File) = f1.readBytes() contentEquals f2.readBytes()
 
 fun createTempFile() = Files.createTempFile(null, null).toFile()
 
-fun waitUntilUserHitsEnter() = System.console()?.readLine()
+fun waitForUserInputToExit() = System.console()?.readLine()
 
 fun String.substringBetween(s1: String, s2: String) = substringAfter(s1).substringBefore(s2)
 
