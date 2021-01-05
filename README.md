@@ -14,15 +14,19 @@ xlink namespace: xmlns:xlink="http://www.w3.org/1999/xlink"
 
 ---
 
-The script can be executed both by simply typing `script.kts` in cmd (which uses the shebang
-to run the script) or associate .kts files with kotlin compiler (kotlinc.bat) and then
-modify `HKEY_CLASSES_ROOT\Applications\kotlinc.bat\shell\open\command` 🡲`(Default)` key
-and add `-script` (to *execute* the script instead of *compiling* it) and
-`-jvm-target 1.8` (if we are using Java features beyond version 1.6; can also be 9, 10, etc.) arguments:
+The script can be executed by:
+  - Linux: making the file executable (giving it *x* permission) and double-clicking or
+    typing `script.kts` in terminal (which when sees the shebang, uses it to run the script)
+  - Windows: associate *.kts* files with kotlin compiler (*kotlinc.bat*) and then
+    modify `HKEY_CLASSES_ROOT\Applications\kotlinc.bat\shell\open\command` 🡲 `(Default)` key
+    and add the arguments `-script` (to *execute* the script instead of *compiling* it) and
+    `-jvm-target 1.8` (if we are using Java features beyond version 1.6; can also be 9, 10, etc.):
 
-    "C:\Program Files\kotlinc\bin\kotlinc.bat" -script -jvm-target 11 "%1"
+    `"C:\Program Files\kotlinc\bin\kotlinc.bat" -script -jvm-target 11 "%1"`
 
-See [this](https://superuser.com/q/361816) for more info
+See [this](https://stackoverflow.com/a/7574585) and [this](https://superuser.com/q/361816) for more info
+
+---
 
 To enable ASCII colors in CMD go to `HKEY_CURRENT_USER\Console\` 🡲 `VirtualTerminalLevel`
 and set its value to `1` (create this key with type *DWORD* if it does not exist)
