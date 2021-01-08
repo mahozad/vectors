@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="128" height="128" version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
   <linearGradient id="g1" x1="72" x2="49" y1="69" y2="46" gradientUnits="userSpaceOnUse">
     <stop stop-color="#ff210c" offset="0"/>
     <stop stop-color="#f54905" offset="1"/>
   </linearGradient>
   <path fill="none" stroke="url(#g1)" stroke-linecap="round" stroke-linejoin="round" stroke-width="6" d="m84 69c0-5.5228 2.4772-8 8-8 5.5228 1e-6 8 2.4772 8 8s-2.4772 8-8 8-8-2.4772-8-8h-12c0 21.411-9 31-17 31-19 0-18-41-5-41 10 0 8 21-7 21-22 0-20.711-52 10-52 7 0 19 5 19 25"/>
-  <circle cx="72" cy="52" r="6" fill="#f50000"/>
+  <circle r="6" fill="#f50000" cx="72" cy="52"/>
 </svg>
