@@ -54,5 +54,5 @@ fun prettyPrint(vector: File, areIdentical: Boolean) {
     val name = vector.parentFile.normalize()
     val label = if (areIdentical) "${ansiCyan}identical" else "${ansiRed}different"
     println(String.format("├%-32s┼%9s┤", "─", "─").replace(' ', '─'))
-    println(String.format("│%-32s│$label$ansiReset│", name))
+    println(String.format("│%-32s│%9s$ansiReset│", name, label))
 }
