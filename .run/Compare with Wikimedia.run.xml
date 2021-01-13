@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Compare with Wikimedia" type="KotlinStandaloneScriptRunConfigurationType">
     <module name="vectors" />
-    <option name="filePath" value="D:\vectors\compare-with-wikimedia.kts" />
+    <option name="filePath" value="D:\vectors\compare-with-wikimedia.main.kts" />
     <option name="vmParameters" value="" />
     <option name="alternativeJrePath" />
     <option name="programParameters" value="-jvm-target 11" />
@@ -15,7 +15,7 @@
     <option name="PASS_PARENT_ENVS" value="true" />
     <option name="MAIN_CLASS_NAME" />
     <option name="WORKING_DIRECTORY" />
-    <option name="filePath" value="D:\vectors\compare-with-wikimedia.kts" />
+    <option name="filePath" value="D:\vectors\compare-with-wikimedia.main.kts" />
     <option name="vmParameters" value="" />
     <option name="alternativeJrePath" />
     <option name="programParameters" value="-jvm-target 11" />
