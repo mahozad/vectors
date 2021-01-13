@@ -5,13 +5,13 @@ import java.net.URL
 import java.nio.file.Files
 import java.nio.file.Path
 
-val ROOT = Path.of(".")
-val IGNORED = listOf(File("./subpixel-arrangement/"))
-val LINK_LABEL = "[Wikimedia page]"
-val WIKI_BASE_URL = "https://upload.wikimedia.org/wikipedia/commons/"
-val ANSI_RESET = "\u001B[00m"
-val ANSI_CYAN = "\u001B[36m"
-val ANSI_RED = "\u001B[31m"
+val root = Path.of(".")
+val ignored = listOf(File("./subpixel-arrangement/"))
+val linkLabel = "[Wikimedia page]"
+val wikiBaseUrl = "https://upload.wikimedia.org/wikipedia/commons/"
+val ansiReset = "\u001B[00m"
+val ansiCyan = "\u001B[36m"
+val ansiRed = "\u001B[31m"
 
 for (readme in readmeFiles()) {
     val vector = findVectorFile(readme)
@@ -24,21 +24,21 @@ for (readme in readmeFiles()) {
 waitForUserInputToExit()
 
 fun readmeFiles() = Files
-        .find(ROOT, 2, { it, _ -> it.endsWith("README.md") })
+        .find(root, 2, { it, _ -> it.endsWith("README.md") })
         .map { it.toFile() }
-        .filter { it.parentFile !in IGNORED }
-        .filter { it.readText().contains(LINK_LABEL) }
+        .filter { it.parentFile !in ignored }
+        .filter { it.readText().contains(linkLabel) }
 
 fun findVectorFile(readme: File) = readme.parentFile.listFiles().findLast {
     it.name.matches(Regex("[1-9]-.+svg"))
 }!!
 
-fun extractWikiLink(readme: File) = URL(readme.readText().substringBetween("$LINK_LABEL(", ")"))
+fun extractWikiLink(readme: File) = URL(readme.readText().substringBetween("$linkLabel(", ")"))
 
 fun loadWikiVector(link: URL): File {
     val page = link.openStream().reader().readText()
-    val path = page.substringBetween("<a href=\"$WIKI_BASE_URL", "\"")
-    val url = URL("$WIKI_BASE_URL$path")
+    val path = page.substringBetween("<a href=\"$wikiBaseUrl", "\"")
+    val url = URL("$wikiBaseUrl$path")
     return createTempFile().apply { writeBytes(url.readBytes()) }
 }
 
@@ -52,7 +52,7 @@ fun String.substringBetween(s1: String, s2: String) = substringAfter(s1).substri
 
 fun prettyPrint(vector: File, areIdentical: Boolean) {
     val name = vector.parentFile.normalize()
-    val label = if (areIdentical) "${ANSI_CYAN}identical" else "${ANSI_RED}different"
+    val label = if (areIdentical) "${ansiCyan}identical" else "${ansiRed}different"
     println(String.format("├%-32s┼%9s┤", "─", "─").replace(' ', '─'))
-    println(String.format("│%-32s│$label$ANSI_RESET│", name))
+    println(String.format("│%-32s│$label$ansiReset│", name))
 }
