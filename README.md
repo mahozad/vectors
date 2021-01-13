@@ -24,6 +24,11 @@ The script can be executed by:
 
     `"C:\Program Files\kotlinc\bin\kotlinc.bat" -script -jvm-target 11 "%1"`
 
+Some notes:
+  - To enable IDEA highlighting the script name should end with `.main.kts`
+  - To prevent false IDEA warnings and errors, set the target language level in
+    `Settings` 🡲 `Build, Execution, Deployment` 🡲 `Kotlin Compiler` 🡲 `Target JVM version`
+
 See [this](https://stackoverflow.com/a/7574585) and [this](https://superuser.com/q/361816) for more info
 
 ---
