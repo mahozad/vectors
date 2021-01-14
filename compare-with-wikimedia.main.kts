@@ -25,7 +25,7 @@ waitForUserInputToExit()
 
 fun readmeFiles() = Files
         .find(root, 2, { it, _ -> it.endsWith("README.md") })
-        .map { it.toFile() }
+        .map(Path::toFile)
         .filter { it.parentFile !in ignored }
         .filter { it.readText().contains(linkLabel) }
 
