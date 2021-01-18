@@ -1,4 +1,6 @@
-#!kotlinc -script -jvm-target 11
+#!path/to/kotlin -some -params
+
+@file:CompilerOptions("-jvm-target", "11")
 
 import java.io.File
 import java.net.URL
