@@ -26,6 +26,8 @@ The script can be executed by:
 
 Some notes:
   - To enable IDEA highlighting the script name should end with `.main.kts`
+  - Starting from 1.3.70, `kotlin` runner supports scripts the same way as
+    `kotlinc -script` combination: `kotlin script.main.kts`
   - To prevent false IDEA warnings and errors, set the target language level in
     `Settings` 🡲 `Build, Execution, Deployment` 🡲 `Kotlin Compiler` 🡲 `Target JVM version`
 
