@@ -9,3 +9,4 @@ The source of the map: [Iran Statistical Center](https://www.amar.org.ir/-%D8%A7
 Maps of Yazd Province can be seen in [this category page](https://commons.wikimedia.org/wiki/Category:Maps_of_Yazd_Province) (of course only files that have the category will appear there so make sure to add appropriate categories for files)
 
 The image map data was created with [this online tool](https://www.image-map.net/) (the commas are replaced with space in the generated code)
+Also see [this StackOverflow post](https://stackoverflow.com/q/6186334)
