@@ -3,6 +3,7 @@
 @file:CompilerOptions("-jvm-target", "11")
 
 import java.io.File
+import java.lang.String.format
 import java.net.URL
 import java.nio.file.Files
 import java.nio.file.Path
@@ -11,6 +12,7 @@ val root = Path.of(".")
 val ignored = listOf(File("./subpixel-arrangement/"))
 val linkLabel = "[Wikimedia page]"
 val wikiBaseUrl = "https://upload.wikimedia.org/wikipedia/commons/"
+val (col1, col2) = Pair(32, 9)
 val ansiReset = "\u001B[00m"
 val ansiCyan = "\u001B[36m"
 val ansiRed = "\u001B[31m"
@@ -55,6 +57,6 @@ fun String.substringBetween(s1: String, s2: String) = substringAfter(s1).substri
 fun prettyPrint(vector: File, areIdentical: Boolean) {
     val name = vector.parentFile.normalize()
     val label = if (areIdentical) "${ansiCyan}identical" else "${ansiRed}different"
-    println(String.format("├%-32s┼%9s┤", "─", "─").replace(' ', '─'))
-    println(String.format("│%-32s│%9s$ansiReset│", name, label))
+    println(format("├%-${col1}s┼%${col2}s┤", "─", "─").replace(' ', '─'))
+    println(format("│%-${col1}s│%${col2}s│", name, label + ansiReset))
 }
