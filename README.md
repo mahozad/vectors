@@ -12,6 +12,8 @@ xlink namespace: xmlns:xlink="http://www.w3.org/1999/xlink"
  - To create an angled object especially if it is composed of multiple sub-objects, it is
    easier to create it in straight horizontal or vertical mode and then rotate it (or the group)
 
+ - To blend color of overlapping object, change the blend mode of the top object (in fill and stroke window)
+
 ---
 
 The script can be executed by:
