@@ -14,6 +14,12 @@ xlink namespace: xmlns:xlink="http://www.w3.org/1999/xlink"
 
  - To blend color of overlapping object, change the blend mode of the top object (in fill and stroke window)
 
+ - To cut an outline of a path *p1* around it in another path *p2*, after duplicating the *p1*,
+   instead of scaling the whole duplicated object add stroke to it and increase its width.
+   Then convert the stroke to path and then do the difference.
+ 
+ - The vector can be scrolled in Chrome by holding the Shift key and dragging the image
+
 ---
 
 The script can be executed by:
