@@ -18,7 +18,10 @@ xlink namespace: xmlns:xlink="http://www.w3.org/1999/xlink"
    instead of scaling the whole duplicated object add stroke to it and increase its width.
    Then convert the stroke to path and then do the difference.
  
- - The vector can be scrolled in Chrome by holding the Shift key and dragging the image
+ - The vector can be scrolled in Chrome by holding the <kbd>Shift</kbd> key and dragging the image
+
+ - For shadow gradients set the end alpha to 0 and make sure that its color is the same as
+   the color of the layer below so the shadow will be smooth.
 
 ---
 

@@ -17,5 +17,5 @@ We can set the rotation center of the `rotate` transform in SVG `transform` elem
 ---
 
 The `ruler` path effect can be used to mark a path (the petal in this vector)
-with equal distances and then using CTRL + SHIFT + k to break apart theme for
+with equal distances and then using <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>k</kbd> to break apart them for
 snapping to work
