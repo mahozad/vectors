@@ -3,7 +3,6 @@
 @file:CompilerOptions("-jvm-target", "11")
 
 import java.io.File
-import java.lang.String.format
 import java.net.URL
 import java.nio.file.Files
 import java.nio.file.Path
@@ -57,6 +56,6 @@ fun String.substringBetween(s1: String, s2: String) = substringAfter(s1).substri
 fun prettyPrint(vector: File, areIdentical: Boolean) {
     val name = vector.parentFile.normalize()
     val label = if (areIdentical) "${ansiCyan}identical" else "${ansiRed}different"
-    println(format("├%-${col1}s┼%${col2}s┤", "─", "─").replace(' ', '─'))
-    println(format("│%-${col1}s│%${col2}s│", name, label + ansiReset))
+    println("├%-${col1}s┼%${col2}s┤".format("─", "─").replace(' ', '─'))
+    println("│%-${col1}s│%${col2}s│".format(name, label + ansiReset))
 }
