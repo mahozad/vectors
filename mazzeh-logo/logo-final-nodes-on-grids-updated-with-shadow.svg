@@ -1,24 +1,25 @@
 <svg version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="icon" sizes="any" type="image/svg+xml" href="data:image/svg+xml;utf8,%3Csvg viewBox='0 0 78 78' xmlns='http://www.w3.org/2000/svg'%3E%3ClinearGradient id='g1' x1='72' x2='49' y1='69' y2='46' gradientTransform='translate(-25,-25)' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%23ff210c' offset='0'/%3E%3Cstop stop-color='%23f54905' offset='1'/%3E%3C/linearGradient%3E%3Cpath d='m59 44c0-5.523 2.477-8 8-8s8 2.477 8 8-2.477 8-8 8-8-2.477-8-8h-12c0 21.411-9 31-17 31-19 0-18-41-5-41 10 0 8 21-7 21-22 0-20.711-52 10-52 7 0 19 5 19 25' fill='none' stroke='url(%23g1)' stroke-linecap='round' stroke-linejoin='round' stroke-width='6'/%3E%3Ccircle cx='47' cy='27' r='6' fill='%23f50000'/%3E%3C/svg%3E%0A"/>
     <linearGradient id="linearGradient862" x1="40.19" x2="40.19" y1="88.329" y2="68.717" gradientTransform="translate(.52002 1.049)" gradientUnits="userSpaceOnUse">
       <stop stop-opacity="0" offset="0"/>
       <stop stop-opacity=".47451" offset=".46403"/>
       <stop stop-opacity="0" offset="1"/>
     </linearGradient>
     <clipPath id="clipPath1029">
-      <path d="m50 56c-2.413 0-4.643 1.023-6.314 2.541-1.672 1.518-2.89 3.486-3.825 5.695-1.868 4.42-2.626 9.895-2.357 15.409 0.269 5.513 1.564 11.064 4.318 15.521 2.755 4.457 7.349 7.824 13.178 7.824a3 3 0 0 0 3-2.996 3 3 0 0 0-3-3c-3.671 0-6.077-1.753-8.072-4.982-1.996-3.23-3.201-7.925-3.432-12.66-0.231-4.736 0.511-9.511 1.893-12.778 0.69-1.633 1.534-2.868 2.332-3.592 0.797-0.724 1.442-0.982 2.279-0.982a3 3 0 0 0 3-3 3 3 0 0 0-3-3z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#0cff11" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+      <path d="m50 56c-2.413 0-4.643 1.023-6.314 2.541-1.672 1.518-2.89 3.486-3.825 5.695-1.868 4.42-2.626 9.895-2.357 15.409 0.269 5.513 1.564 11.064 4.318 15.521 2.755 4.457 7.349 7.824 13.178 7.824a3 3 0 0 0 3-2.996 3 3 0 0 0-3-3c-3.671 0-6.077-1.753-8.072-4.982-1.996-3.23-3.201-7.925-3.432-12.66-0.231-4.736 0.511-9.511 1.893-12.778 0.69-1.633 1.534-2.868 2.332-3.592 0.797-0.724 1.442-0.982 2.279-0.982a3 3 0 0 0 3-3 3 3 0 0 0-3-3z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#0cff11" image-rendering="auto" shape-rendering="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
     </clipPath>
     <linearGradient id="linearGradient1091" x1="72" x2="72" y1="53" y2="41.19" gradientUnits="userSpaceOnUse">
       <stop stop-opacity=".59579" offset="0"/>
       <stop stop-opacity="0" offset="1"/>
     </linearGradient>
     <clipPath id="clipPath1105">
-      <path d="m53 25a3 3 0 0 0-3 3 3 3 0 0 0 3 3c2.786 0 6.805 1.027 10.039 4.156 3.234 3.13 5.961 8.444 5.961 17.844a3 3 0 0 0 3 3 3 3 0 0 0 3-3c0-10.6-3.273-17.786-7.789-22.156-4.516-4.371-9.997-5.844-14.211-5.844z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#linearGradient1109)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+      <path d="m53 25a3 3 0 0 0-3 3 3 3 0 0 0 3 3c2.786 0 6.805 1.027 10.039 4.156 3.234 3.13 5.961 8.444 5.961 17.844a3 3 0 0 0 3 3 3 3 0 0 0 3-3c0-10.6-3.273-17.786-7.789-22.156-4.516-4.371-9.997-5.844-14.211-5.844z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#linearGradient1109)" image-rendering="auto" shape-rendering="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
     </clipPath>
     <linearGradient id="linearGradient1109" x1="72" x2="49" y1="69" y2="46" gradientTransform="translate(0,1.2e-4)" gradientUnits="userSpaceOnUse" xlink:href="#g1"/>
     <linearGradient id="linearGradient1113" x1="72" x2="49" y1="69" y2="46" gradientUnits="userSpaceOnUse" xlink:href="#g1"/>
     <clipPath id="clipPath1297">
-      <path d="m72 66a3 3 0 0 0-3 3 3 3 0 0 0 3 3h12a3 3 0 0 0 3-3 3 3 0 0 0-3-3z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#linearGradient1301)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+      <path d="m72 66a3 3 0 0 0-3 3 3 3 0 0 0 3 3h12a3 3 0 0 0 3-3 3 3 0 0 0-3-3z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#linearGradient1301)" image-rendering="auto" shape-rendering="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
     </clipPath>
     <linearGradient id="linearGradient1301" x1="72" x2="49" y1="69" y2="46" gradientTransform="translate(.003 1e-4)" gradientUnits="userSpaceOnUse" xlink:href="#g1"/>
     <linearGradient id="linearGradient1309" x1="74.069" x2="87" y1="69" y2="69" gradientUnits="userSpaceOnUse">
@@ -26,15 +27,15 @@
       <stop stop-opacity=".57477" offset="1"/>
     </linearGradient>
     <linearGradient id="linearGradient1340" x1="72" x2="49" y1="69" y2="46" gradientTransform="translate(.005)" gradientUnits="userSpaceOnUse" xlink:href="#g1"/>
+    <linearGradient id="g1" x1="72" x2="49" y1="69" y2="46" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff210c" offset="0"/>
+      <stop stop-color="#f54905" offset="1"/>
+    </linearGradient>
   </defs>
-  <linearGradient id="g1" x1="72" x2="49" y1="69" y2="46" gradientUnits="userSpaceOnUse">
-    <stop stop-color="#ff210c" offset="0"/>
-    <stop stop-color="#f54905" offset="1"/>
-  </linearGradient>
   <path d="m84 69h-12c0 21.411-9 31-17 31-19 0-18-41-5-41 10 0 8 21-7 21-22 0-20.711-52 10-52 7 0 19 5 19 25" fill="none" stroke="url(#g1)" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
-  <rect x="71.771" y="61" width="20.229" height="16" clip-path="url(#clipPath1297)" fill="url(#linearGradient1309)" stop-color="#000000"/>
-  <rect x="33.504" y="69.765" width="14.858" height="19.612" clip-path="url(#clipPath1029)" fill="url(#linearGradient862)" stop-color="#000000"/>
-  <rect x="60.137" y="41.119" width="23.192" height="11.881" clip-path="url(#clipPath1105)" fill="url(#linearGradient1091)" stop-color="#000000"/>
+  <rect x="71.771" y="61" width="20.229" height="16" clip-path="url(#clipPath1297)" fill="url(#linearGradient1309)"/>
+  <rect x="33.504" y="69.765" width="14.858" height="19.612" clip-path="url(#clipPath1029)" fill="url(#linearGradient862)"/>
+  <rect x="60.137" y="41.119" width="23.192" height="11.881" clip-path="url(#clipPath1105)" fill="url(#linearGradient1091)"/>
   <path d="m50 59c10 0 8 21-7 21-22 0-20.711-52 10-52" fill="none" stroke="url(#linearGradient1113)" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
   <circle cx="72" cy="52" r="6" fill="#f50000"/>
   <path d="m84 69c0-5.523 2.48-8 8-8 5.53 0 8 2.477 8 8s-2.47 8-8 8c-5.52 0-8-2.477-8-8" fill="none" stroke="url(#linearGradient1340)" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
